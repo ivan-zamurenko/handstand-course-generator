@@ -1302,6 +1302,378 @@
             "category": "Conditioning"
         },
         {
+            "id": "shoulder_shrugs_standing_001",
+            "name": "Shoulder Shrugs (Standing)",
+            "description": "Stand with arms at sides. Elevate shoulders toward ears, hold briefly, then depress. Strengthens upper traps and improves shoulder mobility.",
+            "default_sets": 2,
+            "default_reps": "10 repeats",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "traps",
+                "shoulders",
+                "neck"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "shoulder_shrugs_knees_001",
+            "name": "Shoulder Shrugs (On Knees)",
+            "description": "On hands and knees, perform shoulder elevation and depression while maintaining plank-like position. Builds scapular strength for handstands.",
+            "default_sets": 2,
+            "default_reps": "10 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "scapular stabilizers",
+                "shoulders",
+                "serratus anterior"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "planche_leans_conditioning_001",
+            "name": "Planche Leans",
+            "description": "In plank, lean shoulders forward past wrists as far as possible. Hold and return. Builds straight-arm strength for advanced skills.",
+            "default_sets": 2,
+            "default_reps": "6 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "chest",
+                "core",
+                "anterior deltoids"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "forearm_planche_leans_001",
+            "name": "Forearm Planche Leans",
+            "description": "On forearms in plank, lean forward past elbows. Forearm variation for building strength progressively.",
+            "default_sets": 2,
+            "default_reps": "4 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "chest"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "press_leans_001",
+            "name": "Press Leans",
+            "description": "From pike position, lean shoulders forward over hands. Key exercise for learning press to handstand.",
+            "default_sets": 2,
+            "default_reps": "5 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "scissors_on_back_001",
+            "name": "Scissors (On Back)",
+            "description": "Lie on back with legs raised. Alternate crossing legs in scissor motion. Great for lower abs and hip flexors.",
+            "default_sets": 1,
+            "default_reps": "20 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower abs",
+                "hip flexors",
+                "core"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "flutter_kicks_001",
+            "name": "Flutter Kicks",
+            "description": "Lie on back with legs elevated. Make small alternating kicking motions. Builds lower ab endurance.",
+            "default_sets": 1,
+            "default_reps": "25 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower abs",
+                "hip flexors",
+                "core"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "abs_twists_001",
+            "name": "Abs Twists",
+            "description": "Sit with legs elevated, lean back slightly. Twist torso side to side, touching hands to ground. Works obliques and rotational strength.",
+            "default_sets": 1,
+            "default_reps": "20 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "obliques",
+                "core",
+                "abs"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "fire_hydrant_001",
+            "name": "Fire Hydrant",
+            "description": "On hands and knees, lift one leg out to side while keeping knee bent. Strengthens glutes and hip abductors.",
+            "default_sets": 1,
+            "default_reps": "10 repeats each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "glutes",
+                "hip abductors",
+                "hip stability"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "knee_extensions_001",
+            "name": "Knee Extensions",
+            "description": "Sit with one leg extended, other bent. Lift bent leg and extend knee, then lower. Strengthens quads and improves knee stability.",
+            "default_sets": 1,
+            "default_reps": "15 repeats each leg",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "quads",
+                "hip flexors",
+                "knee stability"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "toe_taps_001",
+            "name": "Toe Taps",
+            "description": "Lie on back with legs in tabletop. Slowly lower and tap one toe to ground, then return. Alternating. Core stability exercise.",
+            "default_sets": 1,
+            "default_reps": "15 repeats each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "core",
+                "lower abs",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "leg_lifts_one_leg_001",
+            "name": "Leg Lifts (One Leg Isolation)",
+            "description": "Lie face down. Lift one leg at a time while keeping it straight. Isolates glutes and hamstrings unilaterally.",
+            "default_sets": 1,
+            "default_reps": "10 repeats each leg",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "glutes",
+                "hamstrings",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "leg_kicks_side_001",
+            "name": "Leg Kicks (Side)",
+            "description": "Stand or lie on side. Kick leg out to side in controlled motion. Strengthens hip abductors and improves lateral stability.",
+            "default_sets": 1,
+            "default_reps": "8 repeats each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "hip abductors",
+                "glutes",
+                "outer thighs"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "leg_kicks_back_001",
+            "name": "Leg Kicks (Back)",
+            "description": "Standing, kick one leg back while maintaining upright posture. Activates glutes and improves balance.",
+            "default_sets": 1,
+            "default_reps": "8 repeats each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "glutes",
+                "hamstrings",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "hollow_body_wall_001",
+            "name": "Hollow Body (Wall)",
+            "description": "Lie on back with arms overhead against wall. Lift shoulders and legs while pressing lower back to floor. Advanced hollow body variation.",
+            "default_sets": 2,
+            "default_reps": "10 seconds",
+            "difficulty": "advanced",
+            "equipment": "wall, yoga mat",
+            "primary_muscle_groups": [
+                "core",
+                "abs",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "bicycle_crunches_001",
+            "name": "Bicycle Crunches",
+            "description": "Lie on back, bring opposite elbow to knee in cycling motion. Excellent for obliques and rotational core strength.",
+            "default_sets": 2,
+            "default_reps": "20 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "obliques",
+                "abs",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "dead_bug_001",
+            "name": "Dead Bug",
+            "description": "Lie on back with arms up and legs in tabletop. Extend opposite arm and leg while keeping core engaged. Great for core stability.",
+            "default_sets": 2,
+            "default_reps": "10 repeats each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "core",
+                "abs",
+                "coordination"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "bird_dog_001",
+            "name": "Bird Dog",
+            "description": "On hands and knees, extend opposite arm and leg. Hold briefly then switch. Builds posterior chain strength and balance.",
+            "default_sets": 2,
+            "default_reps": "10 repeats each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "glutes",
+                "core",
+                "balance"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "scapular_pushups_001",
+            "name": "Scapular Push-ups",
+            "description": "In plank position, protract and retract shoulder blades without bending elbows. Essential for handstand shoulder strength.",
+            "default_sets": 2,
+            "default_reps": "12 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "serratus anterior",
+                "scapular stabilizers",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "arch_body_hold_001",
+            "name": "Arch Body Hold",
+            "description": "Lie face down, lift chest and legs simultaneously creating arch. Opposite of hollow body, strengthens posterior chain.",
+            "default_sets": 2,
+            "default_reps": "20 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "glutes",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "wall_sits_001",
+            "name": "Wall Sits",
+            "description": "Back against wall, slide down to seated position with thighs parallel to ground. Hold. Great for leg endurance.",
+            "default_sets": 2,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "quads",
+                "glutes",
+                "endurance"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "reverse_plank_001",
+            "name": "Reverse Plank",
+            "description": "Sit with legs extended, hands behind. Lift hips to create straight line. Opens chest and strengthens posterior chain.",
+            "default_sets": 2,
+            "default_reps": "20 seconds",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "glutes",
+                "hamstrings",
+                "posterior chain"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "l_sit_progression_001",
+            "name": "L-Sit Progression",
+            "description": "Sit with hands beside hips. Press down to lift hips, extend legs forward. Build towards full L-sit. Excellent gymnastics strength builder.",
+            "default_sets": 2,
+            "default_reps": "10 seconds hold",
+            "difficulty": "intermediate",
+            "equipment": "floor or parallettes",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "abs",
+                "shoulders",
+                "triceps"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
             "id": "stretching_001",
             "name": "Wrist Stretch",
             "description": "A stretch to improve flexibility and prevent injury in the wrists. Extend arm and gently pull fingers back.",
