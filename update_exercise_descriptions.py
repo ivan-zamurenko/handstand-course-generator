@@ -84,10 +84,11 @@ def update_description(exercise):
     print("  1. Enter new description")
     print("  2. Add ⚠️ (needs research)")
     print("  3. Keep current description")
-    print("  4. Skip to next category")
-    print("  5. Save and exit")
+    print("  4. Enter amount of sets/reps")
+    print("  5. Skip to next category")
+    print("  6. Save and exit")
     
-    choice = input(f"\n{Colors.BOLD}Choose option (1-5): {Colors.ENDC}").strip()
+    choice = input(f"\n{Colors.BOLD}Choose option (1-6): {Colors.ENDC}").strip()
     
     if choice == '1':
         print(f"\n{Colors.GREEN}Enter new description (press Enter twice when done):{Colors.ENDC}")
@@ -113,9 +114,12 @@ def update_description(exercise):
         return 'kept'
     
     elif choice == '4':
-        return 'skip_category'
+        return 'changed_sets'
     
     elif choice == '5':
+        return 'skip_category'
+    
+    elif choice == '6':
         return 'exit'
     
     return 'kept'
@@ -141,7 +145,11 @@ def update_sets(exercise):
         if len(parts) == 2:
             try:
                 new_sets = int(parts[0])
-                new_reps = parts[1]
+                if parts[3] == 'seconds':
+                    new_reps = parts[1] + ' seconds'
+                else:
+                    new_reps = parts[1]
+                    
                 exercise['default_sets'] = new_sets
                 exercise['default_reps'] = new_reps
                 return True
@@ -183,6 +191,7 @@ def main():
         'updated': 0,
         'marked': 0,
         'kept': 0,
+        'sets_changed': 0,
         'equipment_updated': 0
     }
     
@@ -226,6 +235,9 @@ def main():
             stats['marked'] += 1
         elif result == 'kept':
             stats['kept'] += 1
+        elif result == 'changed_sets':
+            if update_sets(exercise):
+                stats['sets_changed'] += 1
     
     # Save updated data
     print(f"\n{Colors.GREEN}Saving changes...{Colors.ENDC}")
@@ -236,8 +248,9 @@ def main():
     print_header("Update Summary")
     print(f"{Colors.CYAN}Exercises reviewed:{Colors.ENDC} {stats['reviewed']}")
     print(f"{Colors.GREEN}Descriptions updated:{Colors.ENDC} {stats['updated']}")
-    print(f"{Colors.WARNING}Marked for research (⚠️):{Colors.ENDC} {stats['marked']}")
+    print(f"{Colors.WARNING}Marked for research ⚠️:{Colors.ENDC} {stats['marked']}")
     print(f"{Colors.BLUE}Kept unchanged:{Colors.ENDC} {stats['kept']}")
+    print(f"{Colors.CYAN}Sets/Reps updated:{Colors.ENDC} {stats['sets_changed']}")
     print(f"{Colors.CYAN}Equipment updated:{Colors.ENDC} {stats['equipment_updated']}")
     print(f"\n{Colors.GREEN}{Colors.BOLD}✅ Changes saved to vocabulary.json{Colors.ENDC}\n")
     
