@@ -1,0 +1,112 @@
+{
+    "program_templates": {
+        "beginner_handstand": {
+            "name": "Beginner Handstand Program",
+            "description": "Perfect for those just starting their handstand journey",
+            "sections": {
+                "Warmup": {
+                    "exercise_ids": ["warmup_001", "warmup_002", "warmup_003"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                },
+                "Prehab": {
+                    "exercise_ids": ["prehab_001", "prehab_002"],
+                    "min_exercises": 1,
+                    "max_exercises": 2
+                },
+                "Shoulder Opener": {
+                    "exercise_ids": ["shoulder_001", "shoulder_003"],
+                    "min_exercises": 1,
+                    "max_exercises": 2
+                },
+                "Handstand": {
+                    "exercise_ids": ["handstand_001", "handstand_003"],
+                    "min_exercises": 1,
+                    "max_exercises": 2
+                },
+                "Conditioning": {
+                    "exercise_ids": ["conditioning_001", "conditioning_002", "conditioning_004"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                },
+                "Stretching": {
+                    "exercise_ids": ["stretching_001", "stretching_002", "stretching_003"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                }
+            }
+        },
+        "intermediate_handstand": {
+            "name": "Intermediate Handstand Program",
+            "description": "For those who can hold a wall handstand comfortably",
+            "sections": {
+                "Warmup": {
+                    "exercise_ids": ["warmup_001", "warmup_002", "warmup_003"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                },
+                "Prehab": {
+                    "exercise_ids": ["prehab_001", "prehab_002"],
+                    "min_exercises": 1,
+                    "max_exercises": 2
+                },
+                "Shoulder opener": {
+                    "exercise_ids": ["shoulder_001", "shoulder_002", "shoulder_003"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                },
+                "Handstand": {
+                    "exercise_ids": ["handstand_001", "handstand_002", "handstand_003", "handstand_004"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                },
+                "Conditioning": {
+                    "exercise_ids": ["conditioning_002", "conditioning_003", "conditioning_004"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                },
+                "Stretching": {
+                    "exercise_ids": ["stretching_001", "stretching_002", "stretching_003", "stretching_004"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                }
+            }
+        },
+        "advanced_handstand": {
+            "name": "Advanced Handstand Program",
+            "description": "For advanced practitioners working on free-standing handstands",
+            "sections": {
+                "Warmup": {
+                    "exercise_ids": ["warmup_002", "warmup_003"],
+                    "min_exercises": 2,
+                    "max_exercises": 2
+                },
+                "Prehab": {
+                    "exercise_ids": ["prehab_001", "prehab_002"],
+                    "min_exercises": 1,
+                    "max_exercises": 2
+                },
+                "Shoulder opener": {
+                    "exercise_ids": ["shoulder_002", "shoulder_003"],
+                    "min_exercises": 2,
+                    "max_exercises": 2
+                },
+                "Handstand": {
+                    "exercise_ids": ["handstand_002", "handstand_003", "handstand_004"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                },
+                "Conditioning": {
+                    "exercise_ids": ["conditioning_003", "conditioning_004"],
+                    "min_exercises": 2,
+                    "max_exercises": 2
+                },
+                "Stretching": {
+                    "exercise_ids": ["stretching_001", "stretching_003", "stretching_004"],
+                    "min_exercises": 2,
+                    "max_exercises": 3
+                }
+            }
+        }
+    }
+}
