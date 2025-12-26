@@ -4,8 +4,8 @@
             "id": "jumping_jacks_001",
             "name": "Jumping Jacks",
             "description": "Start standing tall, then jump and spread those legs while throwing your arms overhead! Jump back together and repeat. It's simple, gets your heart pumping, and wakes up your whole body. Let's go!",
-            "default_sets": 3,
-            "default_reps": "30 seconds",
+            "default_sets": 1,
+            "default_reps": "45 seconds",
             "difficulty": "beginner",
             "equipment": "none",
             "primary_muscle_groups": [
@@ -19,7 +19,7 @@
             "id": "high_knees_001",
             "name": "High Knees",
             "description": "Run in place, but make it count! Drive those knees up high toward your chest, like you're trying to knee yourself in the face. Keep a steady rhythm and feel your heart rate climb!",
-            "default_sets": 3,
+            "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
             "equipment": "none",
@@ -177,7 +177,7 @@
         },
         {
             "id": "releve_001",
-            "name": "Relev\u00e9",
+            "name": "Relevé",
             "description": "Rise up on your tippy-toes as high as you can! Hold for a second at the top, feel those calves working. This builds ankle strength and stability - super important for handstands!",
             "default_sets": 1,
             "default_reps": "15 repeats",
@@ -273,7 +273,7 @@
         },
         {
             "id": "deep_plie_001",
-            "name": "Deep Pli\u00e9",
+            "name": "Deep Plié",
             "description": "Stand with feet wide, toes turned out. Drop down into a deep squat, keeping your chest lifted. Feel it in those inner thighs and glutes. Dancers do these for a reason - they work!",
             "default_sets": 1,
             "default_reps": "8 repeats",
