@@ -8,8 +8,12 @@
             "default_reps": "30 seconds",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["full body", "cardiovascular"],
-            "image": null
+            "primary_muscle_groups": [
+                "full body",
+                "cardiovascular"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "high_knees_001",
@@ -19,8 +23,12 @@
             "default_reps": "30 seconds",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["legs", "cardiovascular"],
-            "image": null
+            "primary_muscle_groups": [
+                "legs",
+                "cardiovascular"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "arm_circles_001",
@@ -30,8 +38,12 @@
             "default_reps": "10 repeats",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["shoulders", "deltoids"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders",
+                "deltoids"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "butt_kicks_001",
@@ -41,8 +53,13 @@
             "default_reps": "45 seconds",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["hamstrings", "glutes", "cardiovascular"],
-            "image": null
+            "primary_muscle_groups": [
+                "hamstrings",
+                "glutes",
+                "cardiovascular"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "mountain_climbers_001",
@@ -52,8 +69,14 @@
             "default_reps": "45 seconds",
             "difficulty": "intermediate",
             "equipment": "none",
-            "primary_muscle_groups": ["core", "shoulders", "hip flexors", "cardiovascular"],
-            "image": null
+            "primary_muscle_groups": [
+                "core",
+                "shoulders",
+                "hip flexors",
+                "cardiovascular"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "windmill_001",
@@ -63,8 +86,14 @@
             "default_reps": "10 repeats",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["obliques", "hamstrings", "shoulders", "spine mobility"],
-            "image": null
+            "primary_muscle_groups": [
+                "obliques",
+                "hamstrings",
+                "shoulders",
+                "spine mobility"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "hip_circles_001",
@@ -74,8 +103,13 @@
             "default_reps": "10 repeats",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["hip flexors", "glutes", "hip mobility"],
-            "image": null
+            "primary_muscle_groups": [
+                "hip flexors",
+                "glutes",
+                "hip mobility"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "half_middle_split_001",
@@ -85,8 +119,13 @@
             "default_reps": "10 repeats",
             "difficulty": "intermediate",
             "equipment": "none",
-            "primary_muscle_groups": ["adductors", "hip flexors", "quads"],
-            "image": null
+            "primary_muscle_groups": [
+                "adductors",
+                "hip flexors",
+                "quads"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "walking_pike_001",
@@ -96,8 +135,13 @@
             "default_reps": "20 repeats",
             "difficulty": "intermediate",
             "equipment": "none",
-            "primary_muscle_groups": ["hamstrings", "shoulders", "calves"],
-            "image": null
+            "primary_muscle_groups": [
+                "hamstrings",
+                "shoulders",
+                "calves"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "core_engagements_floor_001",
@@ -107,8 +151,13 @@
             "default_reps": "4 repeats",
             "difficulty": "intermediate",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["core", "abs", "hip flexors"],
-            "image": null
+            "primary_muscle_groups": [
+                "core",
+                "abs",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "squats_001",
@@ -118,19 +167,28 @@
             "default_reps": "20 repeats",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["quads", "glutes", "hamstrings"],
-            "image": null
+            "primary_muscle_groups": [
+                "quads",
+                "glutes",
+                "hamstrings"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "releve_001",
-            "name": "Relevé",
+            "name": "Relev\u00e9",
             "description": "Rise up onto the balls of your feet, lifting heels as high as possible. Strengthens calves and improves ankle stability.",
             "default_sets": 1,
             "default_reps": "15 repeats",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["calves", "ankles"],
-            "image": null
+            "primary_muscle_groups": [
+                "calves",
+                "ankles"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "half_wood_chopper_001",
@@ -140,8 +198,13 @@
             "default_reps": "10 repeats",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["obliques", "core", "shoulders"],
-            "image": null
+            "primary_muscle_groups": [
+                "obliques",
+                "core",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "hand_kicks_001",
@@ -151,8 +214,13 @@
             "default_reps": "20 repeats",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["hamstrings", "hip flexors", "coordination"],
-            "image": null
+            "primary_muscle_groups": [
+                "hamstrings",
+                "hip flexors",
+                "coordination"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "hamstring_stretch_001",
@@ -162,8 +230,12 @@
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["hamstrings", "calves"],
-            "image": null
+            "primary_muscle_groups": [
+                "hamstrings",
+                "calves"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "lunge_step_001",
@@ -173,8 +245,14 @@
             "default_reps": "15 repeats",
             "difficulty": "intermediate",
             "equipment": "none",
-            "primary_muscle_groups": ["quads", "glutes", "hip flexors", "coordination"],
-            "image": null
+            "primary_muscle_groups": [
+                "quads",
+                "glutes",
+                "hip flexors",
+                "coordination"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "plank_skiing_001",
@@ -184,19 +262,30 @@
             "default_reps": "30 seconds",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["core", "obliques", "shoulders", "cardiovascular"],
-            "image": null
+            "primary_muscle_groups": [
+                "core",
+                "obliques",
+                "shoulders",
+                "cardiovascular"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "deep_plie_001",
-            "name": "Deep Plié",
+            "name": "Deep Pli\u00e9",
             "description": "Stand with feet wide and toes turned out. Lower down into a deep squat, keeping chest lifted. Targets inner thighs and glutes.",
             "default_sets": 1,
             "default_reps": "8 repeats",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["adductors", "glutes", "quads"],
-            "image": null
+            "primary_muscle_groups": [
+                "adductors",
+                "glutes",
+                "quads"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "half_split_push_outs_001",
@@ -206,8 +295,12 @@
             "default_reps": "30 seconds",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["hamstrings", "hip flexors"],
-            "image": null
+            "primary_muscle_groups": [
+                "hamstrings",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "assisted_pike_stretch_001",
@@ -217,8 +310,12 @@
             "default_reps": "30 seconds each side",
             "difficulty": "intermediate",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["hamstrings", "lower back"],
-            "image": null
+            "primary_muscle_groups": [
+                "hamstrings",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "leg_swings_001",
@@ -228,8 +325,13 @@
             "default_reps": "8 repeats each leg",
             "difficulty": "beginner",
             "equipment": "wall or bar",
-            "primary_muscle_groups": ["hip flexors", "hamstrings", "glutes"],
-            "image": null
+            "primary_muscle_groups": [
+                "hip flexors",
+                "hamstrings",
+                "glutes"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "burpee_001",
@@ -239,8 +341,14 @@
             "default_reps": "45 seconds",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["full body", "cardiovascular", "chest", "legs"],
-            "image": null
+            "primary_muscle_groups": [
+                "full body",
+                "cardiovascular",
+                "chest",
+                "legs"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "rocking_boat_001",
@@ -250,8 +358,13 @@
             "default_reps": "20 seconds",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["core", "hip flexors", "balance"],
-            "image": null
+            "primary_muscle_groups": [
+                "core",
+                "hip flexors",
+                "balance"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "seated_hip_rotations_001",
@@ -261,8 +374,13 @@
             "default_reps": "10 repeats",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["hip mobility", "lower back", "glutes"],
-            "image": null
+            "primary_muscle_groups": [
+                "hip mobility",
+                "lower back",
+                "glutes"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "runners_stretch_001",
@@ -272,8 +390,13 @@
             "default_reps": "8 repeats each side",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["hip flexors", "quads", "hamstrings"],
-            "image": null
+            "primary_muscle_groups": [
+                "hip flexors",
+                "quads",
+                "hamstrings"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "core_engagements_tuck_001",
@@ -283,8 +406,13 @@
             "default_reps": "4 repeats",
             "difficulty": "advanced",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["core", "hip flexors", "abs"],
-            "image": null
+            "primary_muscle_groups": [
+                "core",
+                "hip flexors",
+                "abs"
+            ],
+            "image": null,
+            "category": "Warmup"
         },
         {
             "id": "prehab_001",
@@ -294,19 +422,326 @@
             "default_reps": "10 reps",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["spine", "core"],
-            "image": null
+            "primary_muscle_groups": [
+                "spine",
+                "core"
+            ],
+            "image": null,
+            "category": "Prehab"
         },
         {
-            "id": "prehab_002",
+            "id": "wrist_rotations_001",
             "name": "Wrist Rotations",
             "description": "Rotate wrists in both directions to prepare them for weight-bearing exercises.",
             "default_sets": 2,
             "default_reps": "10 rotations each direction",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["wrists"],
-            "image": null
+            "primary_muscle_groups": [
+                "wrists"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "elbow_lifts_001",
+            "name": "Elbow Lifts",
+            "description": "Lie face down with hands behind head. Lift elbows off the ground while squeezing shoulder blades together. Strengthens upper back and rear deltoids.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "upper back",
+                "rear deltoids",
+                "rhomboids"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "forehead_to_w_001",
+            "name": "Forehead to W",
+            "description": "Lie face down with forehead on ground. Lift arms from overhead position to a W shape while engaging upper back muscles. Great for scapular control.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "upper back",
+                "shoulders",
+                "scapular stabilizers"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "back_extensions_001",
+            "name": "Back Extensions",
+            "description": "Lie face down, lift chest and shoulders off the ground while keeping hips down. Strengthens lower back and spinal erectors.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "spinal erectors",
+                "glutes"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "hip_bridges_001",
+            "name": "Hip Bridges",
+            "description": "Lie on back with knees bent. Lift hips up, creating a straight line from shoulders to knees. Activates glutes and hamstrings.",
+            "default_sets": 1,
+            "default_reps": "10 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "glutes",
+                "hamstrings",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "hip_bridges_single_leg_001",
+            "name": "Hip Bridges (with 1 leg)",
+            "description": "Perform hip bridge with one leg extended. More challenging variation that increases glute activation on the working side.",
+            "default_sets": 1,
+            "default_reps": "5 repeats each leg",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "glutes",
+                "hamstrings",
+                "core stability"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "open_close_wrists_001",
+            "name": "Open & Close Wrists",
+            "description": "Make a fist then spread fingers wide repeatedly. Warms up wrist flexors and extensors for handstand work.",
+            "default_sets": 1,
+            "default_reps": "10 repeats",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms",
+                "finger flexors"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "prayer_pose_001",
+            "name": "Prayer Pose",
+            "description": "Press palms together in front of chest. Push hands down while keeping palms together to stretch wrist flexors.",
+            "default_sets": 1,
+            "default_reps": "10 repeats",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "prayer_pose_reverse_001",
+            "name": "Prayer Pose (Reverse)",
+            "description": "Press backs of hands together with fingers pointing down. Stretch wrist extensors by pushing hands up.",
+            "default_sets": 1,
+            "default_reps": "10 repeats",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "straight_to_w_001",
+            "name": "Straight to W",
+            "description": "Lie face down with arms straight overhead. Lift arms and pull them down to W position. Builds shoulder and upper back strength.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "upper back",
+                "shoulders",
+                "traps"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "prone_ys_001",
+            "name": "Prone Y's",
+            "description": "Lie face down with arms in Y position overhead. Lift arms off ground while engaging upper back. Strengthens scapular stabilizers.",
+            "default_sets": 1,
+            "default_reps": "8 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "upper back",
+                "shoulders",
+                "lower traps"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "superman_001",
+            "name": "Superman",
+            "description": "Lie face down, simultaneously lift arms and legs off ground. Hold briefly then lower. Strengthens entire posterior chain.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "glutes",
+                "upper back",
+                "posterior chain"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "wrist_mobilization_001",
+            "name": "Wrist Mobilization",
+            "description": "Make circles with wrists in both directions. Can be done with hands in prayer position or arms extended. Prepares wrists for load.",
+            "default_sets": 1,
+            "default_reps": "10 circles each direction",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "ytw_001",
+            "name": "Y-T-W",
+            "description": "Lie face down. Lift arms in Y position, then T position, then W position in sequence. Advanced upper back and shoulder control exercise.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "advanced",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "upper back",
+                "shoulders",
+                "scapular stabilizers",
+                "rotator cuff"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "leg_lifts_together_separate_001",
+            "name": "Leg Lifts (Together & Separate)",
+            "description": "Lie face down. Lift both legs together, then lift them separately alternating. Strengthens glutes and lower back with variation.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "glutes",
+                "lower back",
+                "hamstrings"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "up_down_waving_001",
+            "name": "Up & Down Waving",
+            "description": "On hands and knees, rock weight forward and back over wrists in a waving motion. Builds wrist strength and mobility.",
+            "default_sets": 1,
+            "default_reps": "10 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "side_waving_001",
+            "name": "Side Waving",
+            "description": "On hands and knees, rock weight side to side over wrists. Prepares wrists for lateral forces in handstands.",
+            "default_sets": 1,
+            "default_reps": "10 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "wrist_walks_001",
+            "name": "Wrist Walks",
+            "description": "On hands and knees, walk hands in small circles. Mobilizes wrists in all directions and builds strength.",
+            "default_sets": 1,
+            "default_reps": "5 circles each direction",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "finger_stretch_001",
+            "name": "Finger Stretch",
+            "description": "Press fingers back gently to stretch finger flexors and forearms. Hold each stretch. Important for preventing finger strain.",
+            "default_sets": 3,
+            "default_reps": "10 seconds each finger",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "fingers",
+                "forearms",
+                "wrists"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "wrist_mobilization_all_directions_001",
+            "name": "Wrist Mobilization (All Directions)",
+            "description": "Systematically move wrists through all planes of motion - flexion, extension, radial/ulnar deviation, and circles. Complete wrist prep.",
+            "default_sets": 1,
+            "default_reps": "10 repeats each direction",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms"
+            ],
+            "image": null,
+            "category": "Prehab"
         },
         {
             "id": "shoulder_001",
@@ -316,8 +751,12 @@
             "default_reps": "12 reps",
             "difficulty": "beginner",
             "equipment": "wall",
-            "primary_muscle_groups": ["shoulders", "upper back"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
         },
         {
             "id": "shoulder_002",
@@ -327,8 +766,11 @@
             "default_reps": "10 reps",
             "difficulty": "intermediate",
             "equipment": "resistance band or stick",
-            "primary_muscle_groups": ["shoulders"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
         },
         {
             "id": "shoulder_003",
@@ -338,8 +780,12 @@
             "default_reps": "15 reps",
             "difficulty": "beginner",
             "equipment": "resistance band",
-            "primary_muscle_groups": ["shoulders", "upper back"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
         },
         {
             "id": "handstand_001",
@@ -349,8 +795,13 @@
             "default_reps": "30-60 seconds",
             "difficulty": "intermediate",
             "equipment": "wall",
-            "primary_muscle_groups": ["shoulders", "core", "arms"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "arms"
+            ],
+            "image": null,
+            "category": "Handstand"
         },
         {
             "id": "handstand_002",
@@ -360,8 +811,12 @@
             "default_reps": "8-12 taps",
             "difficulty": "advanced",
             "equipment": "wall",
-            "primary_muscle_groups": ["shoulders", "core"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders",
+                "core"
+            ],
+            "image": null,
+            "category": "Handstand"
         },
         {
             "id": "handstand_003",
@@ -371,8 +826,13 @@
             "default_reps": "30-45 seconds",
             "difficulty": "intermediate",
             "equipment": "wall",
-            "primary_muscle_groups": ["shoulders", "core", "balance"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
         },
         {
             "id": "handstand_004",
@@ -382,8 +842,13 @@
             "default_reps": "6-8 steps each direction",
             "difficulty": "advanced",
             "equipment": "wall",
-            "primary_muscle_groups": ["shoulders", "core", "coordination"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "coordination"
+            ],
+            "image": null,
+            "category": "Handstand"
         },
         {
             "id": "conditioning_001",
@@ -393,8 +858,12 @@
             "default_reps": "60 seconds",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["core", "shoulders"],
-            "image": null
+            "primary_muscle_groups": [
+                "core",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Conditioning"
         },
         {
             "id": "conditioning_002",
@@ -404,8 +873,13 @@
             "default_reps": "10-15 reps",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["chest", "shoulders", "triceps"],
-            "image": null
+            "primary_muscle_groups": [
+                "chest",
+                "shoulders",
+                "triceps"
+            ],
+            "image": null,
+            "category": "Conditioning"
         },
         {
             "id": "conditioning_003",
@@ -415,8 +889,12 @@
             "default_reps": "8-12 reps",
             "difficulty": "intermediate",
             "equipment": "none",
-            "primary_muscle_groups": ["shoulders", "triceps"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders",
+                "triceps"
+            ],
+            "image": null,
+            "category": "Conditioning"
         },
         {
             "id": "conditioning_004",
@@ -426,8 +904,11 @@
             "default_reps": "30-45 seconds",
             "difficulty": "intermediate",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["core"],
-            "image": null
+            "primary_muscle_groups": [
+                "core"
+            ],
+            "image": null,
+            "category": "Conditioning"
         },
         {
             "id": "stretching_001",
@@ -437,8 +918,12 @@
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["wrists", "forearms"],
-            "image": null
+            "primary_muscle_groups": [
+                "wrists",
+                "forearms"
+            ],
+            "image": null,
+            "category": "Stretching"
         },
         {
             "id": "stretching_002",
@@ -448,8 +933,11 @@
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
             "equipment": "none",
-            "primary_muscle_groups": ["shoulders"],
-            "image": null
+            "primary_muscle_groups": [
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Stretching"
         },
         {
             "id": "stretching_003",
@@ -459,8 +947,13 @@
             "default_reps": "60-90 seconds",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["back", "shoulders", "hips"],
-            "image": null
+            "primary_muscle_groups": [
+                "back",
+                "shoulders",
+                "hips"
+            ],
+            "image": null,
+            "category": "Stretching"
         },
         {
             "id": "stretching_004",
@@ -470,8 +963,13 @@
             "default_reps": "30 seconds",
             "difficulty": "beginner",
             "equipment": "yoga mat",
-            "primary_muscle_groups": ["spine", "shoulders", "hips"],
-            "image": null
+            "primary_muscle_groups": [
+                "spine",
+                "shoulders",
+                "hips"
+            ],
+            "image": null,
+            "category": "Stretching"
         }
     ]
 }

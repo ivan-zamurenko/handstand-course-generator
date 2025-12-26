@@ -3,7 +3,7 @@ from typing import List, Dict, Optional
 
 class Exercise:
     def __init__(self, name: str, description: str, sets: int, reps: str, 
-                 exercise_id: str = None, difficulty: str = None, 
+                 exercise_id: str = None, category: str = None, difficulty: str = None, 
                  equipment: str = None, primary_muscle_groups: List[str] = None, 
                  image: str = None):
         self.exercise_id = exercise_id
@@ -11,6 +11,7 @@ class Exercise:
         self.description = description
         self.sets = sets
         self.reps = reps
+        self.category = category
         self.difficulty = difficulty
         self.equipment = equipment
         self.primary_muscle_groups = primary_muscle_groups or []
@@ -23,6 +24,7 @@ class Exercise:
             "description": self.description,
             "sets": self.sets,
             "reps": self.reps,
+            "category": self.category,
             "difficulty": self.difficulty,
             "equipment": self.equipment,
             "primary_muscle_groups": self.primary_muscle_groups,
