@@ -415,6 +415,183 @@
             "category": "Warmup"
         },
         {
+            "id": "lateral_leg_swings_001",
+            "name": "Lateral Leg Swings",
+            "description": "Hold wall for support. Swing leg side to side across body. Opens hip abductors and adductors.",
+            "default_sets": 1,
+            "default_reps": "10 swings each leg",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "hip abductors",
+                "hip adductors",
+                "hip mobility"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "trunk_twists_001",
+            "name": "Trunk Twists",
+            "description": "Stand with hands behind head. Rotate torso side to side. Warms up obliques and spine.",
+            "default_sets": 1,
+            "default_reps": "15 twists",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "obliques",
+                "core",
+                "spine rotation"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "shoulder_rolls_001",
+            "name": "Shoulder Rolls",
+            "description": "Roll shoulders forward and backward in large circles. Mobilizes shoulder girdle.",
+            "default_sets": 1,
+            "default_reps": "10 rolls each direction",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "upper back",
+                "traps"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "ankle_bounces_001",
+            "name": "Ankle Bounces",
+            "description": "Bounce on balls of feet rapidly. Warms up calves and ankles for explosive movements.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "calves",
+                "ankles",
+                "feet"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "bear_crawl_forward_001",
+            "name": "Bear Crawl (Forward)",
+            "description": "Crawl on hands and feet with knees off ground. Full-body movement pattern warming all muscles.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "full body",
+                "core",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "inchworms_001",
+            "name": "Inchworms",
+            "description": "Bend down, walk hands out to plank, then walk feet to hands. Excellent dynamic full-body warm-up.",
+            "default_sets": 1,
+            "default_reps": "8 reps",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "hamstrings",
+                "shoulders",
+                "core"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "jumping_lunges_001",
+            "name": "Jumping Lunges",
+            "description": "From lunge position, explosively jump and switch legs mid-air. High-intensity leg warm-up.",
+            "default_sets": 1,
+            "default_reps": "12 jumps",
+            "difficulty": "intermediate",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "quads",
+                "glutes",
+                "explosive power"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "side_shuffles_001",
+            "name": "Side Shuffles",
+            "description": "Shuffle laterally with athletic stance. Warms up lateral movement patterns and inner/outer thighs.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "legs",
+                "hip abductors",
+                "cardiovascular"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "spinal_waves_001",
+            "name": "Spinal Waves",
+            "description": "Stand and create wave motion through spine from neck to tailbone. Mobilizes entire spine.",
+            "default_sets": 1,
+            "default_reps": "8 waves",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "spine",
+                "core",
+                "back"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "toy_soldiers_001",
+            "name": "Toy Soldiers",
+            "description": "Walk forward kicking straight leg up to opposite outstretched hand. Dynamic hamstring warm-up.",
+            "default_sets": 1,
+            "default_reps": "10 kicks each leg",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "hamstrings",
+                "hip flexors",
+                "balance"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
+            "id": "world_greatest_stretch_001",
+            "name": "World's Greatest Stretch",
+            "description": "Low lunge with rotation and reach. Opens hips, hamstrings, thoracic spine in one movement.",
+            "default_sets": 1,
+            "default_reps": "5 reps each side",
+            "difficulty": "intermediate",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "hamstrings",
+                "thoracic spine",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Warmup"
+        },
+        {
             "id": "prehab_001",
             "name": "Cat-Cow Stretch",
             "description": "A gentle stretch to warm up the spine. On hands and knees, alternate between arching back (cow) and rounding spine (cat).",
@@ -739,6 +916,246 @@
             "primary_muscle_groups": [
                 "wrists",
                 "forearms"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "clamshells_001",
+            "name": "Clamshells",
+            "description": "Lie on side with knees bent. Keep feet together, lift top knee up. Activates hip external rotators and glute medius.",
+            "default_sets": 2,
+            "default_reps": "12 reps each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hip external rotators",
+                "glute medius",
+                "hip stability"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "quadruped_fire_hydrants_001",
+            "name": "Quadruped Fire Hydrants",
+            "description": "On hands and knees, lift one leg out to side with knee bent. Strengthens hip abductors and improves hip stability.",
+            "default_sets": 2,
+            "default_reps": "10 reps each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hip abductors",
+                "glutes",
+                "hip stability"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "ankle_dorsiflexion_001",
+            "name": "Ankle Dorsiflexion",
+            "description": "Stand facing wall, knee drives forward over toes. Improves ankle mobility for squatting and landing.",
+            "default_sets": 2,
+            "default_reps": "10 reps each ankle",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "ankles",
+                "tibialis anterior",
+                "calves"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "banded_pull_aparts_001",
+            "name": "Banded Pull-Aparts",
+            "description": "Hold band at chest level, pull apart engaging upper back. Strengthens scapular retractors and rear delts.",
+            "default_sets": 2,
+            "default_reps": "15 reps",
+            "difficulty": "beginner",
+            "equipment": "resistance band",
+            "primary_muscle_groups": [
+                "upper back",
+                "rear deltoids",
+                "rhomboids"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "face_pulls_band_001",
+            "name": "Face Pulls (Band)",
+            "description": "Pull band to face level with elbows high. Excellent for shoulder health and upper back strength.",
+            "default_sets": 2,
+            "default_reps": "12 reps",
+            "difficulty": "beginner",
+            "equipment": "resistance band",
+            "primary_muscle_groups": [
+                "rear deltoids",
+                "upper back",
+                "rotator cuff"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "external_rotation_band_001",
+            "name": "External Rotation (Band)",
+            "description": "Elbow at 90 degrees by side, rotate forearm out against band resistance. Strengthens rotator cuff.",
+            "default_sets": 2,
+            "default_reps": "12 reps each arm",
+            "difficulty": "beginner",
+            "equipment": "resistance band",
+            "primary_muscle_groups": [
+                "rotator cuff",
+                "shoulders",
+                "infraspinatus"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "internal_rotation_band_001",
+            "name": "Internal Rotation (Band)",
+            "description": "Elbow at 90 degrees by side, rotate forearm in against band resistance. Balances rotator cuff strength.",
+            "default_sets": 2,
+            "default_reps": "12 reps each arm",
+            "difficulty": "beginner",
+            "equipment": "resistance band",
+            "primary_muscle_groups": [
+                "rotator cuff",
+                "shoulders",
+                "subscapularis"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "serratus_wall_slides_001",
+            "name": "Serratus Wall Slides",
+            "description": "Face wall, hands on wall. Push body away by protracting shoulders. Targets serratus anterior for scapular health.",
+            "default_sets": 2,
+            "default_reps": "10 reps",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "serratus anterior",
+                "scapular stabilizers"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "towel_scrunches_001",
+            "name": "Towel Scrunches",
+            "description": "Place towel on floor. Use toes to scrunch towel toward you. Strengthens foot intrinsic muscles and arches.",
+            "default_sets": 2,
+            "default_reps": "10 scrunches each foot",
+            "difficulty": "beginner",
+            "equipment": "towel",
+            "primary_muscle_groups": [
+                "feet",
+                "arches",
+                "intrinsic foot muscles"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "single_leg_balance_001",
+            "name": "Single Leg Balance",
+            "description": "Stand on one leg, maintain balance for time. Improves ankle stability and proprioception.",
+            "default_sets": 2,
+            "default_reps": "30 seconds each leg",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "ankles",
+                "balance",
+                "proprioception"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "scapular_retractions_001",
+            "name": "Scapular Retractions",
+            "description": "Squeeze shoulder blades together, hold, release. Fundamental exercise for shoulder health and posture.",
+            "default_sets": 2,
+            "default_reps": "15 reps",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "rhomboids",
+                "mid traps",
+                "scapular stabilizers"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "prone_swimmers_001",
+            "name": "Prone Swimmers",
+            "description": "Lie face down, alternate lifting opposite arm and leg in swimming motion. Great for posterior chain coordination.",
+            "default_sets": 2,
+            "default_reps": "20 reps",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "glutes",
+                "upper back",
+                "coordination"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "wall_ankle_mobility_001",
+            "name": "Wall Ankle Mobility",
+            "description": "Knee-to-wall drill. Gradually increase distance from wall to improve ankle dorsiflexion range.",
+            "default_sets": 2,
+            "default_reps": "10 reps each leg",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "ankles",
+                "calves",
+                "mobility"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "copenhagen_plank_001",
+            "name": "Copenhagen Plank",
+            "description": "Side plank with top leg elevated on bench. Advanced exercise for hip adductor strength and injury prevention.",
+            "default_sets": 2,
+            "default_reps": "15 seconds each side",
+            "difficulty": "advanced",
+            "equipment": "bench or chair",
+            "primary_muscle_groups": [
+                "hip adductors",
+                "core",
+                "obliques"
+            ],
+            "image": null,
+            "category": "Prehab"
+        },
+        {
+            "id": "glute_bridges_marching_001",
+            "name": "Glute Bridges (Marching)",
+            "description": "In bridge position, alternately lift feet off ground. Challenges glute stability unilaterally.",
+            "default_sets": 2,
+            "default_reps": "10 reps each leg",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "glutes",
+                "hamstrings",
+                "core stability"
             ],
             "image": null,
             "category": "Prehab"
@@ -1271,6 +1688,70 @@
                 "shoulders",
                 "scapular stabilizers",
                 "traps"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "doorway_stretch_001",
+            "name": "Doorway Stretch",
+            "description": "Stand in doorway, hands on frame. Step forward to stretch chest and anterior shoulders. Classic doorway opener.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "doorway",
+            "primary_muscle_groups": [
+                "chest",
+                "anterior deltoids",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "shoulder_pass_throughs_001",
+            "name": "Shoulder Pass-Throughs (PVC/Band)",
+            "description": "Hold PVC pipe or band with wide grip. Pass it overhead and behind body in circular motion. Excellent mobility drill.",
+            "default_sets": 2,
+            "default_reps": "10 pass-throughs",
+            "difficulty": "beginner",
+            "equipment": "PVC pipe or band",
+            "primary_muscle_groups": [
+                "shoulders",
+                "chest",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "eagle_arms_001",
+            "name": "Eagle Arms",
+            "description": "Cross arms and wrap forearms, press elbows up. Yoga pose that opens upper back and shoulders.",
+            "default_sets": 1,
+            "default_reps": "20 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "upper back",
+                "shoulders",
+                "scapular muscles"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "cow_face_arms_001",
+            "name": "Cow Face Arms",
+            "description": "One arm overhead bent behind, other behind back bent up. Try to clasp hands. Use strap if needed.",
+            "default_sets": 1,
+            "default_reps": "20 seconds each side",
+            "difficulty": "intermediate",
+            "equipment": "strap optional",
+            "primary_muscle_groups": [
+                "shoulders",
+                "triceps",
+                "chest"
             ],
             "image": null,
             "category": "Shoulder opener"
@@ -2445,6 +2926,150 @@
             "category": "Conditioning"
         },
         {
+            "id": "mountain_climbers_slow_001",
+            "name": "Mountain Climbers (Slow)",
+            "description": "Slow, controlled mountain climbers focusing on core engagement. More emphasis on strength than cardio.",
+            "default_sets": 2,
+            "default_reps": "15 reps each leg",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "core",
+                "hip flexors",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "side_plank_001",
+            "name": "Side Plank",
+            "description": "Balance on one forearm and side of feet. Hold straight line. Targets obliques and lateral core stability.",
+            "default_sets": 2,
+            "default_reps": "20-30 seconds each side",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "obliques",
+                "core",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "side_plank_hip_dips_001",
+            "name": "Side Plank Hip Dips",
+            "description": "In side plank, lower hip toward ground then lift back up. Dynamic oblique strengthener.",
+            "default_sets": 2,
+            "default_reps": "10 dips each side",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "obliques",
+                "core",
+                "quadratus lumborum"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "plank_to_downdog_001",
+            "name": "Plank to Down Dog",
+            "description": "Flow between plank and downward dog. Dynamic movement building shoulder and core strength.",
+            "default_sets": 2,
+            "default_reps": "10 transitions",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hamstrings"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "plank_shoulder_taps_001",
+            "name": "Plank Shoulder Taps",
+            "description": "In plank, alternately tap shoulders with opposite hand. Anti-rotation core exercise.",
+            "default_sets": 2,
+            "default_reps": "16 taps total",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "core",
+                "shoulders",
+                "anti-rotation"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "hollow_rocks_001",
+            "name": "Hollow Rocks",
+            "description": "In hollow body position, rock back and forth. Advanced core exercise for gymnastics.",
+            "default_sets": 2,
+            "default_reps": "20 rocks",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "core",
+                "abs",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "v_ups_001",
+            "name": "V-Ups",
+            "description": "Lie flat, simultaneously lift legs and torso to touch toes. Advanced ab exercise.",
+            "default_sets": 2,
+            "default_reps": "10 reps",
+            "difficulty": "advanced",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "abs",
+                "hip flexors",
+                "core"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "russian_twists_001",
+            "name": "Russian Twists",
+            "description": "Sit with feet elevated, lean back. Twist torso side to side. Works obliques and rotational power.",
+            "default_sets": 2,
+            "default_reps": "20 twists",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "obliques",
+                "core",
+                "rotation"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
+            "id": "diamond_pushups_001",
+            "name": "Diamond Push-Ups",
+            "description": "Push-ups with hands forming diamond shape. Emphasizes triceps more than regular push-ups.",
+            "default_sets": 2,
+            "default_reps": "8-12 reps",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "triceps",
+                "chest",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Conditioning"
+        },
+        {
             "id": "stretching_001",
             "name": "Wrist Stretch",
             "description": "A stretch to improve flexibility and prevent injury in the wrists. Extend arm and gently pull fingers back.",
@@ -2998,6 +3623,101 @@
                 "calves",
                 "gastrocnemius",
                 "soleus"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "it_band_stretch_001",
+            "name": "IT Band Stretch",
+            "description": "Cross one leg behind other, lean away from back leg. Stretches iliotibial band and outer hip.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "IT band",
+                "hip",
+                "outer thigh"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "rag_doll_001",
+            "name": "Rag Doll",
+            "description": "Fold forward, grab opposite elbows, let upper body hang. Deep relaxing stretch for back and hamstrings.",
+            "default_sets": 1,
+            "default_reps": "45 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "hamstrings",
+                "back",
+                "neck"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "lizard_pose_001",
+            "name": "Lizard Pose",
+            "description": "Low lunge with front foot wider, drop back knee down, sink hips. Deep hip flexor and inner thigh opener.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "inner thighs",
+                "groin"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "happy_baby_001",
+            "name": "Happy Baby",
+            "description": "Lie on back, grab feet and pull knees toward armpits. Gently rock side to side. Opens hips and lower back.",
+            "default_sets": 1,
+            "default_reps": "45 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hips",
+                "inner thighs",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "supine_twist_001",
+            "name": "Supine Twist",
+            "description": "Lie on back, drop knees to one side while keeping shoulders flat. Gentle spinal twist.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "spine",
+                "obliques",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "reclined_hamstring_stretch_001",
+            "name": "Reclined Hamstring Stretch (Strap)",
+            "description": "Lie on back, loop strap around foot, straighten leg up. Gentle hamstring stretch with support.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each leg",
+            "difficulty": "beginner",
+            "equipment": "yoga mat, strap",
+            "primary_muscle_groups": [
+                "hamstrings",
+                "calves"
             ],
             "image": null,
             "category": "Stretching"
