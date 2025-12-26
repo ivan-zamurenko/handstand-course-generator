@@ -20,7 +20,7 @@
             "name": "High Knees",
             "description": "Run in place, but make it count! Drive those knees up high toward your chest, like you're trying to knee yourself in the face. Keep a steady rhythm and feel your heart rate climb!",
             "default_sets": 1,
-            "default_reps": "30 seconds",
+            "default_reps": "45 seconds",
             "difficulty": "beginner",
             "equipment": "none",
             "primary_muscle_groups": [

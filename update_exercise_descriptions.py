@@ -27,6 +27,7 @@ def print_header(text):
 
 def print_exercise(exercise, index, total):
     """Display exercise information clearly"""
+    print("\n" + "-"*80)
     print(f"{Colors.CYAN}[{index}/{total}] Exercise: {Colors.BOLD}{exercise['name']}{Colors.ENDC}")
     print(f"{Colors.BLUE}ID:{Colors.ENDC} {exercise['id']}")
     print(f"{Colors.BLUE}Category:{Colors.ENDC} {exercise['category']}")
@@ -142,14 +143,14 @@ def update_sets(exercise):
     inp = input().strip()
     if inp:
         parts = inp.split()
-        if len(parts) == 2:
+        if len(parts) >= 2:
             try:
                 new_sets = int(parts[0])
-                if parts[3] == 'seconds':
+                if parts[2] == 'seconds':
                     new_reps = parts[1] + ' seconds'
                 else:
                     new_reps = parts[1]
-                    
+
                 exercise['default_sets'] = new_sets
                 exercise['default_reps'] = new_reps
                 return True
