@@ -951,6 +951,331 @@
             "category": "Shoulder opener"
         },
         {
+            "id": "wall_slides_001",
+            "name": "Wall Slides",
+            "description": "Stand with back against wall. Slide arms up and down wall in 'W' to 'Y' pattern. Excellent rehab exercise for shoulder mobility and scapular control.",
+            "default_sets": 2,
+            "default_reps": "10 reps",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "scapular stabilizers",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "arm_circles_small_forward_001",
+            "name": "Arm Circles (Small, Forward)",
+            "description": "Extend arms to sides. Make small controlled circles forward. Gentle dynamic warm-up for stiff shoulders.",
+            "default_sets": 1,
+            "default_reps": "15 circles",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "deltoids",
+                "rotator cuff"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "arm_circles_small_backward_001",
+            "name": "Arm Circles (Small, Backward)",
+            "description": "Extend arms to sides. Make small controlled circles backward. Activates posterior shoulder muscles.",
+            "default_sets": 1,
+            "default_reps": "15 circles",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "posterior deltoids",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "arm_circles_large_001",
+            "name": "Arm Circles (Large)",
+            "description": "Make large, full range circular motions with arms. Progress to bigger circles as shoulders warm up. Dynamic flexibility builder.",
+            "default_sets": 1,
+            "default_reps": "10 circles each direction",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "deltoids",
+                "full shoulder girdle"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "pendulum_swings_001",
+            "name": "Pendulum Swings",
+            "description": "Bend forward, let one arm hang. Gently swing arm in circles and lines. Classic rehab exercise for shoulder mobility.",
+            "default_sets": 1,
+            "default_reps": "10 circles each direction per arm",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "rotator cuff",
+                "joint capsule"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "thread_the_needle_001",
+            "name": "Thread the Needle",
+            "description": "On hands and knees, reach one arm under body and through to opposite side. Excellent for thoracic and shoulder rotation.",
+            "default_sets": 1,
+            "default_reps": "8 reps each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "thoracic spine",
+                "upper back",
+                "rotator cuff"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "shoulder_cars_001",
+            "name": "Shoulder CARs (Controlled Articular Rotations)",
+            "description": "Stand, move arm through full circular range of motion slowly and deliberately. Explores and expands shoulder mobility.",
+            "default_sets": 1,
+            "default_reps": "5 circles each direction per arm",
+            "difficulty": "intermediate",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "rotator cuff",
+                "full shoulder joint"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "wall_angels_001",
+            "name": "Wall Angels",
+            "description": "Back against wall, arms in 'goal post' position. Slide arms up overhead and back down. Snow angel motion against wall.",
+            "default_sets": 2,
+            "default_reps": "12 reps",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "scapular stabilizers",
+                "upper back",
+                "posture muscles"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "prone_i_raises_001",
+            "name": "Prone I Raises",
+            "description": "Lie face down, arms extended overhead in 'I' shape. Lift arms slightly off ground. Gentle strengthening for overhead position.",
+            "default_sets": 2,
+            "default_reps": "10 reps",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "upper back",
+                "lower traps"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "prone_y_raises_001",
+            "name": "Prone Y Raises",
+            "description": "Lie face down, arms in 'Y' position (45 degrees from head). Lift arms off ground. Targets lower traps and shoulder stabilizers.",
+            "default_sets": 2,
+            "default_reps": "10 reps",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "lower traps",
+                "rhomboids"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "prone_t_raises_001",
+            "name": "Prone T Raises",
+            "description": "Lie face down, arms out to sides in 'T'. Lift arms with thumbs up. Strengthens mid-back and posterior shoulder.",
+            "default_sets": 2,
+            "default_reps": "10 reps",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "mid traps",
+                "rhomboids",
+                "posterior deltoids"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "wall_shoulder_flexion_001",
+            "name": "Wall Shoulder Flexion",
+            "description": "Face wall, walk fingers up as high as possible. Hold briefly at top. Gentle active stretch for overhead mobility.",
+            "default_sets": 2,
+            "default_reps": "8 reps",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "lats",
+                "shoulder flexors"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "scapular_wall_slides_001",
+            "name": "Scapular Wall Slides",
+            "description": "Face wall, hands on wall at chest height. Slide body toward wall by protracting/retracting shoulder blades. Scapular control drill.",
+            "default_sets": 2,
+            "default_reps": "12 reps",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "scapular stabilizers",
+                "serratus anterior",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "towel_slides_001",
+            "name": "Towel Slides",
+            "description": "On smooth floor, hands on towels. Slide arms forward and back, or out to sides. Low-impact dynamic shoulder mobility.",
+            "default_sets": 2,
+            "default_reps": "10 reps",
+            "difficulty": "beginner",
+            "equipment": "towels, smooth floor",
+            "primary_muscle_groups": [
+                "shoulders",
+                "lats",
+                "chest"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "cross_body_arm_swings_001",
+            "name": "Cross-Body Arm Swings",
+            "description": "Swing arms across body in controlled motion, alternating. Dynamic warm-up for shoulder and chest.",
+            "default_sets": 1,
+            "default_reps": "15 swings",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "chest",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "quadruped_shoulder_rotations_001",
+            "name": "Quadruped Shoulder Rotations",
+            "description": "On hands and knees, rotate one shoulder externally/internally while keeping hand planted. Improves rotator cuff mobility.",
+            "default_sets": 1,
+            "default_reps": "8 reps each direction per arm",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "rotator cuff",
+                "shoulders",
+                "scapular stabilizers"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "dynamic_sleeper_stretch_001",
+            "name": "Dynamic Sleeper Stretch",
+            "description": "Lie on side, bend elbow 90 degrees. Gently rotate forearm toward floor in pulsing motion. Improves internal rotation.",
+            "default_sets": 1,
+            "default_reps": "10 pulses each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "rotator cuff",
+                "posterior shoulder",
+                "internal rotators"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "book_openers_001",
+            "name": "Book Openers",
+            "description": "Lie on side with knees bent. Open top arm like opening a book, following hand with eyes. Excellent thoracic rotation and shoulder opener.",
+            "default_sets": 1,
+            "default_reps": "8 reps each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "thoracic spine",
+                "shoulders",
+                "chest",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "reverse_prayer_progression_001",
+            "name": "Reverse Prayer Progression",
+            "description": "Bring hands behind back, press palms together with fingers pointing up. If too difficult, clasp hands or forearms. Advanced shoulder mobility.",
+            "default_sets": 1,
+            "default_reps": "20 seconds hold",
+            "difficulty": "intermediate",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "forearms",
+                "wrists",
+                "internal rotators"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "shoulder_elevation_depression_001",
+            "name": "Shoulder Elevation/Depression",
+            "description": "Stand with arms overhead. Actively push up (elevate) then pull down (depress). Builds awareness of shoulder blade control.",
+            "default_sets": 2,
+            "default_reps": "12 reps",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "scapular stabilizers",
+                "traps"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
             "id": "handstand_001",
             "name": "Wall Handstand Hold",
             "description": "Hold a handstand against a wall to build strength and endurance. Focus on maintaining hollow body position.",
