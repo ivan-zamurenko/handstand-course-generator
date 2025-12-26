@@ -788,6 +788,169 @@
             "category": "Shoulder opener"
         },
         {
+            "id": "shoulder_rotations_001",
+            "name": "Shoulder Rotations",
+            "description": "Stand with arms at sides. Make controlled circular motions with shoulders forward and backward. Warms up rotator cuff and increases mobility.",
+            "default_sets": 1,
+            "default_reps": "8 repeats each direction",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "rotator cuff",
+                "deltoids"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "shoulder_stretch_standing_001",
+            "name": "Shoulder Stretch (Standing)",
+            "description": "Stand and pull one arm across body at chest height using opposite hand. Hold to stretch shoulder and upper back.",
+            "default_sets": 1,
+            "default_reps": "15 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "upper back",
+                "rear deltoids"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "handstand_line_builder_001",
+            "name": "Handstand Line Builder",
+            "description": "Against wall, practice achieving and holding perfect handstand alignment - straight line from wrists to shoulders to hips. Advanced body awareness drill.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "advanced",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "body alignment",
+                "proprioception"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "puppy_pose_001",
+            "name": "Puppy Pose",
+            "description": "Start on hands and knees. Walk hands forward while lowering chest toward ground, keeping hips over knees. Deep shoulder and spine stretch.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "chest",
+                "spine",
+                "lats"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "forward_shoulder_stretch_001",
+            "name": "Forward Shoulder Stretch",
+            "description": "Clasp hands behind back and lift arms up while bending forward. Opens chest and anterior shoulders.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "chest",
+                "anterior deltoids"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "overhead_shoulder_stretch_001",
+            "name": "Overhead Shoulder Stretch",
+            "description": "Reach one arm overhead and bend elbow behind head. Use other hand to gently pull elbow. Stretches triceps and shoulders.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "shoulders",
+                "triceps",
+                "lats"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "behind_back_stretch_001",
+            "name": "Behind-the-Back Arm Stretch",
+            "description": "Reach one arm behind back from below, other from above. Try to clasp hands or use a strap. Opens shoulders in multiple planes.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "strap optional",
+            "primary_muscle_groups": [
+                "shoulders",
+                "rotator cuff",
+                "chest"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "downward_dog_001",
+            "name": "Downward Dog",
+            "description": "Form inverted V-shape with body - hands and feet on ground, hips high. Classic yoga pose that opens shoulders, hamstrings, and calves.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "hamstrings",
+                "calves",
+                "back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "shoulder_opener_band_001",
+            "name": "Shoulder Opener (Elastic Band)",
+            "description": "Hold elastic band with wide grip. Pull it over and behind head in a slow, controlled motion. Great for improving shoulder flexibility.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "resistance band",
+            "primary_muscle_groups": [
+                "shoulders",
+                "chest",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
+            "id": "shoulder_stretch_seated_back_001",
+            "name": "Shoulder Stretch (Seated, Backwards)",
+            "description": "Sit with legs extended. Place hands behind you and walk them back to stretch anterior shoulders and chest while seated.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "chest",
+                "biceps"
+            ],
+            "image": null,
+            "category": "Shoulder opener"
+        },
+        {
             "id": "handstand_001",
             "name": "Wall Handstand Hold",
             "description": "Hold a handstand against a wall to build strength and endurance. Focus on maintaining hollow body position.",
