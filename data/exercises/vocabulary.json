@@ -1014,6 +1014,234 @@
             "category": "Handstand"
         },
         {
+            "id": "plank_hold_001",
+            "name": "Plank Hold",
+            "description": "Hold a plank position with straight body line. Builds foundational core strength and shoulder stability for handstands.",
+            "default_sets": 2,
+            "default_reps": "15 seconds",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "core",
+                "shoulders",
+                "abs"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "walk_to_feet_001",
+            "name": "Walk To Feet",
+            "description": "From plank, walk feet toward hands to create inverted V position. Builds shoulder strength and prepares for handstand entry.",
+            "default_sets": 2,
+            "default_reps": "5 steps (3 repeats)",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "hamstrings",
+                "core"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "walk_to_hands_001",
+            "name": "Walk To Hands",
+            "description": "From inverted V position, walk hands toward feet. Develops shoulder mobility and strength in pike position.",
+            "default_sets": 2,
+            "default_reps": "5 steps (3 repeats)",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "wrists"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "walk_to_feet_elevated_001",
+            "name": "Walk To Feet (Elevated)",
+            "description": "Walk feet up onto elevated surface like box or chair. More challenging variation that increases shoulder load.",
+            "default_sets": 2,
+            "default_reps": "3 repeats",
+            "difficulty": "intermediate",
+            "equipment": "box or chair",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "upper back"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "planche_leans_001",
+            "name": "Planche Leans",
+            "description": "In plank, shift weight forward over hands as far as possible. Advanced exercise building straight-arm pressing strength.",
+            "default_sets": 2,
+            "default_reps": "3 repeats",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "chest",
+                "anterior deltoids"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_001",
+            "name": "Wall Crow",
+            "description": "Squat with hands on ground, knees on elbows, feet against wall. Fundamental position for learning handstand balance and control.",
+            "default_sets": 3,
+            "default_reps": "8 seconds hold",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "arms",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_entries_001",
+            "name": "Wall Crow Entries",
+            "description": "Practice entering Wall Crow position repeatedly. Builds confidence and muscle memory for handstand entries.",
+            "default_sets": 2,
+            "default_reps": "5 repeats",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "coordination"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_push_outs_001",
+            "name": "Wall Crow Push Outs",
+            "description": "From Wall Crow, push hips up toward wall handstand position then return. Builds strength for handstand press-ups.",
+            "default_sets": 2,
+            "default_reps": "3 repeats (with 3 sec hold)",
+            "difficulty": "intermediate",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_max_hold_001",
+            "name": "Wall Crow (Max Hold)",
+            "description": "Hold Wall Crow position for maximum time. Tests endurance and mental focus in inverted position.",
+            "default_sets": 1,
+            "default_reps": "1 max hold",
+            "difficulty": "advanced",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "endurance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_chair_001",
+            "name": "Wall Crow (Chair Variation)",
+            "description": "Perform Wall Crow with feet elevated on chair. Increases shoulder angle and difficulty.",
+            "default_sets": 3,
+            "default_reps": "5 repeats",
+            "difficulty": "intermediate",
+            "equipment": "wall, chair",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_one_leg_001",
+            "name": "Wall Crow (1-Leg Isolation)",
+            "description": "In Wall Crow, extend one leg at a time. Develops unilateral control and balance for freestanding handstands.",
+            "default_sets": 2,
+            "default_reps": "3 repeats each leg",
+            "difficulty": "intermediate",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip stability"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_shoulder_shrugs_001",
+            "name": "Wall Crow (Shoulder Shrugs)",
+            "description": "In Wall Crow hold, perform shoulder elevation and depression. Advanced scapular control exercise.",
+            "default_sets": 1,
+            "default_reps": "5 repeats",
+            "difficulty": "advanced",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "scapular stabilizers",
+                "traps"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_legs_isolation_001",
+            "name": "Wall Crow (Legs Isolation)",
+            "description": "In Wall Crow, lift both legs off elbows simultaneously. Very advanced control exercise preparing for press to handstand.",
+            "default_sets": 1,
+            "default_reps": "1 repeat",
+            "difficulty": "advanced",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexors",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_crow_to_handstand_001",
+            "name": "Wall Crow to Handstand",
+            "description": "From Wall Crow, press up to full wall handstand. Advanced pressing movement requiring significant shoulder and core strength.",
+            "default_sets": 2,
+            "default_reps": "1 repeat",
+            "difficulty": "advanced",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexors",
+                "full body"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
             "id": "conditioning_001",
             "name": "Plank",
             "description": "A core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
