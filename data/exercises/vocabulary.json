@@ -1567,6 +1567,452 @@
             "category": "Handstand"
         },
         {
+            "id": "kick_up_practice_001",
+            "name": "Kick-Up Practice (Wall)",
+            "description": "Practice kicking up to wall handstand. Start gently, focus on controlled entry. Fundamental handstand entry skill.",
+            "default_sets": 3,
+            "default_reps": "5 attempts",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "coordination",
+                "momentum control"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "kick_up_drills_001",
+            "name": "Kick-Up Drills (Partner Spot)",
+            "description": "Practice kick-ups with partner spotting. Build confidence for freestanding attempts.",
+            "default_sets": 2,
+            "default_reps": "8 attempts",
+            "difficulty": "intermediate",
+            "equipment": "partner or wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "handstand_negative_001",
+            "name": "Handstand Negative (Wall)",
+            "description": "Start in wall handstand, slowly lower down with control. Eccentric strength builder for press to handstand.",
+            "default_sets": 2,
+            "default_reps": "3 reps",
+            "difficulty": "intermediate",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexors",
+                "eccentric strength"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "tuck_handstand_negative_001",
+            "name": "Tuck Handstand Negative",
+            "description": "From wall handstand, tuck knees to chest, slowly lower down. Easier variation of handstand negative.",
+            "default_sets": 2,
+            "default_reps": "4 reps",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "straddle_negative_001",
+            "name": "Straddle Handstand Negative",
+            "description": "From wall handstand, spread legs wide (straddle), lower down with control. Intermediate press progression.",
+            "default_sets": 2,
+            "default_reps": "3 reps",
+            "difficulty": "intermediate",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexibility",
+                "adductors"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "l_sit_floor_001",
+            "name": "L-Sit (Floor)",
+            "description": "Sit with legs extended, hands beside hips. Press down to lift entire body off ground. Fundamental gymnastics strength hold.",
+            "default_sets": 3,
+            "default_reps": "10-15 seconds",
+            "difficulty": "intermediate",
+            "equipment": "floor",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "core",
+                "shoulders",
+                "triceps"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "l_sit_parallettes_001",
+            "name": "L-Sit (Parallettes)",
+            "description": "L-sit on parallettes or blocks. Extra height makes it easier than floor version. Great progression step.",
+            "default_sets": 3,
+            "default_reps": "12-20 seconds",
+            "difficulty": "beginner",
+            "equipment": "parallettes or yoga blocks",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "core",
+                "shoulders",
+                "triceps"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "tuck_l_sit_001",
+            "name": "Tuck L-Sit",
+            "description": "Hands on floor, pull knees to chest and lift hips off ground. Beginner L-sit progression.",
+            "default_sets": 3,
+            "default_reps": "15 seconds",
+            "difficulty": "beginner",
+            "equipment": "floor",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "core",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "one_leg_l_sit_001",
+            "name": "One-Leg L-Sit",
+            "description": "Lift body with one leg extended, one bent. Easier than full L-sit, good for building strength.",
+            "default_sets": 3,
+            "default_reps": "10 seconds each leg",
+            "difficulty": "beginner",
+            "equipment": "floor",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "core",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "v_sit_001",
+            "name": "V-Sit",
+            "description": "Like L-sit but lift legs higher to create V shape with body. Advanced core and hip flexor strength.",
+            "default_sets": 2,
+            "default_reps": "8-12 seconds",
+            "difficulty": "advanced",
+            "equipment": "floor",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "core",
+                "shoulders",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "pike_compression_001",
+            "name": "Pike Compression",
+            "description": "Stand, fold forward and hug legs to chest. Pull upper body down to legs. Essential flexibility for press to handstand.",
+            "default_sets": 2,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "hamstrings",
+                "hip flexors",
+                "compression strength"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "seated_pike_compression_001",
+            "name": "Seated Pike Compression",
+            "description": "Sit with legs extended, lean forward and pull chest to thighs. Hold. Builds pike compression strength.",
+            "default_sets": 2,
+            "default_reps": "20 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "hamstrings",
+                "compression"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "elevated_pike_push_up_001",
+            "name": "Elevated Pike Push-Up",
+            "description": "Feet on box/chair, pike position, perform push-up. More vertical than regular pike push-up, mimics handstand pressing angle.",
+            "default_sets": 3,
+            "default_reps": "6-10 reps",
+            "difficulty": "intermediate",
+            "equipment": "box or chair",
+            "primary_muscle_groups": [
+                "shoulders",
+                "triceps",
+                "upper chest"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "headstand_hold_001",
+            "name": "Headstand Hold",
+            "description": "Balance on head and forearms. Gentler inversion than handstand, builds spatial awareness and balance.",
+            "default_sets": 2,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "neck",
+                "shoulders",
+                "core",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "tripod_headstand_001",
+            "name": "Tripod Headstand",
+            "description": "Head and hands form triangle, knees rest on elbows. Beginner-friendly inversion building confidence.",
+            "default_sets": 2,
+            "default_reps": "20 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "forearm_stand_001",
+            "name": "Forearm Stand (Wall)",
+            "description": "Handstand on forearms instead of hands. Lower center of gravity, easier balance. Great for building confidence.",
+            "default_sets": 2,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "wall, yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "forearms"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "straddle_press_attempt_001",
+            "name": "Straddle Press Attempt",
+            "description": "From pike with legs wide, attempt to lift hips and legs while leaning shoulders forward. Press to handstand progression.",
+            "default_sets": 2,
+            "default_reps": "5 attempts",
+            "difficulty": "advanced",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexors",
+                "compression"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "tuck_press_practice_001",
+            "name": "Tuck Press Practice",
+            "description": "From squat, hands down, lean forward and lift feet. Tucked press to handstand is easiest press variation.",
+            "default_sets": 2,
+            "default_reps": "5 attempts",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "press_lean_holds_001",
+            "name": "Press Lean Holds",
+            "description": "From pike, lean shoulders far forward, hold. Builds shoulder strength for press entry without going all the way up.",
+            "default_sets": 3,
+            "default_reps": "5-10 seconds",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "wrists"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "handstand_hops_001",
+            "name": "Handstand Hops",
+            "description": "In handstand position, perform small hops with hands. Advanced balance and shoulder control exercise.",
+            "default_sets": 2,
+            "default_reps": "8-10 hops",
+            "difficulty": "advanced",
+            "equipment": "wall optional",
+            "primary_muscle_groups": [
+                "shoulders",
+                "wrists",
+                "core",
+                "explosive strength"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "handstand_splits_001",
+            "name": "Handstand Splits",
+            "description": "In wall handstand, open legs into splits position. Requires hip flexibility and core control.",
+            "default_sets": 2,
+            "default_reps": "20 seconds",
+            "difficulty": "intermediate",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "hip flexibility"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "frog_stand_001",
+            "name": "Frog Stand",
+            "description": "Squat, place hands flat, knees on elbows, lean forward until feet lift. Essential balancing skill, beginner arm balance.",
+            "default_sets": 3,
+            "default_reps": "15-20 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "wrists",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "crow_pose_001",
+            "name": "Crow Pose",
+            "description": "Like frog stand but lift hips higher, straighten arms more. Classic yoga arm balance preparing for handstands.",
+            "default_sets": 2,
+            "default_reps": "20 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "arms",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "tuck_planche_lean_001",
+            "name": "Tuck Planche Lean",
+            "description": "In tuck position on hands, lean forward as far as possible. Builds straight-arm strength for advanced skills.",
+            "default_sets": 2,
+            "default_reps": "8-12 seconds",
+            "difficulty": "advanced",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "shoulders",
+                "chest",
+                "core",
+                "straight-arm strength"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "pirouette_practice_001",
+            "name": "Handstand Pirouette Practice",
+            "description": "In handstand, practice small rotations (quarter turns). Advanced skill building rotation control.",
+            "default_sets": 2,
+            "default_reps": "4 attempts each direction",
+            "difficulty": "advanced",
+            "equipment": "wall or open space",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "coordination",
+                "spatial awareness"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "wall_walks_001",
+            "name": "Wall Walks",
+            "description": "Start in plank facing away from wall. Walk feet up wall while walking hands toward wall. Full body strength builder.",
+            "default_sets": 2,
+            "default_reps": "3-5 walks",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "legs",
+                "full body"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
+            "id": "handstand_wall_hold_away_001",
+            "name": "Handstand Hold (Stomach to Wall)",
+            "description": "Walk up to handstand with stomach facing wall. More challenging balance than back-to-wall, closer to freestanding.",
+            "default_sets": 3,
+            "default_reps": "30-45 seconds",
+            "difficulty": "intermediate",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "shoulders",
+                "core",
+                "balance"
+            ],
+            "image": null,
+            "category": "Handstand"
+        },
+        {
             "id": "conditioning_001",
             "name": "Plank",
             "description": "A core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
