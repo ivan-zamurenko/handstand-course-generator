@@ -3,7 +3,7 @@
         {
             "id": "jumping_jacks_001",
             "name": "Jumping Jacks",
-            "description": "Stand with feet together, arms at sides. Jump feet apart while raising arms overhead in a clapping motion, then jump back to start. Increases heart rate, improves coordination, and warms up entire body. Keep core engaged and land softly.",
+            "description": "Start standing tall, then jump and spread those legs while throwing your arms overhead! Jump back together and repeat. It's simple, gets your heart pumping, and wakes up your whole body. Let's go!",
             "default_sets": 3,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -18,7 +18,7 @@
         {
             "id": "high_knees_001",
             "name": "High Knees",
-            "description": "Run in place while driving knees up to hip height or higher. Pump arms naturally. Excellent for cardiovascular warm-up, hip flexor activation, and improving running mechanics. Keep chest up and core tight.",
+            "description": "Run in place, but make it count! Drive those knees up high toward your chest, like you're trying to knee yourself in the face. Keep a steady rhythm and feel your heart rate climb!",
             "default_sets": 3,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -33,7 +33,7 @@
         {
             "id": "arm_circles_001",
             "name": "Arm Circles",
-            "description": "Stand with arms extended horizontally at shoulder height. Rotate arms in small circles (6-12 inches diameter), gradually increasing size. Perform forward then backward. Mobilizes shoulder joints, increases blood flow to deltoids, and prepares rotator cuffs for activity.",
+            "description": "Stand tall and stretch your arms out like airplane wings. Make smooth circles - start small, then go bigger! Do it forward, then backward. Your shoulders are gonna thank you later!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -48,7 +48,7 @@
         {
             "id": "butt_kicks_001",
             "name": "Butt Kicks",
-            "description": "Jog in place while actively kicking heels up to touch glutes with each step. Keep torso upright, maintain quick cadence. Dynamically stretches quadriceps and hip flexors while activating hamstrings and glutes. Excellent cardiovascular warm-up.",
+            "description": "Jog in place and kick your heels back toward your butt! Quick and snappy. Feel those hamstrings wake up. Don't be lazy with it - really try to tap your glutes!",
             "default_sets": 1,
             "default_reps": "45 seconds",
             "difficulty": "beginner",
@@ -64,7 +64,7 @@
         {
             "id": "mountain_climbers_001",
             "name": "Mountain Climbers",
-            "description": "Begin in high plank position with shoulders over wrists. Rapidly alternate driving knees toward chest as if running horizontally. Keep hips level, core braced. Builds cardiovascular endurance, core stability, and shoulder strength. Scale by slowing tempo.",
+            "description": "Get in that push-up position and start running! Drive your knees toward your chest, one at a time, fast as you can. This one's a full-body burner - core, shoulders, cardio, everything!",
             "default_sets": 1,
             "default_reps": "45 seconds",
             "difficulty": "intermediate",
@@ -81,7 +81,7 @@
         {
             "id": "windmill_001",
             "name": "Windmill",
-            "description": "Stand with feet wider than shoulder-width, arms extended to sides forming 'T'. Hinge at hips, rotate torso to touch right hand to left foot while reaching left arm up. Alternate sides. Mobilizes thoracic spine, stretches hamstrings, and activates obliques. Keep legs relatively straight.",
+            "description": "Stand wide, arms out in a T. Now hinge at your hips and twist - touch your right hand to your left foot while reaching that left arm to the sky. Switch sides. Feel that rotation through your spine!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -98,7 +98,7 @@
         {
             "id": "hip_circles_001",
             "name": "Hip Circles",
-            "description": "Stand on one leg (hold wall for balance if needed) or position on hands and knees. Create large circles with hip joint, moving through full range of motion. Perform clockwise then counterclockwise. Increases synovial fluid in hip joint, improves hip mobility in all planes, activates hip stabilizers.",
+            "description": "Stand on one leg (grab the wall if you need balance) and make big circles with your hip. Go clockwise, then counterclockwise. You're literally oiling up those hip joints!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -114,7 +114,7 @@
         {
             "id": "half_middle_split_001",
             "name": "Half Middle Split (HMS Lunges)",
-            "description": "Stand with feet very wide (3-4 feet apart), toes slightly out. Shift weight to right, bending right knee while keeping left leg straight. Feel stretch in left inner thigh. Shift to opposite side. Dynamically stretches adductors, mobilizes hips, and prepares for lateral movements.",
+            "description": "Get those feet wide - real wide! Shift your weight side to side, bending one knee while keeping the other leg straight. Feel that deep stretch in your inner thighs. This is gold for hip mobility!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "intermediate",
@@ -130,7 +130,7 @@
         {
             "id": "walking_pike_001",
             "name": "Walking Pike",
-            "description": "Begin in high plank. Keeping legs straight, walk hands back toward feet (pike position), feeling hamstring stretch. Then walk hands forward to return to plank. Excellent for hamstring flexibility, shoulder mobility, and core control. Keep core engaged throughout.",
+            "description": "Start in a plank, then walk your hands back toward your feet with straight legs. Feel that hamstring stretch! Then walk your hands back out. It's like doing yoga and getting stronger at the same time.",
             "default_sets": 1,
             "default_reps": "20 repeats",
             "difficulty": "intermediate",
@@ -146,7 +146,7 @@
         {
             "id": "core_engagements_floor_001",
             "name": "Core Engagements - Floor",
-            "description": "Lie supine with lower back pressed to floor. Lift shoulders and legs 6 inches off ground simultaneously, arms extended. Hold 3-5 seconds, lower with control. Activates transverse abdominis, rectus abdominis, and hip flexors. Essential for developing hollow body position used in gymnastics.",
+            "description": "Lie down, press that lower back into the floor like you're trying to flatten it. Now lift your shoulders and legs a few inches off the ground. Hold it! This is your hollow body - master this and handstands become way easier.",
             "default_sets": 2,
             "default_reps": "4 repeats",
             "difficulty": "intermediate",
@@ -162,7 +162,7 @@
         {
             "id": "squats_001",
             "name": "Squats",
-            "description": "Stand with feet shoulder-width apart. Lower hips back and down as if sitting in a chair, then return to standing.",
+            "description": "Feet shoulder-width, drop that butt back like you're sitting in a chair. Keep your chest up! Drive through your heels to stand. This is THE foundation movement. Own it!",
             "default_sets": 1,
             "default_reps": "20 repeats",
             "difficulty": "beginner",
@@ -178,7 +178,7 @@
         {
             "id": "releve_001",
             "name": "Relev\u00e9",
-            "description": "Rise up onto the balls of your feet, lifting heels as high as possible. Strengthens calves and improves ankle stability.",
+            "description": "Rise up on your tippy-toes as high as you can! Hold for a second at the top, feel those calves working. This builds ankle strength and stability - super important for handstands!",
             "default_sets": 1,
             "default_reps": "15 repeats",
             "difficulty": "beginner",
@@ -193,7 +193,7 @@
         {
             "id": "half_wood_chopper_001",
             "name": "Half Wood Chopper",
-            "description": "Stand with feet wide. Rotate torso while bringing arms diagonally across body in a chopping motion. Warms up obliques and spine.",
+            "description": "Stand wide, clasp your hands together and swing them diagonally like you're chopping wood. Rotate through your core! This wakes up your obliques and spine rotation.",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -209,7 +209,7 @@
         {
             "id": "hand_kicks_001",
             "name": "Hand Kicks",
-            "description": "Stand and kick one leg up while reaching opposite hand toward the foot. Improves hamstring flexibility and coordination.",
+            "description": "Walk forward and kick one leg up while reaching your opposite hand toward that foot. It's like a walking hamstring stretch with a coordination challenge. Keep it controlled!",
             "default_sets": 1,
             "default_reps": "20 repeats",
             "difficulty": "beginner",
@@ -225,7 +225,7 @@
         {
             "id": "hamstring_stretch_001",
             "name": "Hamstring Stretch (Lying Down)",
-            "description": "Lie on back, raise one leg and pull it toward chest using hands or a strap. Gently stretch the hamstring.",
+            "description": "Lie on your back, lift one leg up, and pull it toward your chest. Use your hands or a strap. Breathe into it and feel those hamstrings lengthen. No bouncing - just steady pressure!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -240,7 +240,7 @@
         {
             "id": "lunge_step_001",
             "name": "Lunge Step (with High Knee)",
-            "description": "Step forward into a lunge, then drive the back knee up explosively. Combines strength and dynamic movement.",
+            "description": "Step forward into a lunge, then explode up and drive that back knee high! This combines strength, balance, and a bit of cardio. Power through!",
             "default_sets": 1,
             "default_reps": "15 repeats",
             "difficulty": "intermediate",
@@ -257,7 +257,7 @@
         {
             "id": "plank_skiing_001",
             "name": "Plank Skiing",
-            "description": "In plank position, jump both feet side to side together like a skier. Engages core and builds cardiovascular endurance.",
+            "description": "Hold a plank and jump both feet side to side together, like you're skiing down a slope. Keep that core tight! It's harder than it looks - your obliques are gonna feel this!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -274,7 +274,7 @@
         {
             "id": "deep_plie_001",
             "name": "Deep Pli\u00e9",
-            "description": "Stand with feet wide and toes turned out. Lower down into a deep squat, keeping chest lifted. Targets inner thighs and glutes.",
+            "description": "Stand with feet wide, toes turned out. Drop down into a deep squat, keeping your chest lifted. Feel it in those inner thighs and glutes. Dancers do these for a reason - they work!",
             "default_sets": 1,
             "default_reps": "8 repeats",
             "difficulty": "beginner",
@@ -290,7 +290,7 @@
         {
             "id": "half_split_push_outs_001",
             "name": "Half Split Push Outs",
-            "description": "In a half split position, push hips back and forth to dynamically stretch hamstrings and hip flexors.",
+            "description": "Get in a half-split position and rock your hips forward and back. Dynamic hamstring stretching at its finest. Push out, feel the stretch, come back. Repeat!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -305,7 +305,7 @@
         {
             "id": "assisted_pike_stretch_001",
             "name": "Assisted 1-Legged Pike Stretch",
-            "description": "Sit with one leg extended. Fold forward over the extended leg, reaching toward the foot to stretch hamstrings.",
+            "description": "Sit with one leg extended, fold forward over that leg. Reach for your foot. Breathe and sink deeper with each exhale. Your hamstrings might hate you now, but they'll love you later!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "intermediate",
@@ -320,7 +320,7 @@
         {
             "id": "leg_swings_001",
             "name": "Leg Swings (Standing)",
-            "description": "Hold onto a wall or bar. Swing one leg forward and back in a controlled manner to warm up hip flexors and hamstrings.",
+            "description": "Hold the wall for balance and swing one leg forward and back like a pendulum. Controlled, but with momentum. This opens up your hip flexors and hamstrings dynamically!",
             "default_sets": 1,
             "default_reps": "8 repeats each leg",
             "difficulty": "beginner",
@@ -336,7 +336,7 @@
         {
             "id": "burpee_001",
             "name": "Burpee",
-            "description": "From standing, drop into a squat, kick feet back to plank, do a push-up, jump feet back to squat, then jump up. Full-body conditioning.",
+            "description": "Drop down, chest to floor, pop up to plank, jump feet forward, explode up! It's the full-body cardio move everyone loves to hate. But man, does it work!",
             "default_sets": 1,
             "default_reps": "45 seconds",
             "difficulty": "beginner",
@@ -353,7 +353,7 @@
         {
             "id": "rocking_boat_001",
             "name": "Rocking Boat",
-            "description": "Sit in a V-sit position with legs and torso lifted. Rock back and forth in a controlled manner to engage core and improve balance.",
+            "description": "Sit in a V-shape with legs and upper body off the ground. Now rock back and forth. Your abs are gonna be screaming, but hold that V! Balance and core in one crazy package.",
             "default_sets": 1,
             "default_reps": "20 seconds",
             "difficulty": "beginner",
@@ -369,7 +369,7 @@
         {
             "id": "seated_hip_rotations_001",
             "name": "Seated Hip Rotations",
-            "description": "Sit on the floor with knees bent. Rotate knees side to side to mobilize hips and lower back.",
+            "description": "Sit with knees bent, let them drop side to side. Easy, gentle, feels amazing for loosening up your hips and lower back. Perfect after sitting all day!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -385,7 +385,7 @@
         {
             "id": "runners_stretch_001",
             "name": "Runner's Stretch (Active)",
-            "description": "In a low lunge position, pulse forward and back to actively stretch hip flexors and quads of the back leg.",
+            "description": "Get in a low lunge and pulse forward and back. Feel that front hip flexor open up. Active stretching is where it's at - movement plus stretch equals gold!",
             "default_sets": 1,
             "default_reps": "8 repeats each side",
             "difficulty": "beginner",
@@ -401,7 +401,7 @@
         {
             "id": "core_engagements_tuck_001",
             "name": "Core Engagements (Tuck)",
-            "description": "From a hollow body position, pull knees to chest in a tight tuck, then extend back out. Advanced core control exercise.",
+            "description": "From hollow body, pull your knees into your chest tight, then extend back out. Keep that lower back glued to the floor! Advanced core control that'll level up your handstands.",
             "default_sets": 2,
             "default_reps": "4 repeats",
             "difficulty": "advanced",
@@ -417,7 +417,7 @@
         {
             "id": "lateral_leg_swings_001",
             "name": "Lateral Leg Swings",
-            "description": "Hold wall for support. Swing leg side to side across body. Opens hip abductors and adductors.",
+            "description": "Hold the wall, swing your leg side to side across your body. Hip mobility in the frontal plane - we don't do this enough! Go smooth and controlled.",
             "default_sets": 1,
             "default_reps": "10 swings each leg",
             "difficulty": "beginner",
@@ -433,7 +433,7 @@
         {
             "id": "trunk_twists_001",
             "name": "Trunk Twists",
-            "description": "Stand with hands behind head. Rotate torso side to side. Warms up obliques and spine.",
+            "description": "Hands behind your head, twist your torso side to side. Feel those obliques wake up! Great for spine mobility and getting ready for rotational movements.",
             "default_sets": 1,
             "default_reps": "15 twists",
             "difficulty": "beginner",
@@ -449,7 +449,7 @@
         {
             "id": "shoulder_rolls_001",
             "name": "Shoulder Rolls",
-            "description": "Roll shoulders forward and backward in large circles. Mobilizes shoulder girdle.",
+            "description": "Roll those shoulders - big circles, forward and back. Simple but effective for loosening up all that shoulder tension. Do it slowly and feel every bit of it!",
             "default_sets": 1,
             "default_reps": "10 rolls each direction",
             "difficulty": "beginner",
@@ -465,7 +465,7 @@
         {
             "id": "ankle_bounces_001",
             "name": "Ankle Bounces",
-            "description": "Bounce on balls of feet rapidly. Warms up calves and ankles for explosive movements.",
+            "description": "Bounce on the balls of your feet, rapid-fire! This preps your calves and ankles for explosive stuff. Think of it as waking up your spring mechanism!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -481,7 +481,7 @@
         {
             "id": "bear_crawl_forward_001",
             "name": "Bear Crawl (Forward)",
-            "description": "Crawl on hands and feet with knees off ground. Full-body movement pattern warming all muscles.",
+            "description": "Get on all fours, lift those knees, and crawl! Opposite hand and foot move together. It's primal, it's effective, and it fires up everything!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -497,7 +497,7 @@
         {
             "id": "inchworms_001",
             "name": "Inchworms",
-            "description": "Bend down, walk hands out to plank, then walk feet to hands. Excellent dynamic full-body warm-up.",
+            "description": "Bend down, walk your hands out to a plank, then walk your feet back to your hands. Full-body movement that stretches hamstrings and builds shoulder strength. Classic!",
             "default_sets": 1,
             "default_reps": "8 reps",
             "difficulty": "beginner",
@@ -513,7 +513,7 @@
         {
             "id": "jumping_lunges_001",
             "name": "Jumping Lunges",
-            "description": "From lunge position, explosively jump and switch legs mid-air. High-intensity leg warm-up.",
+            "description": "In a lunge? Now JUMP and switch legs in the air! Land soft, explode again. This is high-intensity leg work that'll get your heart racing. Push through the burn!",
             "default_sets": 1,
             "default_reps": "12 jumps",
             "difficulty": "intermediate",
@@ -529,7 +529,7 @@
         {
             "id": "side_shuffles_001",
             "name": "Side Shuffles",
-            "description": "Shuffle laterally with athletic stance. Warms up lateral movement patterns and inner/outer thighs.",
+            "description": "Get in an athletic stance and shuffle laterally. Stay low! This builds lateral movement patterns that most people neglect. Feel those outer thighs work!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -545,7 +545,7 @@
         {
             "id": "spinal_waves_001",
             "name": "Spinal Waves",
-            "description": "Stand and create wave motion through spine from neck to tailbone. Mobilizes entire spine.",
+            "description": "Stand and create a wave through your spine - start at your neck, flow down through your whole back to your tailbone. Feels amazing and mobilizes every vertebra!",
             "default_sets": 1,
             "default_reps": "8 waves",
             "difficulty": "beginner",
@@ -561,7 +561,7 @@
         {
             "id": "toy_soldiers_001",
             "name": "Toy Soldiers",
-            "description": "Walk forward kicking straight leg up to opposite outstretched hand. Dynamic hamstring warm-up.",
+            "description": "Walk forward and kick straight legs up to touch your opposite hand. High kicks, hamstring stretch, coordination all in one. Keep that standing leg straight too!",
             "default_sets": 1,
             "default_reps": "10 kicks each leg",
             "difficulty": "beginner",
@@ -577,7 +577,7 @@
         {
             "id": "world_greatest_stretch_001",
             "name": "World's Greatest Stretch",
-            "description": "Low lunge with rotation and reach. Opens hips, hamstrings, thoracic spine in one movement.",
+            "description": "Low lunge with a twist and reach - this is THE mobility move! Opens hips, hamstrings, thoracic spine all at once. Do it right and you'll understand why it's called the greatest!",
             "default_sets": 1,
             "default_reps": "5 reps each side",
             "difficulty": "intermediate",
@@ -594,7 +594,7 @@
         {
             "id": "prehab_001",
             "name": "Cat-Cow Stretch",
-            "description": "A gentle stretch to warm up the spine. On hands and knees, alternate between arching back (cow) and rounding spine (cat).",
+            "description": "On all fours, arch your back like a cat (round it up!), then drop your belly and lift your head like a cow. Flow between them with your breath. Your spine will love you!",
             "default_sets": 2,
             "default_reps": "10 reps",
             "difficulty": "beginner",
@@ -609,7 +609,7 @@
         {
             "id": "wrist_rotations_001",
             "name": "Wrist Rotations",
-            "description": "Rotate wrists in both directions to prepare them for weight-bearing exercises.",
+            "description": "Make circles with your wrists - both directions! Seems simple but it's crucial prep for putting weight on your hands. Don't skip this!",
             "default_sets": 2,
             "default_reps": "10 rotations each direction",
             "difficulty": "beginner",
@@ -623,7 +623,7 @@
         {
             "id": "elbow_lifts_001",
             "name": "Elbow Lifts",
-            "description": "Lie face down with hands behind head. Lift elbows off the ground while squeezing shoulder blades together. Strengthens upper back and rear deltoids.",
+            "description": "Lie face down, hands behind your head. Squeeze your shoulder blades together and lift those elbows off the ground. Feels great and builds upper back strength!",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "intermediate",
@@ -639,7 +639,7 @@
         {
             "id": "forehead_to_w_001",
             "name": "Forehead to W",
-            "description": "Lie face down with forehead on ground. Lift arms from overhead position to a W shape while engaging upper back muscles. Great for scapular control.",
+            "description": "Face down, arms overhead, lift them up and pull back into a W shape. Squeeze those shoulder blades! This is pure scapular control gold.",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "intermediate",
@@ -655,7 +655,7 @@
         {
             "id": "back_extensions_001",
             "name": "Back Extensions",
-            "description": "Lie face down, lift chest and shoulders off the ground while keeping hips down. Strengthens lower back and spinal erectors.",
+            "description": "Lie face down and lift your chest off the ground. Keep your hips down! This strengthens your lower back - super important for handstand balance.",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "beginner",
@@ -671,7 +671,7 @@
         {
             "id": "hip_bridges_001",
             "name": "Hip Bridges",
-            "description": "Lie on back with knees bent. Lift hips up, creating a straight line from shoulders to knees. Activates glutes and hamstrings.",
+            "description": "Lie on your back, knees bent, lift those hips up! Squeeze your glutes hard at the top. This is THE glute activation move. Don't just go through the motions!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -687,7 +687,7 @@
         {
             "id": "hip_bridges_single_leg_001",
             "name": "Hip Bridges (with 1 leg)",
-            "description": "Perform hip bridge with one leg extended. More challenging variation that increases glute activation on the working side.",
+            "description": "Same bridge, but extend one leg. Now you're working one side at a time - way harder! Balance and glute strength combined.",
             "default_sets": 1,
             "default_reps": "5 repeats each leg",
             "difficulty": "intermediate",
@@ -703,7 +703,7 @@
         {
             "id": "open_close_wrists_001",
             "name": "Open & Close Wrists",
-            "description": "Make a fist then spread fingers wide repeatedly. Warms up wrist flexors and extensors for handstand work.",
+            "description": "Make a tight fist, then spread your fingers wide like you're showing off jazz hands. Repeat! Simple wrist warm-up that prevents injury.",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -719,7 +719,7 @@
         {
             "id": "prayer_pose_001",
             "name": "Prayer Pose",
-            "description": "Press palms together in front of chest. Push hands down while keeping palms together to stretch wrist flexors.",
+            "description": "Press your palms together in front of your chest, then push them down while keeping palms together. Feel that wrist flexor stretch! Essential for handstand prep.",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -734,7 +734,7 @@
         {
             "id": "prayer_pose_reverse_001",
             "name": "Prayer Pose (Reverse)",
-            "description": "Press backs of hands together with fingers pointing down. Stretch wrist extensors by pushing hands up.",
+            "description": "Now flip it - press the backs of your hands together with fingers pointing down. Push up! Stretches those wrist extensors. Both sides need love!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -749,7 +749,7 @@
         {
             "id": "straight_to_w_001",
             "name": "Straight to W",
-            "description": "Lie face down with arms straight overhead. Lift arms and pull them down to W position. Builds shoulder and upper back strength.",
+            "description": "Face down, arms straight overhead, lift and pull them back into a W. You're building shoulder and upper back strength while improving control. Pure gold!",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "intermediate",
@@ -765,7 +765,7 @@
         {
             "id": "prone_ys_001",
             "name": "Prone Y's",
-            "description": "Lie face down with arms in Y position overhead. Lift arms off ground while engaging upper back. Strengthens scapular stabilizers.",
+            "description": "Lie face down, make a Y with your arms overhead, lift them up. Keep your neck neutral! This targets those lower traps that keep your shoulders healthy.",
             "default_sets": 1,
             "default_reps": "8 repeats",
             "difficulty": "beginner",
@@ -781,7 +781,7 @@
         {
             "id": "superman_001",
             "name": "Superman",
-            "description": "Lie face down, simultaneously lift arms and legs off ground. Hold briefly then lower. Strengthens entire posterior chain.",
+            "description": "Lie face down, lift everything - arms, chest, legs! Hold it! You're Superman flying through the air. Great for your entire posterior chain.",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "beginner",
@@ -798,7 +798,7 @@
         {
             "id": "wrist_mobilization_001",
             "name": "Wrist Mobilization",
-            "description": "Make circles with wrists in both directions. Can be done with hands in prayer position or arms extended. Prepares wrists for load.",
+            "description": "Make circles with your wrists, both directions. Or do it with hands in prayer position. Get that synovial fluid flowing!",
             "default_sets": 1,
             "default_reps": "10 circles each direction",
             "difficulty": "beginner",
@@ -813,7 +813,7 @@
         {
             "id": "ytw_001",
             "name": "Y-T-W",
-            "description": "Lie face down. Lift arms in Y position, then T position, then W position in sequence. Advanced upper back and shoulder control exercise.",
+            "description": "Face down, move your arms through Y position, then T, then W - all while lifted off the ground. Advanced upper back control that'll bulletproof your shoulders!",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "advanced",
@@ -830,7 +830,7 @@
         {
             "id": "leg_lifts_together_separate_001",
             "name": "Leg Lifts (Together & Separate)",
-            "description": "Lie face down. Lift both legs together, then lift them separately alternating. Strengthens glutes and lower back with variation.",
+            "description": "Face down, lift both legs together, then alternate lifting them one at a time. Glutes and lower back getting stronger with every rep!",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "beginner",
@@ -846,7 +846,7 @@
         {
             "id": "up_down_waving_001",
             "name": "Up & Down Waving",
-            "description": "On hands and knees, rock weight forward and back over wrists in a waving motion. Builds wrist strength and mobility.",
+            "description": "On all fours, rock your weight forward and back over your wrists in a wave motion. Builds wrist strength and gets them ready for load!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -862,7 +862,7 @@
         {
             "id": "side_waving_001",
             "name": "Side Waving",
-            "description": "On hands and knees, rock weight side to side over wrists. Prepares wrists for lateral forces in handstands.",
+            "description": "On all fours, rock side to side over your wrists. Your wrists need to be strong in all directions for handstands. This is how you build it!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -877,7 +877,7 @@
         {
             "id": "wrist_walks_001",
             "name": "Wrist Walks",
-            "description": "On hands and knees, walk hands in small circles. Mobilizes wrists in all directions and builds strength.",
+            "description": "Hands and knees, walk your hands in small circles. Hit all angles! Your wrists are getting mobile AND strong.",
             "default_sets": 1,
             "default_reps": "5 circles each direction",
             "difficulty": "beginner",
@@ -892,7 +892,7 @@
         {
             "id": "finger_stretch_001",
             "name": "Finger Stretch",
-            "description": "Press fingers back gently to stretch finger flexors and forearms. Hold each stretch. Important for preventing finger strain.",
+            "description": "Gently press each finger back to stretch those finger flexors. Sounds minor but prevents finger strain and keeps your hands happy!",
             "default_sets": 3,
             "default_reps": "10 seconds each finger",
             "difficulty": "beginner",
@@ -908,7 +908,7 @@
         {
             "id": "wrist_mobilization_all_directions_001",
             "name": "Wrist Mobilization (All Directions)",
-            "description": "Systematically move wrists through all planes of motion - flexion, extension, radial/ulnar deviation, and circles. Complete wrist prep.",
+            "description": "Move those wrists through EVERY possible direction - up, down, side to side, circles. Complete wrist prep before loading them up!",
             "default_sets": 1,
             "default_reps": "10 repeats each direction",
             "difficulty": "beginner",
@@ -923,7 +923,7 @@
         {
             "id": "clamshells_001",
             "name": "Clamshells",
-            "description": "Lie on side with knees bent. Keep feet together, lift top knee up. Activates hip external rotators and glute medius.",
+            "description": "Lie on your side, knees bent, feet together. Lift that top knee up like a clamshell opening. Feel those glutes and hip rotators working! Essential for hip stability.",
             "default_sets": 2,
             "default_reps": "12 reps each side",
             "difficulty": "beginner",
@@ -939,7 +939,7 @@
         {
             "id": "quadruped_fire_hydrants_001",
             "name": "Quadruped Fire Hydrants",
-            "description": "On hands and knees, lift one leg out to side with knee bent. Strengthens hip abductors and improves hip stability.",
+            "description": "On all fours, lift one leg out to the side with knee bent. Like a dog at a fire hydrant! Strengthens hip abductors and improves stability.",
             "default_sets": 2,
             "default_reps": "10 reps each side",
             "difficulty": "beginner",
@@ -955,7 +955,7 @@
         {
             "id": "ankle_dorsiflexion_001",
             "name": "Ankle Dorsiflexion",
-            "description": "Stand facing wall, knee drives forward over toes. Improves ankle mobility for squatting and landing.",
+            "description": "Face a wall, drive your knee forward over your toes. Improves ankle mobility for better squats and landings. Most people need this!",
             "default_sets": 2,
             "default_reps": "10 reps each ankle",
             "difficulty": "beginner",
@@ -971,7 +971,7 @@
         {
             "id": "banded_pull_aparts_001",
             "name": "Banded Pull-Aparts",
-            "description": "Hold band at chest level, pull apart engaging upper back. Strengthens scapular retractors and rear delts.",
+            "description": "Hold a band at chest level, pull it apart by squeezing your shoulder blades together. Feel that upper back work! Keeps your shoulders healthy.",
             "default_sets": 2,
             "default_reps": "15 reps",
             "difficulty": "beginner",
@@ -987,7 +987,7 @@
         {
             "id": "face_pulls_band_001",
             "name": "Face Pulls (Band)",
-            "description": "Pull band to face level with elbows high. Excellent for shoulder health and upper back strength.",
+            "description": "Pull that band to your face with elbows high. Absolutely crucial for shoulder health! Your rear delts and upper back will thank you.",
             "default_sets": 2,
             "default_reps": "12 reps",
             "difficulty": "beginner",
@@ -1003,7 +1003,7 @@
         {
             "id": "external_rotation_band_001",
             "name": "External Rotation (Band)",
-            "description": "Elbow at 90 degrees by side, rotate forearm out against band resistance. Strengthens rotator cuff.",
+            "description": "Elbow at your side at 90 degrees, rotate your forearm out against the band. Strengthens rotator cuff - injury prevention at its finest!",
             "default_sets": 2,
             "default_reps": "12 reps each arm",
             "difficulty": "beginner",
@@ -1019,7 +1019,7 @@
         {
             "id": "internal_rotation_band_001",
             "name": "Internal Rotation (Band)",
-            "description": "Elbow at 90 degrees by side, rotate forearm in against band resistance. Balances rotator cuff strength.",
+            "description": "Same setup, rotate forearm in against resistance. Balance both directions of rotation for healthy shoulders!",
             "default_sets": 2,
             "default_reps": "12 reps each arm",
             "difficulty": "beginner",
@@ -1035,7 +1035,7 @@
         {
             "id": "serratus_wall_slides_001",
             "name": "Serratus Wall Slides",
-            "description": "Face wall, hands on wall. Push body away by protracting shoulders. Targets serratus anterior for scapular health.",
+            "description": "Face the wall, hands on it, push yourself away by protracting your shoulder blades. Targets serratus anterior - the handstand muscle!",
             "default_sets": 2,
             "default_reps": "10 reps",
             "difficulty": "beginner",
@@ -1050,7 +1050,7 @@
         {
             "id": "towel_scrunches_001",
             "name": "Towel Scrunches",
-            "description": "Place towel on floor. Use toes to scrunch towel toward you. Strengthens foot intrinsic muscles and arches.",
+            "description": "Put a towel on the floor, scrunch it toward you with your toes. Strengthens your foot arches and intrinsic muscles. Your feet need training too!",
             "default_sets": 2,
             "default_reps": "10 scrunches each foot",
             "difficulty": "beginner",
@@ -1066,7 +1066,7 @@
         {
             "id": "single_leg_balance_001",
             "name": "Single Leg Balance",
-            "description": "Stand on one leg, maintain balance for time. Improves ankle stability and proprioception.",
+            "description": "Stand on one leg and hold it! Seems easy but it builds ankle stability and proprioception. Challenge yourself - close your eyes!",
             "default_sets": 2,
             "default_reps": "30 seconds each leg",
             "difficulty": "beginner",
@@ -1082,7 +1082,7 @@
         {
             "id": "scapular_retractions_001",
             "name": "Scapular Retractions",
-            "description": "Squeeze shoulder blades together, hold, release. Fundamental exercise for shoulder health and posture.",
+            "description": "Squeeze those shoulder blades together, hold, release. The most basic shoulder health exercise. Master this movement pattern!",
             "default_sets": 2,
             "default_reps": "15 reps",
             "difficulty": "beginner",
@@ -1098,7 +1098,7 @@
         {
             "id": "prone_swimmers_001",
             "name": "Prone Swimmers",
-            "description": "Lie face down, alternate lifting opposite arm and leg in swimming motion. Great for posterior chain coordination.",
+            "description": "Face down, lift opposite arm and leg like you're swimming. Great for posterior chain coordination and strength. Keep it controlled!",
             "default_sets": 2,
             "default_reps": "20 reps",
             "difficulty": "beginner",
@@ -1115,7 +1115,7 @@
         {
             "id": "wall_ankle_mobility_001",
             "name": "Wall Ankle Mobility",
-            "description": "Knee-to-wall drill. Gradually increase distance from wall to improve ankle dorsiflexion range.",
+            "description": "Knee-to-wall drill - see how far from the wall you can get while still touching it with your knee. Progress this distance over time!",
             "default_sets": 2,
             "default_reps": "10 reps each leg",
             "difficulty": "beginner",
@@ -1131,7 +1131,7 @@
         {
             "id": "copenhagen_plank_001",
             "name": "Copenhagen Plank",
-            "description": "Side plank with top leg elevated on bench. Advanced exercise for hip adductor strength and injury prevention.",
+            "description": "Side plank with your top leg elevated on a bench. Advanced hip adductor strength! Prevents groin injuries for athletes.",
             "default_sets": 2,
             "default_reps": "15 seconds each side",
             "difficulty": "advanced",
@@ -1147,7 +1147,7 @@
         {
             "id": "glute_bridges_marching_001",
             "name": "Glute Bridges (Marching)",
-            "description": "In bridge position, alternately lift feet off ground. Challenges glute stability unilaterally.",
+            "description": "In bridge position, alternately lift each foot off the ground. Challenges your glute stability unilaterally. Don't let those hips drop!",
             "default_sets": 2,
             "default_reps": "10 reps each leg",
             "difficulty": "intermediate",
@@ -1163,7 +1163,7 @@
         {
             "id": "shoulder_001",
             "name": "Wall Slides",
-            "description": "An exercise to improve shoulder mobility and posture. Stand against wall, slide arms up and down while keeping contact with wall.",
+            "description": "Back against the wall, slide your arms up and down while maintaining contact. Perfect for fixing rounded shoulders and improving posture!",
             "default_sets": 3,
             "default_reps": "12 reps",
             "difficulty": "beginner",
@@ -1178,7 +1178,7 @@
         {
             "id": "shoulder_002",
             "name": "Shoulder Dislocates",
-            "description": "Hold a band or stick with wide grip. Keeping arms straight, rotate it from front to back over your head.",
+            "description": "Hold a band or stick wide, rotate it from front to back over your head. Sounds scary, feels amazing! Opens up those shoulders big time.",
             "default_sets": 3,
             "default_reps": "10 reps",
             "difficulty": "intermediate",
@@ -1192,7 +1192,7 @@
         {
             "id": "shoulder_003",
             "name": "Band Pull-Aparts",
-            "description": "Hold resistance band at chest level. Pull hands apart, squeezing shoulder blades together.",
+            "description": "Hold the band at chest level, pull it apart. Simple, effective, and your shoulders need this daily! Squeeze those shoulder blades!",
             "default_sets": 3,
             "default_reps": "15 reps",
             "difficulty": "beginner",
@@ -1207,7 +1207,7 @@
         {
             "id": "shoulder_rotations_001",
             "name": "Shoulder Rotations",
-            "description": "Stand with arms at sides. Make controlled circular motions with shoulders forward and backward. Warms up rotator cuff and increases mobility.",
+            "description": "Make big circles with your shoulders - forward and backward. Wake up that rotator cuff and get the blood flowing!",
             "default_sets": 1,
             "default_reps": "8 repeats each direction",
             "difficulty": "beginner",
@@ -1223,7 +1223,7 @@
         {
             "id": "shoulder_stretch_standing_001",
             "name": "Shoulder Stretch (Standing)",
-            "description": "Stand and pull one arm across body at chest height using opposite hand. Hold to stretch shoulder and upper back.",
+            "description": "Pull one arm across your body with the other hand. Hold and feel that shoulder and upper back stretch. Perfect after being at a desk all day!",
             "default_sets": 1,
             "default_reps": "15 seconds each side",
             "difficulty": "beginner",
@@ -1239,7 +1239,7 @@
         {
             "id": "handstand_line_builder_001",
             "name": "Handstand Line Builder",
-            "description": "Against wall, practice achieving and holding perfect handstand alignment - straight line from wrists to shoulders to hips. Advanced body awareness drill.",
+            "description": "Against the wall, practice that perfect handstand line - wrists, shoulders, hips all stacked. Body awareness is everything! Feel what straight feels like.",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "advanced",
@@ -1256,7 +1256,7 @@
         {
             "id": "puppy_pose_001",
             "name": "Puppy Pose",
-            "description": "Start on hands and knees. Walk hands forward while lowering chest toward ground, keeping hips over knees. Deep shoulder and spine stretch.",
+            "description": "On all fours, walk your hands forward and drop your chest toward the ground. Keep hips over knees! Deep shoulder and spine stretch that feels incredible.",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -1273,7 +1273,7 @@
         {
             "id": "forward_shoulder_stretch_001",
             "name": "Forward Shoulder Stretch",
-            "description": "Clasp hands behind back and lift arms up while bending forward. Opens chest and anterior shoulders.",
+            "description": "Clasp hands behind your back, lift them up while bending forward. Opens your chest and anterior shoulders. Breathe into it!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -1289,7 +1289,7 @@
         {
             "id": "overhead_shoulder_stretch_001",
             "name": "Overhead Shoulder Stretch",
-            "description": "Reach one arm overhead and bend elbow behind head. Use other hand to gently pull elbow. Stretches triceps and shoulders.",
+            "description": "Reach one arm overhead, bend the elbow behind your head, gently pull with the other hand. Stretches triceps and shoulders - hold it!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -1305,7 +1305,7 @@
         {
             "id": "behind_back_stretch_001",
             "name": "Behind-the-Back Arm Stretch",
-            "description": "Reach one arm behind back from below, other from above. Try to clasp hands or use a strap. Opens shoulders in multiple planes.",
+            "description": "Try to clasp hands behind your back - one arm from above, one from below. Use a strap if you can't reach! Opens shoulders in multiple planes.",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -1321,7 +1321,7 @@
         {
             "id": "downward_dog_001",
             "name": "Downward Dog",
-            "description": "Form inverted V-shape with body - hands and feet on ground, hips high. Classic yoga pose that opens shoulders, hamstrings, and calves.",
+            "description": "Make an inverted V with your body - hands and feet on the ground, hips high. Classic yoga pose that opens everything - shoulders, hamstrings, calves!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -1338,7 +1338,7 @@
         {
             "id": "shoulder_opener_band_001",
             "name": "Shoulder Opener (Elastic Band)",
-            "description": "Hold elastic band with wide grip. Pull it over and behind head in a slow, controlled motion. Great for improving shoulder flexibility.",
+            "description": "Hold band wide, pull it over your head and behind you in a slow, controlled arc. Your shoulder flexibility will skyrocket with this!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -1354,7 +1354,7 @@
         {
             "id": "shoulder_stretch_seated_back_001",
             "name": "Shoulder Stretch (Seated, Backwards)",
-            "description": "Sit with legs extended. Place hands behind you and walk them back to stretch anterior shoulders and chest while seated.",
+            "description": "Sit down, place hands behind you and walk them back. Stretches anterior shoulders and chest while seated. Simple but effective!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -1370,7 +1370,7 @@
         {
             "id": "wall_slides_001",
             "name": "Wall Slides",
-            "description": "Stand with back against wall. Slide arms up and down wall in 'W' to 'Y' pattern. Excellent rehab exercise for shoulder mobility and scapular control.",
+            "description": "Back against the wall, slide your arms up and down while maintaining contact. Perfect for fixing rounded shoulders and improving posture!",
             "default_sets": 2,
             "default_reps": "10 reps",
             "difficulty": "beginner",
@@ -1386,7 +1386,7 @@
         {
             "id": "arm_circles_small_forward_001",
             "name": "Arm Circles (Small, Forward)",
-            "description": "Extend arms to sides. Make small controlled circles forward. Gentle dynamic warm-up for stiff shoulders.",
+            "description": "Arms out to sides, make small controlled circles forward. Gentle shoulder warm-up that gets the blood flowing!",
             "default_sets": 1,
             "default_reps": "15 circles",
             "difficulty": "beginner",
@@ -1402,7 +1402,7 @@
         {
             "id": "arm_circles_small_backward_001",
             "name": "Arm Circles (Small, Backward)",
-            "description": "Extend arms to sides. Make small controlled circles backward. Activates posterior shoulder muscles.",
+            "description": "Same thing but backward! Hits different parts of your shoulders. Do both directions!",
             "default_sets": 1,
             "default_reps": "15 circles",
             "difficulty": "beginner",
@@ -1418,7 +1418,7 @@
         {
             "id": "arm_circles_large_001",
             "name": "Arm Circles (Large)",
-            "description": "Make large, full range circular motions with arms. Progress to bigger circles as shoulders warm up. Dynamic flexibility builder.",
+            "description": "Now make those circles BIG! Full range of motion. Progress from small to large as you warm up. Your shoulders need this movement!",
             "default_sets": 1,
             "default_reps": "10 circles each direction",
             "difficulty": "beginner",
@@ -1434,7 +1434,7 @@
         {
             "id": "pendulum_swings_001",
             "name": "Pendulum Swings",
-            "description": "Bend forward, let one arm hang. Gently swing arm in circles and lines. Classic rehab exercise for shoulder mobility.",
+            "description": "Bend forward, let one arm hang, swing it in circles and lines. Classic rehab move for shoulder mobility. Just let gravity do the work!",
             "default_sets": 1,
             "default_reps": "10 circles each direction per arm",
             "difficulty": "beginner",
@@ -1450,7 +1450,7 @@
         {
             "id": "thread_the_needle_001",
             "name": "Thread the Needle",
-            "description": "On hands and knees, reach one arm under body and through to opposite side. Excellent for thoracic and shoulder rotation.",
+            "description": "On all fours, reach one arm under your body and through to the other side. Perfect for thoracic and shoulder rotation! Feel that twist!",
             "default_sets": 1,
             "default_reps": "8 reps each side",
             "difficulty": "beginner",
@@ -1467,7 +1467,7 @@
         {
             "id": "shoulder_cars_001",
             "name": "Shoulder CARs (Controlled Articular Rotations)",
-            "description": "Stand, move arm through full circular range of motion slowly and deliberately. Explores and expands shoulder mobility.",
+            "description": "Slowly move your arm through its full circular range of motion. Every angle, deliberately. This explores and expands your shoulder mobility!",
             "default_sets": 1,
             "default_reps": "5 circles each direction per arm",
             "difficulty": "intermediate",
@@ -1483,7 +1483,7 @@
         {
             "id": "wall_angels_001",
             "name": "Wall Angels",
-            "description": "Back against wall, arms in 'goal post' position. Slide arms up overhead and back down. Snow angel motion against wall.",
+            "description": "Back against wall, arms in goal post position, slide them up and down like making snow angels. Keep everything touching the wall!",
             "default_sets": 2,
             "default_reps": "12 reps",
             "difficulty": "beginner",
@@ -1500,7 +1500,7 @@
         {
             "id": "prone_i_raises_001",
             "name": "Prone I Raises",
-            "description": "Lie face down, arms extended overhead in 'I' shape. Lift arms slightly off ground. Gentle strengthening for overhead position.",
+            "description": "Face down, arms overhead in an I shape, lift them slightly. Gentle strengthening for that overhead position!",
             "default_sets": 2,
             "default_reps": "10 reps",
             "difficulty": "beginner",
@@ -1516,7 +1516,7 @@
         {
             "id": "prone_y_raises_001",
             "name": "Prone Y Raises",
-            "description": "Lie face down, arms in 'Y' position (45 degrees from head). Lift arms off ground. Targets lower traps and shoulder stabilizers.",
+            "description": "Face down, arms in a Y (45 degrees from your head), lift them up. Targets lower traps - crucial for healthy shoulders!",
             "default_sets": 2,
             "default_reps": "10 reps",
             "difficulty": "beginner",
@@ -1532,7 +1532,7 @@
         {
             "id": "prone_t_raises_001",
             "name": "Prone T Raises",
-            "description": "Lie face down, arms out to sides in 'T'. Lift arms with thumbs up. Strengthens mid-back and posterior shoulder.",
+            "description": "Face down, arms out to sides in a T, lift with thumbs up. Mid-back and posterior shoulder work! Feel that squeeze!",
             "default_sets": 2,
             "default_reps": "10 reps",
             "difficulty": "beginner",
@@ -1549,7 +1549,7 @@
         {
             "id": "wall_shoulder_flexion_001",
             "name": "Wall Shoulder Flexion",
-            "description": "Face wall, walk fingers up as high as possible. Hold briefly at top. Gentle active stretch for overhead mobility.",
+            "description": "Face a wall, walk your fingers up as high as possible. Hold at the top! Gentle active stretch for overhead mobility.",
             "default_sets": 2,
             "default_reps": "8 reps",
             "difficulty": "beginner",
@@ -1565,7 +1565,7 @@
         {
             "id": "scapular_wall_slides_001",
             "name": "Scapular Wall Slides",
-            "description": "Face wall, hands on wall at chest height. Slide body toward wall by protracting/retracting shoulder blades. Scapular control drill.",
+            "description": "Face the wall, hands on it, push yourself away by moving your shoulder blades. Serratus anterior activation!",
             "default_sets": 2,
             "default_reps": "12 reps",
             "difficulty": "beginner",
@@ -1581,7 +1581,7 @@
         {
             "id": "towel_slides_001",
             "name": "Towel Slides",
-            "description": "On smooth floor, hands on towels. Slide arms forward and back, or out to sides. Low-impact dynamic shoulder mobility.",
+            "description": "On a smooth floor, hands on towels, slide them forward and back or out to sides. Low-impact dynamic shoulder mobility!",
             "default_sets": 2,
             "default_reps": "10 reps",
             "difficulty": "beginner",
@@ -1597,7 +1597,7 @@
         {
             "id": "cross_body_arm_swings_001",
             "name": "Cross-Body Arm Swings",
-            "description": "Swing arms across body in controlled motion, alternating. Dynamic warm-up for shoulder and chest.",
+            "description": "Swing your arms across your body, alternating sides. Dynamic warm-up for shoulders and chest!",
             "default_sets": 1,
             "default_reps": "15 swings",
             "difficulty": "beginner",
@@ -1613,7 +1613,7 @@
         {
             "id": "quadruped_shoulder_rotations_001",
             "name": "Quadruped Shoulder Rotations",
-            "description": "On hands and knees, rotate one shoulder externally/internally while keeping hand planted. Improves rotator cuff mobility.",
+            "description": "On all fours, rotate one shoulder while keeping your hand planted. Improves rotator cuff mobility with load!",
             "default_sets": 1,
             "default_reps": "8 reps each direction per arm",
             "difficulty": "beginner",
@@ -1629,7 +1629,7 @@
         {
             "id": "dynamic_sleeper_stretch_001",
             "name": "Dynamic Sleeper Stretch",
-            "description": "Lie on side, bend elbow 90 degrees. Gently rotate forearm toward floor in pulsing motion. Improves internal rotation.",
+            "description": "Lie on your side, elbow bent 90 degrees, pulse your forearm toward the floor. Improves internal rotation!",
             "default_sets": 1,
             "default_reps": "10 pulses each side",
             "difficulty": "beginner",
@@ -1645,7 +1645,7 @@
         {
             "id": "book_openers_001",
             "name": "Book Openers",
-            "description": "Lie on side with knees bent. Open top arm like opening a book, following hand with eyes. Excellent thoracic rotation and shoulder opener.",
+            "description": "Lie on your side, open your top arm like opening a book, follow it with your eyes. Amazing thoracic rotation and shoulder opener!",
             "default_sets": 1,
             "default_reps": "8 reps each side",
             "difficulty": "beginner",
@@ -1662,7 +1662,7 @@
         {
             "id": "reverse_prayer_progression_001",
             "name": "Reverse Prayer Progression",
-            "description": "Bring hands behind back, press palms together with fingers pointing up. If too difficult, clasp hands or forearms. Advanced shoulder mobility.",
+            "description": "Bring hands behind back, press palms together with fingers up. Advanced shoulder mobility - use modifications if needed!",
             "default_sets": 1,
             "default_reps": "20 seconds hold",
             "difficulty": "intermediate",
@@ -1679,7 +1679,7 @@
         {
             "id": "shoulder_elevation_depression_001",
             "name": "Shoulder Elevation/Depression",
-            "description": "Stand with arms overhead. Actively push up (elevate) then pull down (depress). Builds awareness of shoulder blade control.",
+            "description": "Arms overhead, actively push up then pull down. Building awareness of shoulder blade control!",
             "default_sets": 2,
             "default_reps": "12 reps",
             "difficulty": "beginner",
@@ -1695,7 +1695,7 @@
         {
             "id": "doorway_stretch_001",
             "name": "Doorway Stretch",
-            "description": "Stand in doorway, hands on frame. Step forward to stretch chest and anterior shoulders. Classic doorway opener.",
+            "description": "Stand in a doorway, hands on the frame, step forward. Classic chest and anterior shoulder opener that never gets old!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -1711,7 +1711,7 @@
         {
             "id": "shoulder_pass_throughs_001",
             "name": "Shoulder Pass-Throughs (PVC/Band)",
-            "description": "Hold PVC pipe or band with wide grip. Pass it overhead and behind body in circular motion. Excellent mobility drill.",
+            "description": "Hold PVC or band wide, pass it overhead and behind you in a circle. Excellent mobility drill!",
             "default_sets": 2,
             "default_reps": "10 pass-throughs",
             "difficulty": "beginner",
@@ -1727,7 +1727,7 @@
         {
             "id": "eagle_arms_001",
             "name": "Eagle Arms",
-            "description": "Cross arms and wrap forearms, press elbows up. Yoga pose that opens upper back and shoulders.",
+            "description": "Cross arms and wrap forearms, press elbows up. Yoga pose that opens upper back and shoulders. Feels weird, works great!",
             "default_sets": 1,
             "default_reps": "20 seconds each side",
             "difficulty": "beginner",
@@ -1743,7 +1743,7 @@
         {
             "id": "cow_face_arms_001",
             "name": "Cow Face Arms",
-            "description": "One arm overhead bent behind, other behind back bent up. Try to clasp hands. Use strap if needed.",
+            "description": "One arm overhead bent behind, other behind back bent up, try to clasp hands. Use a strap if needed! Multi-plane shoulder stretch.",
             "default_sets": 1,
             "default_reps": "20 seconds each side",
             "difficulty": "intermediate",
@@ -1759,7 +1759,7 @@
         {
             "id": "handstand_001",
             "name": "Wall Handstand Hold",
-            "description": "Hold a handstand against a wall to build strength and endurance. Focus on maintaining hollow body position.",
+            "description": "Get upside down against that wall and HOLD IT! Focus on pushing through your shoulders, keep that hollow body tight. This builds the foundational strength!",
             "default_sets": 4,
             "default_reps": "30-60 seconds",
             "difficulty": "intermediate",
@@ -1775,7 +1775,7 @@
         {
             "id": "handstand_002",
             "name": "Handstand Shoulder Taps",
-            "description": "In a wall handstand, carefully tap alternating shoulders while maintaining balance.",
+            "description": "In a wall handstand, carefully tap your shoulders one at a time. Balance challenge on steroids! Your core is working overtime here.",
             "default_sets": 3,
             "default_reps": "8-12 taps",
             "difficulty": "advanced",
@@ -1790,7 +1790,7 @@
         {
             "id": "handstand_003",
             "name": "Chest-to-Wall Handstand",
-            "description": "Face the wall in handstand position. This variation emphasizes proper alignment and balance.",
+            "description": "Face the wall, walk up into handstand. Way harder than back-to-wall because it's closer to freestanding. This is next-level balance work!",
             "default_sets": 3,
             "default_reps": "30-45 seconds",
             "difficulty": "intermediate",
@@ -1806,7 +1806,7 @@
         {
             "id": "handstand_004",
             "name": "Handstand Walk (Wall)",
-            "description": "In wall handstand, walk hands side to side to build coordination and strength.",
+            "description": "In wall handstand, walk your hands side to side. Builds coordination and strength simultaneously. Feel that shoulder control!",
             "default_sets": 3,
             "default_reps": "6-8 steps each direction",
             "difficulty": "advanced",
@@ -1822,7 +1822,7 @@
         {
             "id": "plank_hold_001",
             "name": "Plank Hold",
-            "description": "Hold a plank position with straight body line. Builds foundational core strength and shoulder stability for handstands.",
+            "description": "Hold that plank - straight body line from head to heels! Shoulders over wrists, core tight. This is your foundation for everything inverted.",
             "default_sets": 2,
             "default_reps": "15 seconds",
             "difficulty": "intermediate",
@@ -1838,7 +1838,7 @@
         {
             "id": "walk_to_feet_001",
             "name": "Walk To Feet",
-            "description": "From plank, walk feet toward hands to create inverted V position. Builds shoulder strength and prepares for handstand entry.",
+            "description": "From plank, walk your feet toward your hands to create that inverted V. Builds shoulder strength and prepares you for handstand entries!",
             "default_sets": 2,
             "default_reps": "5 steps (3 repeats)",
             "difficulty": "intermediate",
@@ -1854,7 +1854,7 @@
         {
             "id": "walk_to_hands_001",
             "name": "Walk To Hands",
-            "description": "From inverted V position, walk hands toward feet. Develops shoulder mobility and strength in pike position.",
+            "description": "From the V position, walk your hands toward your feet. Shoulder mobility and strength in the pike position - crucial for press handstands!",
             "default_sets": 2,
             "default_reps": "5 steps (3 repeats)",
             "difficulty": "intermediate",
@@ -1870,7 +1870,7 @@
         {
             "id": "walk_to_feet_elevated_001",
             "name": "Walk To Feet (Elevated)",
-            "description": "Walk feet up onto elevated surface like box or chair. More challenging variation that increases shoulder load.",
+            "description": "Walk feet up onto a box or chair. More challenging because your shoulders are carrying more load. Level up!",
             "default_sets": 2,
             "default_reps": "3 repeats",
             "difficulty": "intermediate",
@@ -1886,7 +1886,7 @@
         {
             "id": "planche_leans_001",
             "name": "Planche Leans",
-            "description": "In plank, shift weight forward over hands as far as possible. Advanced exercise building straight-arm pressing strength.",
+            "description": "Plank position, lean shoulders forward past wrists. Hold and return. Straight-arm pressing strength - advanced stuff!",
             "default_sets": 2,
             "default_reps": "3 repeats",
             "difficulty": "intermediate",
@@ -1903,7 +1903,7 @@
         {
             "id": "wall_crow_001",
             "name": "Wall Crow",
-            "description": "Squat with hands on ground, knees on elbows, feet against wall. Fundamental position for learning handstand balance and control.",
+            "description": "Squat, hands down, knees on elbows, feet on wall. This is where you learn handstand balance fundamentals. Master this position!",
             "default_sets": 3,
             "default_reps": "8 seconds hold",
             "difficulty": "beginner",
@@ -1920,7 +1920,7 @@
         {
             "id": "wall_crow_entries_001",
             "name": "Wall Crow Entries",
-            "description": "Practice entering Wall Crow position repeatedly. Builds confidence and muscle memory for handstand entries.",
+            "description": "Practice getting into Wall Crow over and over. Building that muscle memory and confidence for handstand entries!",
             "default_sets": 2,
             "default_reps": "5 repeats",
             "difficulty": "beginner",
@@ -1936,7 +1936,7 @@
         {
             "id": "wall_crow_push_outs_001",
             "name": "Wall Crow Push Outs",
-            "description": "From Wall Crow, push hips up toward wall handstand position then return. Builds strength for handstand press-ups.",
+            "description": "From Wall Crow, push your hips up toward handstand then come back down. This is press-to-handstand training!",
             "default_sets": 2,
             "default_reps": "3 repeats (with 3 sec hold)",
             "difficulty": "intermediate",
@@ -1952,7 +1952,7 @@
         {
             "id": "wall_crow_max_hold_001",
             "name": "Wall Crow (Max Hold)",
-            "description": "Hold Wall Crow position for maximum time. Tests endurance and mental focus in inverted position.",
+            "description": "Hold Wall Crow as long as you possibly can. Mental toughness and endurance in the inverted position. Push your limits!",
             "default_sets": 1,
             "default_reps": "1 max hold",
             "difficulty": "advanced",
@@ -1968,7 +1968,7 @@
         {
             "id": "wall_crow_chair_001",
             "name": "Wall Crow (Chair Variation)",
-            "description": "Perform Wall Crow with feet elevated on chair. Increases shoulder angle and difficulty.",
+            "description": "Wall Crow with feet on a chair - increases the shoulder angle and difficulty. Progressive overload in action!",
             "default_sets": 3,
             "default_reps": "5 repeats",
             "difficulty": "intermediate",
@@ -1984,7 +1984,7 @@
         {
             "id": "wall_crow_one_leg_001",
             "name": "Wall Crow (1-Leg Isolation)",
-            "description": "In Wall Crow, extend one leg at a time. Develops unilateral control and balance for freestanding handstands.",
+            "description": "In Wall Crow, extend one leg at a time. Building unilateral control for freestanding handstands. This is advanced stuff!",
             "default_sets": 2,
             "default_reps": "3 repeats each leg",
             "difficulty": "intermediate",
@@ -2000,7 +2000,7 @@
         {
             "id": "wall_crow_shoulder_shrugs_001",
             "name": "Wall Crow (Shoulder Shrugs)",
-            "description": "In Wall Crow hold, perform shoulder elevation and depression. Advanced scapular control exercise.",
+            "description": "In Wall Crow, perform shoulder elevation and depression. Advanced scapular control that translates directly to handstand!",
             "default_sets": 1,
             "default_reps": "5 repeats",
             "difficulty": "advanced",
@@ -2016,7 +2016,7 @@
         {
             "id": "wall_crow_legs_isolation_001",
             "name": "Wall Crow (Legs Isolation)",
-            "description": "In Wall Crow, lift both legs off elbows simultaneously. Very advanced control exercise preparing for press to handstand.",
+            "description": "Lift BOTH legs off your elbows simultaneously. Insane control exercise! This is press-to-handstand territory.",
             "default_sets": 1,
             "default_reps": "1 repeat",
             "difficulty": "advanced",
@@ -2033,7 +2033,7 @@
         {
             "id": "wall_crow_to_handstand_001",
             "name": "Wall Crow to Handstand",
-            "description": "From Wall Crow, press up to full wall handstand. Advanced pressing movement requiring significant shoulder and core strength.",
+            "description": "Press from Wall Crow all the way up to handstand. The ultimate goal! Requires serious shoulder and core strength.",
             "default_sets": 2,
             "default_reps": "1 repeat",
             "difficulty": "advanced",
@@ -2050,7 +2050,7 @@
         {
             "id": "kick_up_practice_001",
             "name": "Kick-Up Practice (Wall)",
-            "description": "Practice kicking up to wall handstand. Start gently, focus on controlled entry. Fundamental handstand entry skill.",
+            "description": "Practice kicking up to wall handstand. Start gentle, focus on control not power. This is your entry skill!",
             "default_sets": 3,
             "default_reps": "5 attempts",
             "difficulty": "beginner",
@@ -2067,7 +2067,7 @@
         {
             "id": "kick_up_drills_001",
             "name": "Kick-Up Drills (Partner Spot)",
-            "description": "Practice kick-ups with partner spotting. Build confidence for freestanding attempts.",
+            "description": "Practice kick-ups with a spotter. Build confidence for freestanding attempts. Having that safety net helps!",
             "default_sets": 2,
             "default_reps": "8 attempts",
             "difficulty": "intermediate",
@@ -2083,7 +2083,7 @@
         {
             "id": "handstand_negative_001",
             "name": "Handstand Negative (Wall)",
-            "description": "Start in wall handstand, slowly lower down with control. Eccentric strength builder for press to handstand.",
+            "description": "Start in wall handstand, slowly lower down with control. Eccentric strength builder for press handstands. Slow is hard!",
             "default_sets": 2,
             "default_reps": "3 reps",
             "difficulty": "intermediate",
@@ -2100,7 +2100,7 @@
         {
             "id": "tuck_handstand_negative_001",
             "name": "Tuck Handstand Negative",
-            "description": "From wall handstand, tuck knees to chest, slowly lower down. Easier variation of handstand negative.",
+            "description": "From wall handstand, tuck your knees to chest, slowly lower. Easier than the full version but still challenging!",
             "default_sets": 2,
             "default_reps": "4 reps",
             "difficulty": "beginner",
@@ -2116,7 +2116,7 @@
         {
             "id": "straddle_negative_001",
             "name": "Straddle Handstand Negative",
-            "description": "From wall handstand, spread legs wide (straddle), lower down with control. Intermediate press progression.",
+            "description": "Lower down from handstand with legs wide in a straddle. Intermediate press progression. Feel that shoulder burn!",
             "default_sets": 2,
             "default_reps": "3 reps",
             "difficulty": "intermediate",
@@ -2133,7 +2133,7 @@
         {
             "id": "l_sit_floor_001",
             "name": "L-Sit (Floor)",
-            "description": "Sit with legs extended, hands beside hips. Press down to lift entire body off ground. Fundamental gymnastics strength hold.",
+            "description": "Hands beside hips, press down to lift your entire body with legs extended. Fundamental gymnastics hold that builds crazy strength!",
             "default_sets": 3,
             "default_reps": "10-15 seconds",
             "difficulty": "intermediate",
@@ -2150,7 +2150,7 @@
         {
             "id": "l_sit_parallettes_001",
             "name": "L-Sit (Parallettes)",
-            "description": "L-sit on parallettes or blocks. Extra height makes it easier than floor version. Great progression step.",
+            "description": "L-sit on parallettes or blocks. The extra height makes it easier - great progression step toward the floor version!",
             "default_sets": 3,
             "default_reps": "12-20 seconds",
             "difficulty": "beginner",
@@ -2167,7 +2167,7 @@
         {
             "id": "tuck_l_sit_001",
             "name": "Tuck L-Sit",
-            "description": "Hands on floor, pull knees to chest and lift hips off ground. Beginner L-sit progression.",
+            "description": "Pull knees to chest and lift everything off the ground. Beginner L-sit progression that still challenges your core and shoulders!",
             "default_sets": 3,
             "default_reps": "15 seconds",
             "difficulty": "beginner",
@@ -2183,7 +2183,7 @@
         {
             "id": "one_leg_l_sit_001",
             "name": "One-Leg L-Sit",
-            "description": "Lift body with one leg extended, one bent. Easier than full L-sit, good for building strength.",
+            "description": "Lift body with one leg extended, one bent. Easier than full L-sit but still builds the necessary strength!",
             "default_sets": 3,
             "default_reps": "10 seconds each leg",
             "difficulty": "beginner",
@@ -2199,7 +2199,7 @@
         {
             "id": "v_sit_001",
             "name": "V-Sit",
-            "description": "Like L-sit but lift legs higher to create V shape with body. Advanced core and hip flexor strength.",
+            "description": "Like L-sit but lift those legs higher to make a V. Advanced stuff! Core and hip flexor strength through the roof.",
             "default_sets": 2,
             "default_reps": "8-12 seconds",
             "difficulty": "advanced",
@@ -2216,7 +2216,7 @@
         {
             "id": "pike_compression_001",
             "name": "Pike Compression",
-            "description": "Stand, fold forward and hug legs to chest. Pull upper body down to legs. Essential flexibility for press to handstand.",
+            "description": "Fold forward and hug your legs to your chest. Pull hard! This compression strength is essential for press handstands.",
             "default_sets": 2,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -2232,7 +2232,7 @@
         {
             "id": "seated_pike_compression_001",
             "name": "Seated Pike Compression",
-            "description": "Sit with legs extended, lean forward and pull chest to thighs. Hold. Builds pike compression strength.",
+            "description": "Sit with legs extended, lean forward and pull your chest to thighs. Build that pike compression strength sitting down!",
             "default_sets": 2,
             "default_reps": "20 seconds",
             "difficulty": "beginner",
@@ -2248,7 +2248,7 @@
         {
             "id": "elevated_pike_push_up_001",
             "name": "Elevated Pike Push-Up",
-            "description": "Feet on box/chair, pike position, perform push-up. More vertical than regular pike push-up, mimics handstand pressing angle.",
+            "description": "Feet on a box, pike position, do push-ups. More vertical than regular pike push-ups - mimics the handstand pressing angle!",
             "default_sets": 3,
             "default_reps": "6-10 reps",
             "difficulty": "intermediate",
@@ -2264,7 +2264,7 @@
         {
             "id": "headstand_hold_001",
             "name": "Headstand Hold",
-            "description": "Balance on head and forearms. Gentler inversion than handstand, builds spatial awareness and balance.",
+            "description": "Balance on your head and forearms. Gentler inversion than handstand but still builds spatial awareness and balance!",
             "default_sets": 2,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -2281,7 +2281,7 @@
         {
             "id": "tripod_headstand_001",
             "name": "Tripod Headstand",
-            "description": "Head and hands form triangle, knees rest on elbows. Beginner-friendly inversion building confidence.",
+            "description": "Head and hands form a triangle, knees rest on elbows. Beginner-friendly inversion that builds confidence!",
             "default_sets": 2,
             "default_reps": "20 seconds",
             "difficulty": "beginner",
@@ -2297,7 +2297,7 @@
         {
             "id": "forearm_stand_001",
             "name": "Forearm Stand (Wall)",
-            "description": "Handstand on forearms instead of hands. Lower center of gravity, easier balance. Great for building confidence.",
+            "description": "Handstand but on your forearms! Lower center of gravity makes balance easier. Great for building confidence upside down!",
             "default_sets": 2,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -2313,7 +2313,7 @@
         {
             "id": "straddle_press_attempt_001",
             "name": "Straddle Press Attempt",
-            "description": "From pike with legs wide, attempt to lift hips and legs while leaning shoulders forward. Press to handstand progression.",
+            "description": "From pike with legs wide, try to lift hips and legs by leaning shoulders forward. Press handstand progression - keep trying!",
             "default_sets": 2,
             "default_reps": "5 attempts",
             "difficulty": "advanced",
@@ -2330,7 +2330,7 @@
         {
             "id": "tuck_press_practice_001",
             "name": "Tuck Press Practice",
-            "description": "From squat, hands down, lean forward and lift feet. Tucked press to handstand is easiest press variation.",
+            "description": "From squat, lean forward and lift your feet. Tucked press is the easiest press variation. Build toward this!",
             "default_sets": 2,
             "default_reps": "5 attempts",
             "difficulty": "intermediate",
@@ -2346,7 +2346,7 @@
         {
             "id": "press_lean_holds_001",
             "name": "Press Lean Holds",
-            "description": "From pike, lean shoulders far forward, hold. Builds shoulder strength for press entry without going all the way up.",
+            "description": "From pike, lean shoulders way forward and hold. Builds shoulder strength for press entry without going all the way!",
             "default_sets": 3,
             "default_reps": "5-10 seconds",
             "difficulty": "intermediate",
@@ -2362,7 +2362,7 @@
         {
             "id": "handstand_hops_001",
             "name": "Handstand Hops",
-            "description": "In handstand position, perform small hops with hands. Advanced balance and shoulder control exercise.",
+            "description": "In handstand, do small hops with your hands. Advanced balance and shoulder control! Feel that explosive strength.",
             "default_sets": 2,
             "default_reps": "8-10 hops",
             "difficulty": "advanced",
@@ -2379,7 +2379,7 @@
         {
             "id": "handstand_splits_001",
             "name": "Handstand Splits",
-            "description": "In wall handstand, open legs into splits position. Requires hip flexibility and core control.",
+            "description": "In wall handstand, open your legs into splits. Requires hip flexibility and core control. Show off those flexible hips!",
             "default_sets": 2,
             "default_reps": "20 seconds",
             "difficulty": "intermediate",
@@ -2395,7 +2395,7 @@
         {
             "id": "frog_stand_001",
             "name": "Frog Stand",
-            "description": "Squat, place hands flat, knees on elbows, lean forward until feet lift. Essential balancing skill, beginner arm balance.",
+            "description": "Squat, hands flat, knees on elbows, lean forward until feet lift. Essential balancing skill! This is where arm balances begin.",
             "default_sets": 3,
             "default_reps": "15-20 seconds",
             "difficulty": "beginner",
@@ -2412,7 +2412,7 @@
         {
             "id": "crow_pose_001",
             "name": "Crow Pose",
-            "description": "Like frog stand but lift hips higher, straighten arms more. Classic yoga arm balance preparing for handstands.",
+            "description": "Like frog stand but lift hips higher and straighten arms more. Classic yoga arm balance. Master this before moving on!",
             "default_sets": 2,
             "default_reps": "20 seconds",
             "difficulty": "beginner",
@@ -2429,7 +2429,7 @@
         {
             "id": "tuck_planche_lean_001",
             "name": "Tuck Planche Lean",
-            "description": "In tuck position on hands, lean forward as far as possible. Builds straight-arm strength for advanced skills.",
+            "description": "Tuck position on hands, lean forward as far as possible. Straight-arm strength for advanced skills. This is next-level!",
             "default_sets": 2,
             "default_reps": "8-12 seconds",
             "difficulty": "advanced",
@@ -2446,7 +2446,7 @@
         {
             "id": "pirouette_practice_001",
             "name": "Handstand Pirouette Practice",
-            "description": "In handstand, practice small rotations (quarter turns). Advanced skill building rotation control.",
+            "description": "In handstand, practice small rotations. Advanced skill! Building that rotation control takes time.",
             "default_sets": 2,
             "default_reps": "4 attempts each direction",
             "difficulty": "advanced",
@@ -2463,7 +2463,7 @@
         {
             "id": "wall_walks_001",
             "name": "Wall Walks",
-            "description": "Start in plank facing away from wall. Walk feet up wall while walking hands toward wall. Full body strength builder.",
+            "description": "Start in plank, walk feet up wall while walking hands toward it. Full body strength builder that's harder than it looks!",
             "default_sets": 2,
             "default_reps": "3-5 walks",
             "difficulty": "beginner",
@@ -2480,7 +2480,7 @@
         {
             "id": "handstand_wall_hold_away_001",
             "name": "Handstand Hold (Stomach to Wall)",
-            "description": "Walk up to handstand with stomach facing wall. More challenging balance than back-to-wall, closer to freestanding.",
+            "description": "Walk up with stomach facing wall. More challenging than back-to-wall - closer to freestanding balance!",
             "default_sets": 3,
             "default_reps": "30-45 seconds",
             "difficulty": "intermediate",
@@ -2496,7 +2496,7 @@
         {
             "id": "conditioning_001",
             "name": "Plank",
-            "description": "A core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
+            "description": "Hold that push-up position! Straight line from head to heels, shoulders over wrists, core TIGHT. Time under tension is everything!",
             "default_sets": 3,
             "default_reps": "60 seconds",
             "difficulty": "beginner",
@@ -2511,7 +2511,7 @@
         {
             "id": "conditioning_002",
             "name": "Push-ups",
-            "description": "Classic upper body exercise. Lower body to ground and push back up, keeping core tight.",
+            "description": "Classic upper body strength! Lower down with control, push back up. Keep that core tight throughout. Quality over quantity!",
             "default_sets": 3,
             "default_reps": "10-15 reps",
             "difficulty": "beginner",
@@ -2527,7 +2527,7 @@
         {
             "id": "conditioning_003",
             "name": "Pike Push-ups",
-            "description": "Start in downward dog position. Lower head to ground, focusing on shoulder strength.",
+            "description": "Start in downward dog position, lower your head toward the ground. This mimics handstand push-ups - pure shoulder strength!",
             "default_sets": 3,
             "default_reps": "8-12 reps",
             "difficulty": "intermediate",
@@ -2542,7 +2542,7 @@
         {
             "id": "conditioning_004",
             "name": "Hollow Body Hold",
-            "description": "Lie on back, press lower back to ground, lift shoulders and legs. This builds core strength for handstands.",
+            "description": "Lie down, press lower back to floor, lift shoulders and legs. THIS is the secret to handstand balance. Master this shape!",
             "default_sets": 3,
             "default_reps": "30-45 seconds",
             "difficulty": "intermediate",
@@ -2556,7 +2556,7 @@
         {
             "id": "shoulder_shrugs_standing_001",
             "name": "Shoulder Shrugs (Standing)",
-            "description": "Stand with arms at sides. Elevate shoulders toward ears, hold briefly, then depress. Strengthens upper traps and improves shoulder mobility.",
+            "description": "Elevate shoulders toward ears, hold, depress. Simple but builds trap strength and shoulder mobility awareness!",
             "default_sets": 2,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -2572,7 +2572,7 @@
         {
             "id": "shoulder_shrugs_knees_001",
             "name": "Shoulder Shrugs (On Knees)",
-            "description": "On hands and knees, perform shoulder elevation and depression while maintaining plank-like position. Builds scapular strength for handstands.",
+            "description": "On all fours, elevate and depress your shoulders while holding position. Scapular strength for handstands - don't skip this!",
             "default_sets": 2,
             "default_reps": "10 repeats",
             "difficulty": "intermediate",
@@ -2588,7 +2588,7 @@
         {
             "id": "planche_leans_conditioning_001",
             "name": "Planche Leans",
-            "description": "In plank, lean shoulders forward past wrists as far as possible. Hold and return. Builds straight-arm strength for advanced skills.",
+            "description": "Plank position, lean shoulders forward past wrists. Hold and return. Straight-arm pressing strength - advanced stuff!",
             "default_sets": 2,
             "default_reps": "6 repeats",
             "difficulty": "intermediate",
@@ -2605,7 +2605,7 @@
         {
             "id": "forearm_planche_leans_001",
             "name": "Forearm Planche Leans",
-            "description": "On forearms in plank, lean forward past elbows. Forearm variation for building strength progressively.",
+            "description": "Same thing but on forearms. Slightly easier angle for building strength progressively. Still burns though!",
             "default_sets": 2,
             "default_reps": "4 repeats",
             "difficulty": "intermediate",
@@ -2621,7 +2621,7 @@
         {
             "id": "press_leans_001",
             "name": "Press Leans",
-            "description": "From pike position, lean shoulders forward over hands. Key exercise for learning press to handstand.",
+            "description": "From pike, lean shoulders way forward over hands. KEY exercise for learning press handstands. Feel that shoulder load!",
             "default_sets": 2,
             "default_reps": "5 repeats",
             "difficulty": "intermediate",
@@ -2637,7 +2637,7 @@
         {
             "id": "scissors_on_back_001",
             "name": "Scissors (On Back)",
-            "description": "Lie on back with legs raised. Alternate crossing legs in scissor motion. Great for lower abs and hip flexors.",
+            "description": "Legs raised, cross them in scissor motion. Lower abs and hip flexors working hard! Keep that lower back pressed down.",
             "default_sets": 1,
             "default_reps": "20 repeats",
             "difficulty": "beginner",
@@ -2653,7 +2653,7 @@
         {
             "id": "flutter_kicks_001",
             "name": "Flutter Kicks",
-            "description": "Lie on back with legs elevated. Make small alternating kicking motions. Builds lower ab endurance.",
+            "description": "Legs elevated, make small alternating kicks. Lower ab endurance builder. Your core is gonna be on fire!",
             "default_sets": 1,
             "default_reps": "25 repeats",
             "difficulty": "intermediate",
@@ -2669,7 +2669,7 @@
         {
             "id": "abs_twists_001",
             "name": "Abs Twists",
-            "description": "Sit with legs elevated, lean back slightly. Twist torso side to side, touching hands to ground. Works obliques and rotational strength.",
+            "description": "Sit with legs elevated, lean back, twist side to side touching hands to ground. Obliques and rotational strength!",
             "default_sets": 1,
             "default_reps": "20 repeats",
             "difficulty": "beginner",
@@ -2685,7 +2685,7 @@
         {
             "id": "fire_hydrant_001",
             "name": "Fire Hydrant",
-            "description": "On hands and knees, lift one leg out to side while keeping knee bent. Strengthens glutes and hip abductors.",
+            "description": "On all fours, lift leg out to the side. Like a dog at a fire hydrant! Glutes and hip abductors getting stronger.",
             "default_sets": 1,
             "default_reps": "10 repeats each side",
             "difficulty": "beginner",
@@ -2701,7 +2701,7 @@
         {
             "id": "knee_extensions_001",
             "name": "Knee Extensions",
-            "description": "Sit with one leg extended, other bent. Lift bent leg and extend knee, then lower. Strengthens quads and improves knee stability.",
+            "description": "Sit with one leg bent, lift and extend the knee, lower. Quad strength and knee stability in one!",
             "default_sets": 1,
             "default_reps": "15 repeats each leg",
             "difficulty": "beginner",
@@ -2717,7 +2717,7 @@
         {
             "id": "toe_taps_001",
             "name": "Toe Taps",
-            "description": "Lie on back with legs in tabletop. Slowly lower and tap one toe to ground, then return. Alternating. Core stability exercise.",
+            "description": "Lie on back, legs in tabletop, slowly tap toes to ground alternating. Core stability exercise that's harder than it looks!",
             "default_sets": 1,
             "default_reps": "15 repeats each side",
             "difficulty": "beginner",
@@ -2733,7 +2733,7 @@
         {
             "id": "leg_lifts_one_leg_001",
             "name": "Leg Lifts (One Leg Isolation)",
-            "description": "Lie face down. Lift one leg at a time while keeping it straight. Isolates glutes and hamstrings unilaterally.",
+            "description": "Face down, lift one leg at a time. Isolates glutes and hamstrings unilaterally. Control is key!",
             "default_sets": 1,
             "default_reps": "10 repeats each leg",
             "difficulty": "intermediate",
@@ -2749,7 +2749,7 @@
         {
             "id": "leg_kicks_side_001",
             "name": "Leg Kicks (Side)",
-            "description": "Stand or lie on side. Kick leg out to side in controlled motion. Strengthens hip abductors and improves lateral stability.",
+            "description": "Stand or lie on side, kick leg out to side. Hip abductors and lateral stability - most people need this!",
             "default_sets": 1,
             "default_reps": "8 repeats each side",
             "difficulty": "beginner",
@@ -2765,7 +2765,7 @@
         {
             "id": "leg_kicks_back_001",
             "name": "Leg Kicks (Back)",
-            "description": "Standing, kick one leg back while maintaining upright posture. Activates glutes and improves balance.",
+            "description": "Standing, kick one leg straight back. Glute activation and balance combined. Squeeze at the top!",
             "default_sets": 1,
             "default_reps": "8 repeats each side",
             "difficulty": "beginner",
@@ -2781,7 +2781,7 @@
         {
             "id": "hollow_body_wall_001",
             "name": "Hollow Body (Wall)",
-            "description": "Lie on back with arms overhead against wall. Lift shoulders and legs while pressing lower back to floor. Advanced hollow body variation.",
+            "description": "Lie down, arms overhead against wall, lift shoulders and legs. Advanced hollow body that's way harder! Press that lower back down!",
             "default_sets": 2,
             "default_reps": "10 seconds",
             "difficulty": "advanced",
@@ -2797,7 +2797,7 @@
         {
             "id": "bicycle_crunches_001",
             "name": "Bicycle Crunches",
-            "description": "Lie on back, bring opposite elbow to knee in cycling motion. Excellent for obliques and rotational core strength.",
+            "description": "Opposite elbow to knee in cycling motion. Classic oblique exercise that works! Keep the movement controlled.",
             "default_sets": 2,
             "default_reps": "20 repeats",
             "difficulty": "beginner",
@@ -2813,7 +2813,7 @@
         {
             "id": "dead_bug_001",
             "name": "Dead Bug",
-            "description": "Lie on back with arms up and legs in tabletop. Extend opposite arm and leg while keeping core engaged. Great for core stability.",
+            "description": "On back, extend opposite arm and leg while keeping core engaged. Perfect core stability exercise. Slow and controlled!",
             "default_sets": 2,
             "default_reps": "10 repeats each side",
             "difficulty": "beginner",
@@ -2829,7 +2829,7 @@
         {
             "id": "bird_dog_001",
             "name": "Bird Dog",
-            "description": "On hands and knees, extend opposite arm and leg. Hold briefly then switch. Builds posterior chain strength and balance.",
+            "description": "On all fours, extend opposite arm and leg. Posterior chain and balance! Don't let your hips rotate.",
             "default_sets": 2,
             "default_reps": "10 repeats each side",
             "difficulty": "beginner",
@@ -2846,7 +2846,7 @@
         {
             "id": "scapular_pushups_001",
             "name": "Scapular Push-ups",
-            "description": "In plank position, protract and retract shoulder blades without bending elbows. Essential for handstand shoulder strength.",
+            "description": "In plank, protract and retract shoulder blades without bending elbows. Essential for handstand shoulder strength!",
             "default_sets": 2,
             "default_reps": "12 repeats",
             "difficulty": "intermediate",
@@ -2862,7 +2862,7 @@
         {
             "id": "arch_body_hold_001",
             "name": "Arch Body Hold",
-            "description": "Lie face down, lift chest and legs simultaneously creating arch. Opposite of hollow body, strengthens posterior chain.",
+            "description": "Face down, lift chest and legs - create that arch! Opposite of hollow body, strengthens the posterior chain.",
             "default_sets": 2,
             "default_reps": "20 seconds",
             "difficulty": "beginner",
@@ -2878,7 +2878,7 @@
         {
             "id": "wall_sits_001",
             "name": "Wall Sits",
-            "description": "Back against wall, slide down to seated position with thighs parallel to ground. Hold. Great for leg endurance.",
+            "description": "Back against wall, slide down to seated position with thighs parallel. Hold! Leg endurance builder. Embrace the burn!",
             "default_sets": 2,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -2894,7 +2894,7 @@
         {
             "id": "reverse_plank_001",
             "name": "Reverse Plank",
-            "description": "Sit with legs extended, hands behind. Lift hips to create straight line. Opens chest and strengthens posterior chain.",
+            "description": "Sit with legs extended, hands behind, lift hips. Opens chest and strengthens posterior chain. Underrated exercise!",
             "default_sets": 2,
             "default_reps": "20 seconds",
             "difficulty": "intermediate",
@@ -2911,7 +2911,7 @@
         {
             "id": "l_sit_progression_001",
             "name": "L-Sit Progression",
-            "description": "Sit with hands beside hips. Press down to lift hips, extend legs forward. Build towards full L-sit. Excellent gymnastics strength builder.",
+            "description": "Sit, hands beside hips, press to lift and extend legs forward. Building toward full L-sit! Keep working at it!",
             "default_sets": 2,
             "default_reps": "10 seconds hold",
             "difficulty": "intermediate",
@@ -2928,7 +2928,7 @@
         {
             "id": "mountain_climbers_slow_001",
             "name": "Mountain Climbers (Slow)",
-            "description": "Slow, controlled mountain climbers focusing on core engagement. More emphasis on strength than cardio.",
+            "description": "Slow, controlled mountain climbers. More strength, less cardio. Feel every rep working that core!",
             "default_sets": 2,
             "default_reps": "15 reps each leg",
             "difficulty": "beginner",
@@ -2944,7 +2944,7 @@
         {
             "id": "side_plank_001",
             "name": "Side Plank",
-            "description": "Balance on one forearm and side of feet. Hold straight line. Targets obliques and lateral core stability.",
+            "description": "Balance on one forearm and side of feet. Obliques and lateral core stability! Hold that straight line.",
             "default_sets": 2,
             "default_reps": "20-30 seconds each side",
             "difficulty": "intermediate",
@@ -2960,7 +2960,7 @@
         {
             "id": "side_plank_hip_dips_001",
             "name": "Side Plank Hip Dips",
-            "description": "In side plank, lower hip toward ground then lift back up. Dynamic oblique strengthener.",
+            "description": "In side plank, lower hip toward ground and lift back up. Dynamic oblique work that burns!",
             "default_sets": 2,
             "default_reps": "10 dips each side",
             "difficulty": "intermediate",
@@ -2976,7 +2976,7 @@
         {
             "id": "plank_to_downdog_001",
             "name": "Plank to Down Dog",
-            "description": "Flow between plank and downward dog. Dynamic movement building shoulder and core strength.",
+            "description": "Flow between plank and downward dog. Dynamic shoulder and core builder. Smooth transitions!",
             "default_sets": 2,
             "default_reps": "10 transitions",
             "difficulty": "beginner",
@@ -2992,7 +2992,7 @@
         {
             "id": "plank_shoulder_taps_001",
             "name": "Plank Shoulder Taps",
-            "description": "In plank, alternately tap shoulders with opposite hand. Anti-rotation core exercise.",
+            "description": "In plank, tap shoulders with opposite hand. Anti-rotation core exercise. Don't let those hips twist!",
             "default_sets": 2,
             "default_reps": "16 taps total",
             "difficulty": "intermediate",
@@ -3008,7 +3008,7 @@
         {
             "id": "hollow_rocks_001",
             "name": "Hollow Rocks",
-            "description": "In hollow body position, rock back and forth. Advanced core exercise for gymnastics.",
+            "description": "In hollow body, rock back and forth. Advanced gymnastics core exercise. Keep that shape tight!",
             "default_sets": 2,
             "default_reps": "20 rocks",
             "difficulty": "intermediate",
@@ -3024,7 +3024,7 @@
         {
             "id": "v_ups_001",
             "name": "V-Ups",
-            "description": "Lie flat, simultaneously lift legs and torso to touch toes. Advanced ab exercise.",
+            "description": "Lie flat, lift legs and torso simultaneously to touch toes. Advanced ab exercise! Explosive core power.",
             "default_sets": 2,
             "default_reps": "10 reps",
             "difficulty": "advanced",
@@ -3040,7 +3040,7 @@
         {
             "id": "russian_twists_001",
             "name": "Russian Twists",
-            "description": "Sit with feet elevated, lean back. Twist torso side to side. Works obliques and rotational power.",
+            "description": "Sit with feet elevated, twist torso side to side. Obliques and rotational power! Keep that chest up.",
             "default_sets": 2,
             "default_reps": "20 twists",
             "difficulty": "intermediate",
@@ -3056,7 +3056,7 @@
         {
             "id": "diamond_pushups_001",
             "name": "Diamond Push-Ups",
-            "description": "Push-ups with hands forming diamond shape. Emphasizes triceps more than regular push-ups.",
+            "description": "Hands in diamond shape, do push-ups. Emphasizes triceps way more than regular push-ups. Feel that burn!",
             "default_sets": 2,
             "default_reps": "8-12 reps",
             "difficulty": "intermediate",
@@ -3072,7 +3072,7 @@
         {
             "id": "stretching_001",
             "name": "Wrist Stretch",
-            "description": "A stretch to improve flexibility and prevent injury in the wrists. Extend arm and gently pull fingers back.",
+            "description": "Extend arm, gently pull fingers back. Essential for preventing wrist injury! Hold it and breathe.",
             "default_sets": 2,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3087,7 +3087,7 @@
         {
             "id": "stretching_002",
             "name": "Shoulder Stretch",
-            "description": "Pull one arm across body using the other arm. Hold to stretch the shoulder.",
+            "description": "Pull one arm across body. Hold and feel that shoulder stretch. Perfect after being hunched over all day!",
             "default_sets": 2,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3101,7 +3101,7 @@
         {
             "id": "stretching_003",
             "name": "Child's Pose",
-            "description": "Sit back on heels with arms extended forward on the ground. Great for shoulder and back relaxation.",
+            "description": "Sit back on heels, arms extended forward. Total relaxation pose for shoulders and back. Breathe and sink deeper!",
             "default_sets": 1,
             "default_reps": "60-90 seconds",
             "difficulty": "beginner",
@@ -3117,7 +3117,7 @@
         {
             "id": "stretching_004",
             "name": "Bridge Stretch",
-            "description": "Lie on back, lift hips up while keeping shoulders on ground. Great for spine and shoulder flexibility.",
+            "description": "Lie on back, lift hips up high. Great for spine and shoulder flexibility! Push those hips toward the ceiling.",
             "default_sets": 2,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -3133,7 +3133,7 @@
         {
             "id": "sphinx_active_001",
             "name": "Sphinx (Active)",
-            "description": "Lie face down, prop on forearms with chest lifted. Actively engage back muscles. Excellent for spine extension and counteracting desk posture.",
+            "description": "Face down, prop on forearms, lift chest. Actively engage your back! Excellent for spine extension.",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "beginner",
@@ -3149,7 +3149,7 @@
         {
             "id": "sphinx_passive_001",
             "name": "Sphinx (Passive)",
-            "description": "Similar to active sphinx but relax into the stretch. Hold for sustained spinal extension.",
+            "description": "Same position but relax into the stretch. Let gravity do the work. Breathe and hold!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -3165,7 +3165,7 @@
         {
             "id": "cobra_active_001",
             "name": "Cobra (Active)",
-            "description": "From sphinx, straighten arms to lift chest higher. Actively press into ground. Deeper spinal extension than sphinx.",
+            "description": "From sphinx, straighten arms to lift chest higher. Press into the ground actively! Deeper spinal extension.",
             "default_sets": 2,
             "default_reps": "8 repeats",
             "difficulty": "beginner",
@@ -3182,7 +3182,7 @@
         {
             "id": "cobra_passive_001",
             "name": "Cobra (Passive)",
-            "description": "Hold cobra pose, relaxing into the stretch. Focus on breathing deeply.",
+            "description": "Hold cobra, relax into it. Focus on breathing deeply. Let that spine open up!",
             "default_sets": 2,
             "default_reps": "10-30 seconds",
             "difficulty": "beginner",
@@ -3198,7 +3198,7 @@
         {
             "id": "butterfly_forward_001",
             "name": "Butterfly (Forward)",
-            "description": "Sit with soles of feet together, fold forward. Stretches hips, inner thighs, and lower back.",
+            "description": "Soles together, fold forward. Hip opener for days! Breathe into those tight hips.",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -3214,7 +3214,7 @@
         {
             "id": "butterfly_passive_001",
             "name": "Butterfly (Passive)",
-            "description": "Sit with soles together, let knees drop naturally. Gentle hip opening stretch.",
+            "description": "Soles together, let knees drop naturally. Gentle hip opening. Just sit and breathe!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -3230,7 +3230,7 @@
         {
             "id": "butterfly_side_001",
             "name": "Butterfly (Side)",
-            "description": "From butterfly position, lean to one side. Stretches obliques and lateral hip.",
+            "description": "From butterfly, lean to one side. Stretches obliques and lateral hip. Feel that side body open!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3246,7 +3246,7 @@
         {
             "id": "wrist_stretch_reverse_001",
             "name": "Wrist Stretch (Reverse)",
-            "description": "Place hands flat with fingers pointing toward body. Lean back gently. Essential for office workers and handstand prep.",
+            "description": "Hands flat, fingers pointing back, lean back gently. Essential for computer work and handstand prep!",
             "default_sets": 1,
             "default_reps": "20-30 seconds",
             "difficulty": "beginner",
@@ -3262,7 +3262,7 @@
         {
             "id": "one_arm_chest_stretch_001",
             "name": "One Arm Chest Stretch",
-            "description": "Place hand on wall or doorframe, rotate body away. Opens chest and anterior shoulder. Perfect for desk workers.",
+            "description": "Hand on wall, rotate body away. Opens chest and anterior shoulder. Office workers, you need this daily!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3278,7 +3278,7 @@
         {
             "id": "half_split_001",
             "name": "Half-Split",
-            "description": "In lunge position, straighten front leg and fold forward. Hamstring and calf stretch.",
+            "description": "Straighten front leg in lunge, fold forward. Classic hamstring stretch! Keep that back straight.",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3294,7 +3294,7 @@
         {
             "id": "half_split_side_bend_001",
             "name": "Half-Split (Side Bend)",
-            "description": "From half-split, reach arm over to side. Adds lateral flexion and deeper hamstring stretch.",
+            "description": "From half-split, reach arm over to side. Adds lateral flexion to hamstring stretch. Double the benefit!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3310,7 +3310,7 @@
         {
             "id": "hip_flexor_stretch_001",
             "name": "Hip Flexor Stretch",
-            "description": "Kneel on one knee, push hips forward. Crucial stretch for office workers with tight hip flexors.",
+            "description": "Kneel on one knee, push hips forward. THE stretch for desk workers with tight hip flexors. Hold it!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3326,7 +3326,7 @@
         {
             "id": "standing_forward_bend_001",
             "name": "Standing Forward Bend",
-            "description": "Stand, fold forward toward toes. Let head hang. Stretches entire posterior chain.",
+            "description": "Fold forward toward toes, let head hang. Entire posterior chain stretch. Let gravity pull you down!",
             "default_sets": 2,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -3343,7 +3343,7 @@
         {
             "id": "neck_rolls_001",
             "name": "Neck Rolls",
-            "description": "Slowly roll head in circular motion. Relieves neck tension from computer work.",
+            "description": "Slowly roll head in circles. Relieves all that desk tension. Move with control!",
             "default_sets": 1,
             "default_reps": "5 each direction",
             "difficulty": "beginner",
@@ -3359,7 +3359,7 @@
         {
             "id": "neck_side_stretch_001",
             "name": "Neck Side Stretch",
-            "description": "Tilt head to side, gently pull with hand. Stretches lateral neck muscles.",
+            "description": "Tilt head to side, gently pull with hand. Lateral neck release. Feels so good!",
             "default_sets": 1,
             "default_reps": "20 seconds each side",
             "difficulty": "beginner",
@@ -3375,7 +3375,7 @@
         {
             "id": "upper_trap_stretch_001",
             "name": "Upper Trap Stretch",
-            "description": "Tilt head diagonally down, add gentle pressure with hand. Targets upper traps and neck.",
+            "description": "Tilt head diagonally down, add gentle pressure. Targets those chronically tight upper traps!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3391,7 +3391,7 @@
         {
             "id": "thoracic_extension_001",
             "name": "Thoracic Extension",
-            "description": "Sit or kneel, hands behind head. Arch upper back over foam roller or chair. Counteracts rounded desk posture.",
+            "description": "Arch upper back over foam roller or chair. Counteracts that rounded desk posture. Breathe into it!",
             "default_sets": 1,
             "default_reps": "5-8 repeats",
             "difficulty": "beginner",
@@ -3407,7 +3407,7 @@
         {
             "id": "cat_cow_001",
             "name": "Cat-Cow",
-            "description": "On hands and knees, alternate between arching and rounding spine. Excellent for spinal mobility.",
+            "description": "Alternate between arching and rounding your spine. Classic spinal mobility flow. Move with your breath!",
             "default_sets": 1,
             "default_reps": "10 cycles",
             "difficulty": "beginner",
@@ -3423,7 +3423,7 @@
         {
             "id": "forearm_stretch_flexors_001",
             "name": "Forearm Stretch (Flexors)",
-            "description": "Extend arm, palm up, pull fingers back. Stretches wrist and forearm flexors. Great for typing strain.",
+            "description": "Arm extended, palm up, pull fingers back. Computer users, this is for you! Hold and breathe.",
             "default_sets": 1,
             "default_reps": "20 seconds each side",
             "difficulty": "beginner",
@@ -3439,7 +3439,7 @@
         {
             "id": "forearm_stretch_extensors_001",
             "name": "Forearm Stretch (Extensors)",
-            "description": "Extend arm, palm down, pull fingers down. Stretches wrist and forearm extensors.",
+            "description": "Arm extended, palm down, pull fingers down. Both sides of the forearm need stretching!",
             "default_sets": 1,
             "default_reps": "20 seconds each side",
             "difficulty": "beginner",
@@ -3455,7 +3455,7 @@
         {
             "id": "finger_stretches_001",
             "name": "Finger Stretches",
-            "description": "Spread fingers wide, make fists, pull each finger back individually. Relieves hand tension from typing.",
+            "description": "Spread fingers wide, make fists, pull each finger back. Hand relief for typists and climbers!",
             "default_sets": 1,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -3471,7 +3471,7 @@
         {
             "id": "ankle_circles_001",
             "name": "Ankle Circles",
-            "description": "Rotate ankle in circles, both directions. Improves ankle mobility and circulation.",
+            "description": "Rotate ankles in circles. Improves mobility and circulation. Do both directions!",
             "default_sets": 1,
             "default_reps": "10 each direction per foot",
             "difficulty": "beginner",
@@ -3487,7 +3487,7 @@
         {
             "id": "toe_stretches_001",
             "name": "Toe Stretches",
-            "description": "Sit, interlace fingers between toes and gently spread. Relieves foot tension.",
+            "description": "Interlace fingers between toes and spread. Your feet need love too! Feels weird but amazing.",
             "default_sets": 1,
             "default_reps": "20 seconds each foot",
             "difficulty": "beginner",
@@ -3503,7 +3503,7 @@
         {
             "id": "seated_spinal_twist_001",
             "name": "Seated Spinal Twist",
-            "description": "Sit cross-legged, rotate torso to one side. Hold knee for leverage. Great for spine mobility.",
+            "description": "Sit cross-legged, rotate torso. Spine mobility at its finest! Follow your gaze.",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3519,7 +3519,7 @@
         {
             "id": "quad_stretch_standing_001",
             "name": "Quad Stretch (Standing)",
-            "description": "Stand, pull foot toward glutes. Keep knees together. Classic quad stretch.",
+            "description": "Pull foot toward glutes, keep knees together. Classic quad stretch that everyone knows!",
             "default_sets": 1,
             "default_reps": "30 seconds each leg",
             "difficulty": "beginner",
@@ -3534,7 +3534,7 @@
         {
             "id": "pigeon_pose_001",
             "name": "Pigeon Pose",
-            "description": "Front leg bent, back leg extended. Fold forward. Deep hip opener, especially for office workers.",
+            "description": "Front leg bent, back leg extended, fold forward. Deep hip opener that office workers desperately need!",
             "default_sets": 1,
             "default_reps": "45 seconds each side",
             "difficulty": "intermediate",
@@ -3550,7 +3550,7 @@
         {
             "id": "figure_four_stretch_001",
             "name": "Figure Four Stretch",
-            "description": "Lie on back, cross ankle over opposite knee, pull leg toward chest. Targets piriformis and outer hip.",
+            "description": "On back, cross ankle over knee, pull leg toward chest. Targets piriformis and outer hip. Game changer!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3566,7 +3566,7 @@
         {
             "id": "shoulder_blade_squeeze_001",
             "name": "Shoulder Blade Squeeze",
-            "description": "Stand or sit, squeeze shoulder blades together. Hold and release. Counters rounded shoulders from desk work.",
+            "description": "Squeeze shoulder blades together and hold. Counters rounded shoulders from desk work!",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -3582,7 +3582,7 @@
         {
             "id": "triceps_stretch_001",
             "name": "Triceps Stretch",
-            "description": "Reach arm overhead, bend elbow, use other hand to gently push elbow. Stretches triceps and lat.",
+            "description": "Arm overhead, bend elbow, push gently with other hand. Stretches triceps and lat. Hold it!",
             "default_sets": 1,
             "default_reps": "20 seconds each side",
             "difficulty": "beginner",
@@ -3598,7 +3598,7 @@
         {
             "id": "lat_stretch_doorway_001",
             "name": "Lat Stretch (Doorway)",
-            "description": "Hold doorframe overhead, lean body away. Deep lat and side body stretch.",
+            "description": "Hold doorframe overhead, lean away. Deep lat and side body stretch. Feel that lengthening!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3614,7 +3614,7 @@
         {
             "id": "calf_stretch_wall_001",
             "name": "Calf Stretch (Wall)",
-            "description": "Place hands on wall, step one foot back, keep heel down. Classic calf stretch.",
+            "description": "Hands on wall, step back, keep heel down. Classic calf stretch! Hold and breathe.",
             "default_sets": 1,
             "default_reps": "30 seconds each leg",
             "difficulty": "beginner",
@@ -3630,7 +3630,7 @@
         {
             "id": "it_band_stretch_001",
             "name": "IT Band Stretch",
-            "description": "Cross one leg behind other, lean away from back leg. Stretches iliotibial band and outer hip.",
+            "description": "Cross one leg behind other, lean away. IT band and outer hip stretch. Runners need this!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3646,7 +3646,7 @@
         {
             "id": "rag_doll_001",
             "name": "Rag Doll",
-            "description": "Fold forward, grab opposite elbows, let upper body hang. Deep relaxing stretch for back and hamstrings.",
+            "description": "Fold forward, grab opposite elbows, hang. Deep relaxing stretch for back and hamstrings. Let it all go!",
             "default_sets": 1,
             "default_reps": "45 seconds",
             "difficulty": "beginner",
@@ -3662,7 +3662,7 @@
         {
             "id": "lizard_pose_001",
             "name": "Lizard Pose",
-            "description": "Low lunge with front foot wider, drop back knee down, sink hips. Deep hip flexor and inner thigh opener.",
+            "description": "Low lunge, front foot wider, drop back knee, sink hips. Deep hip flexor and inner thigh opener!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "intermediate",
@@ -3678,7 +3678,7 @@
         {
             "id": "happy_baby_001",
             "name": "Happy Baby",
-            "description": "Lie on back, grab feet and pull knees toward armpits. Gently rock side to side. Opens hips and lower back.",
+            "description": "On back, grab feet, pull knees toward armpits. Opens hips and lower back. Rock side to side!",
             "default_sets": 1,
             "default_reps": "45 seconds",
             "difficulty": "beginner",
@@ -3694,7 +3694,7 @@
         {
             "id": "supine_twist_001",
             "name": "Supine Twist",
-            "description": "Lie on back, drop knees to one side while keeping shoulders flat. Gentle spinal twist.",
+            "description": "On back, drop knees to side, keep shoulders flat. Gentle spinal twist. Breathe into it!",
             "default_sets": 1,
             "default_reps": "30 seconds each side",
             "difficulty": "beginner",
@@ -3710,7 +3710,7 @@
         {
             "id": "reclined_hamstring_stretch_001",
             "name": "Reclined Hamstring Stretch (Strap)",
-            "description": "Lie on back, loop strap around foot, straighten leg up. Gentle hamstring stretch with support.",
+            "description": "On back, loop strap around foot, straighten leg up. Gentle hamstring stretch with support. Perfect!",
             "default_sets": 1,
             "default_reps": "30 seconds each leg",
             "difficulty": "beginner",

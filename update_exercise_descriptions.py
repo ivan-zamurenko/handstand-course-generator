@@ -130,6 +130,25 @@ def update_equipment(exercise):
         return True
     return False
 
+# Update amount of sets/reps based on progression
+def update_sets(exercise):
+    """Offer to update default sets/reps"""
+    print(f"\n{Colors.BLUE}Current sets/reps: {exercise['default_sets']} sets x {exercise['default_reps']}{Colors.ENDC}")
+    print("Press Enter to keep, or type new sets (number) and reps (e.g., '3 10-15'):")
+    inp = input().strip()
+    if inp:
+        parts = inp.split()
+        if len(parts) == 2:
+            try:
+                new_sets = int(parts[0])
+                new_reps = parts[1]
+                exercise['default_sets'] = new_sets
+                exercise['default_reps'] = new_reps
+                return True
+            except ValueError:
+                print(f"{Colors.FAIL}Invalid input. Keeping current sets/reps.{Colors.ENDC}")
+    return False
+
 def main():
     # Load vocabulary
     vocab_path = Path(__file__).parent / 'data' / 'exercises' / 'vocabulary.json'
