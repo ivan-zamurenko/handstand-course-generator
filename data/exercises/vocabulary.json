@@ -1733,6 +1733,503 @@
             ],
             "image": null,
             "category": "Stretching"
+        },
+        {
+            "id": "sphinx_active_001",
+            "name": "Sphinx (Active)",
+            "description": "Lie face down, prop on forearms with chest lifted. Actively engage back muscles. Excellent for spine extension and counteracting desk posture.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "spine extensors",
+                "abs"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "sphinx_passive_001",
+            "name": "Sphinx (Passive)",
+            "description": "Similar to active sphinx but relax into the stretch. Hold for sustained spinal extension.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "abs",
+                "spine"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "cobra_active_001",
+            "name": "Cobra (Active)",
+            "description": "From sphinx, straighten arms to lift chest higher. Actively press into ground. Deeper spinal extension than sphinx.",
+            "default_sets": 2,
+            "default_reps": "8 repeats",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "spine",
+                "chest",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "cobra_passive_001",
+            "name": "Cobra (Passive)",
+            "description": "Hold cobra pose, relaxing into the stretch. Focus on breathing deeply.",
+            "default_sets": 2,
+            "default_reps": "10-30 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "lower back",
+                "abs",
+                "chest"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "butterfly_forward_001",
+            "name": "Butterfly (Forward)",
+            "description": "Sit with soles of feet together, fold forward. Stretches hips, inner thighs, and lower back.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hip adductors",
+                "inner thighs",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "butterfly_passive_001",
+            "name": "Butterfly (Passive)",
+            "description": "Sit with soles together, let knees drop naturally. Gentle hip opening stretch.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hip adductors",
+                "inner thighs",
+                "hips"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "butterfly_side_001",
+            "name": "Butterfly (Side)",
+            "description": "From butterfly position, lean to one side. Stretches obliques and lateral hip.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "obliques",
+                "lateral hip",
+                "inner thighs"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "wrist_stretch_reverse_001",
+            "name": "Wrist Stretch (Reverse)",
+            "description": "Place hands flat with fingers pointing toward body. Lean back gently. Essential for office workers and handstand prep.",
+            "default_sets": 1,
+            "default_reps": "20-30 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "wrist flexors",
+                "forearms",
+                "wrists"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "one_arm_chest_stretch_001",
+            "name": "One Arm Chest Stretch",
+            "description": "Place hand on wall or doorframe, rotate body away. Opens chest and anterior shoulder. Perfect for desk workers.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "chest",
+                "anterior deltoid",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "half_split_001",
+            "name": "Half-Split",
+            "description": "In lunge position, straighten front leg and fold forward. Hamstring and calf stretch.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hamstrings",
+                "calves",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "half_split_side_bend_001",
+            "name": "Half-Split (Side Bend)",
+            "description": "From half-split, reach arm over to side. Adds lateral flexion and deeper hamstring stretch.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hamstrings",
+                "obliques",
+                "lateral body"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "hip_flexor_stretch_001",
+            "name": "Hip Flexor Stretch",
+            "description": "Kneel on one knee, push hips forward. Crucial stretch for office workers with tight hip flexors.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hip flexors",
+                "quads",
+                "psoas"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "standing_forward_bend_001",
+            "name": "Standing Forward Bend",
+            "description": "Stand, fold forward toward toes. Let head hang. Stretches entire posterior chain.",
+            "default_sets": 2,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "hamstrings",
+                "calves",
+                "lower back",
+                "spine"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "neck_rolls_001",
+            "name": "Neck Rolls",
+            "description": "Slowly roll head in circular motion. Relieves neck tension from computer work.",
+            "default_sets": 1,
+            "default_reps": "5 each direction",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "neck",
+                "upper traps",
+                "cervical spine"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "neck_side_stretch_001",
+            "name": "Neck Side Stretch",
+            "description": "Tilt head to side, gently pull with hand. Stretches lateral neck muscles.",
+            "default_sets": 1,
+            "default_reps": "20 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "neck",
+                "upper traps",
+                "levator scapulae"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "upper_trap_stretch_001",
+            "name": "Upper Trap Stretch",
+            "description": "Tilt head diagonally down, add gentle pressure with hand. Targets upper traps and neck.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "upper traps",
+                "neck",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "thoracic_extension_001",
+            "name": "Thoracic Extension",
+            "description": "Sit or kneel, hands behind head. Arch upper back over foam roller or chair. Counteracts rounded desk posture.",
+            "default_sets": 1,
+            "default_reps": "5-8 repeats",
+            "difficulty": "beginner",
+            "equipment": "chair or foam roller",
+            "primary_muscle_groups": [
+                "thoracic spine",
+                "upper back",
+                "chest"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "cat_cow_001",
+            "name": "Cat-Cow",
+            "description": "On hands and knees, alternate between arching and rounding spine. Excellent for spinal mobility.",
+            "default_sets": 1,
+            "default_reps": "10 cycles",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "spine",
+                "back",
+                "abs"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "forearm_stretch_flexors_001",
+            "name": "Forearm Stretch (Flexors)",
+            "description": "Extend arm, palm up, pull fingers back. Stretches wrist and forearm flexors. Great for typing strain.",
+            "default_sets": 1,
+            "default_reps": "20 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "forearm flexors",
+                "wrists",
+                "hands"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "forearm_stretch_extensors_001",
+            "name": "Forearm Stretch (Extensors)",
+            "description": "Extend arm, palm down, pull fingers down. Stretches wrist and forearm extensors.",
+            "default_sets": 1,
+            "default_reps": "20 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "forearm extensors",
+                "wrists",
+                "hands"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "finger_stretches_001",
+            "name": "Finger Stretches",
+            "description": "Spread fingers wide, make fists, pull each finger back individually. Relieves hand tension from typing.",
+            "default_sets": 1,
+            "default_reps": "30 seconds",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "fingers",
+                "hands",
+                "intrinsic hand muscles"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "ankle_circles_001",
+            "name": "Ankle Circles",
+            "description": "Rotate ankle in circles, both directions. Improves ankle mobility and circulation.",
+            "default_sets": 1,
+            "default_reps": "10 each direction per foot",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "ankles",
+                "feet",
+                "calves"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "toe_stretches_001",
+            "name": "Toe Stretches",
+            "description": "Sit, interlace fingers between toes and gently spread. Relieves foot tension.",
+            "default_sets": 1,
+            "default_reps": "20 seconds each foot",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "toes",
+                "feet",
+                "plantar fascia"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "seated_spinal_twist_001",
+            "name": "Seated Spinal Twist",
+            "description": "Sit cross-legged, rotate torso to one side. Hold knee for leverage. Great for spine mobility.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "spine",
+                "obliques",
+                "lower back"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "quad_stretch_standing_001",
+            "name": "Quad Stretch (Standing)",
+            "description": "Stand, pull foot toward glutes. Keep knees together. Classic quad stretch.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each leg",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "quads",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "pigeon_pose_001",
+            "name": "Pigeon Pose",
+            "description": "Front leg bent, back leg extended. Fold forward. Deep hip opener, especially for office workers.",
+            "default_sets": 1,
+            "default_reps": "45 seconds each side",
+            "difficulty": "intermediate",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "hip external rotators",
+                "glutes",
+                "hip flexors"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "figure_four_stretch_001",
+            "name": "Figure Four Stretch",
+            "description": "Lie on back, cross ankle over opposite knee, pull leg toward chest. Targets piriformis and outer hip.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "yoga mat",
+            "primary_muscle_groups": [
+                "piriformis",
+                "glutes",
+                "outer hip"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "shoulder_blade_squeeze_001",
+            "name": "Shoulder Blade Squeeze",
+            "description": "Stand or sit, squeeze shoulder blades together. Hold and release. Counters rounded shoulders from desk work.",
+            "default_sets": 1,
+            "default_reps": "10 repeats",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "rhomboids",
+                "mid traps",
+                "scapular stabilizers"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "triceps_stretch_001",
+            "name": "Triceps Stretch",
+            "description": "Reach arm overhead, bend elbow, use other hand to gently push elbow. Stretches triceps and lat.",
+            "default_sets": 1,
+            "default_reps": "20 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "none",
+            "primary_muscle_groups": [
+                "triceps",
+                "lats",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "lat_stretch_doorway_001",
+            "name": "Lat Stretch (Doorway)",
+            "description": "Hold doorframe overhead, lean body away. Deep lat and side body stretch.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each side",
+            "difficulty": "beginner",
+            "equipment": "doorframe",
+            "primary_muscle_groups": [
+                "lats",
+                "obliques",
+                "shoulders"
+            ],
+            "image": null,
+            "category": "Stretching"
+        },
+        {
+            "id": "calf_stretch_wall_001",
+            "name": "Calf Stretch (Wall)",
+            "description": "Place hands on wall, step one foot back, keep heel down. Classic calf stretch.",
+            "default_sets": 1,
+            "default_reps": "30 seconds each leg",
+            "difficulty": "beginner",
+            "equipment": "wall",
+            "primary_muscle_groups": [
+                "calves",
+                "gastrocnemius",
+                "soleus"
+            ],
+            "image": null,
+            "category": "Stretching"
         }
     ]
 }
