@@ -3,7 +3,7 @@
         {
             "id": "jumping_jacks_001",
             "name": "Jumping Jacks",
-            "description": "A full-body exercise that can be done anywhere. Jump while spreading legs and raising arms overhead, then return to starting position.",
+            "description": "Stand with feet together, arms at sides. Jump feet apart while raising arms overhead in a clapping motion, then jump back to start. Increases heart rate, improves coordination, and warms up entire body. Keep core engaged and land softly.",
             "default_sets": 3,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -18,7 +18,7 @@
         {
             "id": "high_knees_001",
             "name": "High Knees",
-            "description": "A cardio-intensive exercise performed in place. Run in place while lifting knees as high as possible.",
+            "description": "Run in place while driving knees up to hip height or higher. Pump arms naturally. Excellent for cardiovascular warm-up, hip flexor activation, and improving running mechanics. Keep chest up and core tight.",
             "default_sets": 3,
             "default_reps": "30 seconds",
             "difficulty": "beginner",
@@ -33,7 +33,7 @@
         {
             "id": "arm_circles_001",
             "name": "Arm Circles",
-            "description": "Stand with arms extended to the sides. Make small circular motions, gradually increasing the size.",
+            "description": "Stand with arms extended horizontally at shoulder height. Rotate arms in small circles (6-12 inches diameter), gradually increasing size. Perform forward then backward. Mobilizes shoulder joints, increases blood flow to deltoids, and prepares rotator cuffs for activity.",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -48,7 +48,7 @@
         {
             "id": "butt_kicks_001",
             "name": "Butt Kicks",
-            "description": "Run in place while kicking heels up towards your glutes. This dynamic movement warms up the hamstrings and increases heart rate.",
+            "description": "Jog in place while actively kicking heels up to touch glutes with each step. Keep torso upright, maintain quick cadence. Dynamically stretches quadriceps and hip flexors while activating hamstrings and glutes. Excellent cardiovascular warm-up.",
             "default_sets": 1,
             "default_reps": "45 seconds",
             "difficulty": "beginner",
@@ -64,7 +64,7 @@
         {
             "id": "mountain_climbers_001",
             "name": "Mountain Climbers",
-            "description": "Start in plank position. Alternate driving knees towards chest in a running motion. Great for cardio and core activation.",
+            "description": "Begin in high plank position with shoulders over wrists. Rapidly alternate driving knees toward chest as if running horizontally. Keep hips level, core braced. Builds cardiovascular endurance, core stability, and shoulder strength. Scale by slowing tempo.",
             "default_sets": 1,
             "default_reps": "45 seconds",
             "difficulty": "intermediate",
@@ -81,7 +81,7 @@
         {
             "id": "windmill_001",
             "name": "Windmill",
-            "description": "Stand with feet wide, arms extended. Bend at waist and rotate torso, touching opposite hand to foot. Mobilizes spine and hamstrings.",
+            "description": "Stand with feet wider than shoulder-width, arms extended to sides forming 'T'. Hinge at hips, rotate torso to touch right hand to left foot while reaching left arm up. Alternate sides. Mobilizes thoracic spine, stretches hamstrings, and activates obliques. Keep legs relatively straight.",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -98,7 +98,7 @@
         {
             "id": "hip_circles_001",
             "name": "Hip Circles",
-            "description": "Stand on one leg or hands and knees. Make large circular motions with your hip joint to increase mobility and warm up hip flexors.",
+            "description": "Stand on one leg (hold wall for balance if needed) or position on hands and knees. Create large circles with hip joint, moving through full range of motion. Perform clockwise then counterclockwise. Increases synovial fluid in hip joint, improves hip mobility in all planes, activates hip stabilizers.",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "beginner",
@@ -114,7 +114,7 @@
         {
             "id": "half_middle_split_001",
             "name": "Half Middle Split (HMS Lunges)",
-            "description": "Start in a wide stance. Shift weight from side to side in a lunge position to stretch inner thighs and hips.",
+            "description": "Stand with feet very wide (3-4 feet apart), toes slightly out. Shift weight to right, bending right knee while keeping left leg straight. Feel stretch in left inner thigh. Shift to opposite side. Dynamically stretches adductors, mobilizes hips, and prepares for lateral movements.",
             "default_sets": 1,
             "default_reps": "10 repeats",
             "difficulty": "intermediate",
@@ -130,7 +130,7 @@
         {
             "id": "walking_pike_001",
             "name": "Walking Pike",
-            "description": "Start in plank, walk hands back towards feet keeping legs straight, then walk hands forward. Stretches hamstrings and warms up shoulders.",
+            "description": "Begin in high plank. Keeping legs straight, walk hands back toward feet (pike position), feeling hamstring stretch. Then walk hands forward to return to plank. Excellent for hamstring flexibility, shoulder mobility, and core control. Keep core engaged throughout.",
             "default_sets": 1,
             "default_reps": "20 repeats",
             "difficulty": "intermediate",
@@ -146,7 +146,7 @@
         {
             "id": "core_engagements_floor_001",
             "name": "Core Engagements - Floor",
-            "description": "Lie on back, lift legs and shoulders off ground while engaging core. Hold briefly and release. Activates deep core muscles.",
+            "description": "Lie supine with lower back pressed to floor. Lift shoulders and legs 6 inches off ground simultaneously, arms extended. Hold 3-5 seconds, lower with control. Activates transverse abdominis, rectus abdominis, and hip flexors. Essential for developing hollow body position used in gymnastics.",
             "default_sets": 2,
             "default_reps": "4 repeats",
             "difficulty": "intermediate",
