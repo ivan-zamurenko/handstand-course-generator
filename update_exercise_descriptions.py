@@ -5,7 +5,9 @@ Allows systematic review and updating of all exercise information
 """
 
 import json
-import os
+import sys
+import tty
+import termios
 from pathlib import Path
 
 # Color codes for terminal output
@@ -27,8 +29,13 @@ def print_header(text):
 
 def print_exercise(exercise, index, total):
     """Display exercise information clearly"""
-    has_image = exercise.get('image', '') != ''
-    image_indicator = "✅" if has_image else "❌"
+    image_url = exercise.get('image', '')
+    has_image = image_url != '' and image_url is not None
+    
+    if has_image:
+        image_display = f"✅ {image_url}"
+    else:
+        image_display = "❌ No image"
     
     print("\n" + "-"*80)
     print(f"{Colors.CYAN}[{index}/{total}] Exercise: {Colors.BOLD}{exercise['name']}{Colors.ENDC}")
@@ -38,7 +45,7 @@ def print_exercise(exercise, index, total):
     print(f"{Colors.BLUE}Equipment:{Colors.ENDC} {exercise['equipment']}")
     print(f"{Colors.BLUE}Sets/Reps:{Colors.ENDC} {exercise['default_sets']} sets x {exercise['default_reps']}")
     print(f"{Colors.BLUE}Muscles:{Colors.ENDC} {', '.join(exercise['primary_muscle_groups'])}")
-    print(f"{Colors.BLUE}Image:{Colors.ENDC} {image_indicator} {exercise.get('image', 'No image')}")
+    print(f"{Colors.BLUE}Image:{Colors.ENDC} {image_display}")
     print(f"\n{Colors.GREEN}Current Description:{Colors.ENDC}")
     print(f"  {exercise['description']}")
     print()
@@ -93,8 +100,10 @@ def update_description(exercise):
     print("  5. Update image URL")
     print("  6. Skip to next category")
     print("  7. Save and exit")
+    print(f"  p. Previous exercise")
+    print(f"  n. Next exercise")
     
-    choice = input(f"\n{Colors.BOLD}Choose option (1-7): {Colors.ENDC}").strip()
+    choice = input(f"\n{Colors.BOLD}Choose option: {Colors.ENDC}").strip().lower()
     
     if choice == '1':
         print(f"\n{Colors.GREEN}Enter new description (press Enter twice when done):{Colors.ENDC}")
@@ -130,6 +139,12 @@ def update_description(exercise):
     
     elif choice == '7':
         return 'exit'
+    
+    elif choice == 'p':
+        return 'previous'
+    
+    elif choice == 'n':
+        return 'next'
     
     return 'kept'
 
@@ -169,7 +184,7 @@ def update_sets(exercise):
 def update_image(exercise):
     """Update image URL for exercise"""
     current_image = exercise.get('image', '')
-    has_image = current_image != ''
+    has_image = current_image != '' and current_image is not None
     
     print(f"\n{Colors.BLUE}Current image: {Colors.ENDC}")
     if has_image:
@@ -182,6 +197,7 @@ def update_image(exercise):
     
     if new_image:
         exercise['image'] = new_image
+        print(f"{Colors.GREEN}✅ Image URL updated!{Colors.ENDC}")
         return True
     return False
 
@@ -224,15 +240,19 @@ def main():
         'images_updated': 0
     }
     
-    # Process exercises
+    # Process exercises with navigation
     current_category = None
-    for i, exercise in enumerate(exercises, 1):
+    i = 0
+    
+    while i < len(exercises):
+        exercise = exercises[i]
+        
         # Category header
         if exercise['category'] != current_category:
             current_category = exercise['category']
             print_header(f"Category: {current_category}")
         
-        print_exercise(exercise, i, len(exercises))
+        print_exercise(exercise, i + 1, len(exercises))
         
         # Update description
         result = update_description(exercise)
@@ -243,9 +263,10 @@ def main():
         elif result == 'skip_category':
             # Skip to next category
             next_cat = None
-            for ex in exercises[i:]:
-                if ex['category'] != current_category:
-                    next_cat = ex['category']
+            for j in range(i + 1, len(exercises)):
+                if exercises[j]['category'] != current_category:
+                    i = j
+                    next_cat = exercises[j]['category']
                     break
             if next_cat:
                 print(f"\n{Colors.CYAN}Skipping to category: {next_cat}{Colors.ENDC}")
@@ -253,6 +274,19 @@ def main():
             else:
                 print(f"\n{Colors.WARNING}No more categories. Saving...{Colors.ENDC}")
                 break
+        elif result == 'previous':
+            # Go to previous exercise
+            if i > 0:
+                i -= 1
+                print(f"\n{Colors.CYAN}← Going back to previous exercise{Colors.ENDC}")
+            else:
+                print(f"\n{Colors.WARNING}Already at first exercise!{Colors.ENDC}")
+            continue
+        elif result == 'next':
+            # Go to next exercise
+            i += 1
+            print(f"\n{Colors.CYAN}→ Moving to next exercise{Colors.ENDC}")
+            continue
         
         stats['reviewed'] += 1
         if result == 'updated':
@@ -270,6 +304,9 @@ def main():
         elif result == 'changed_image':
             if update_image(exercise):
                 stats['images_updated'] += 1
+        
+        # Move to next exercise after action
+        i += 1
     
     # Save updated data
     print(f"\n{Colors.GREEN}Saving changes...{Colors.ENDC}")
@@ -295,7 +332,7 @@ def main():
             print(f"  • {ex['name']} ({ex['category']})")
     
     # Show exercises without images
-    no_image_exercises = [ex for ex in exercises if ex.get('image', '') == '']
+    no_image_exercises = [ex for ex in exercises if not ex.get('image') or ex.get('image') == '']
     if no_image_exercises:
         print(f"\n{Colors.WARNING}Exercises without images (❌):{Colors.ENDC}")
         for ex in no_image_exercises:
