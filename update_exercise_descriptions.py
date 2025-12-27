@@ -27,6 +27,9 @@ def print_header(text):
 
 def print_exercise(exercise, index, total):
     """Display exercise information clearly"""
+    has_image = exercise.get('image', '') != ''
+    image_indicator = "✅" if has_image else "❌"
+    
     print("\n" + "-"*80)
     print(f"{Colors.CYAN}[{index}/{total}] Exercise: {Colors.BOLD}{exercise['name']}{Colors.ENDC}")
     print(f"{Colors.BLUE}ID:{Colors.ENDC} {exercise['id']}")
@@ -35,6 +38,7 @@ def print_exercise(exercise, index, total):
     print(f"{Colors.BLUE}Equipment:{Colors.ENDC} {exercise['equipment']}")
     print(f"{Colors.BLUE}Sets/Reps:{Colors.ENDC} {exercise['default_sets']} sets x {exercise['default_reps']}")
     print(f"{Colors.BLUE}Muscles:{Colors.ENDC} {', '.join(exercise['primary_muscle_groups'])}")
+    print(f"{Colors.BLUE}Image:{Colors.ENDC} {image_indicator} {exercise.get('image', 'No image')}")
     print(f"\n{Colors.GREEN}Current Description:{Colors.ENDC}")
     print(f"  {exercise['description']}")
     print()
@@ -86,10 +90,11 @@ def update_description(exercise):
     print("  2. Add ⚠️ (needs research)")
     print("  3. Keep current description")
     print("  4. Enter amount of sets/reps")
-    print("  5. Skip to next category")
-    print("  6. Save and exit")
+    print("  5. Update image URL")
+    print("  6. Skip to next category")
+    print("  7. Save and exit")
     
-    choice = input(f"\n{Colors.BOLD}Choose option (1-6): {Colors.ENDC}").strip()
+    choice = input(f"\n{Colors.BOLD}Choose option (1-7): {Colors.ENDC}").strip()
     
     if choice == '1':
         print(f"\n{Colors.GREEN}Enter new description (press Enter twice when done):{Colors.ENDC}")
@@ -118,9 +123,12 @@ def update_description(exercise):
         return 'changed_sets'
     
     elif choice == '5':
-        return 'skip_category'
+        return 'changed_image'
     
     elif choice == '6':
+        return 'skip_category'
+    
+    elif choice == '7':
         return 'exit'
     
     return 'kept'
@@ -139,14 +147,14 @@ def update_equipment(exercise):
 def update_sets(exercise):
     """Offer to update default sets/reps"""
     print(f"\n{Colors.BLUE}Current sets/reps: {exercise['default_sets']} sets x {exercise['default_reps']}{Colors.ENDC}")
-    print("Press Enter to keep, or type new sets (number) and reps (e.g., '3 10-15'):")
+    print("Press Enter to keep, or type new sets (number) and reps (e.g., '3 10-15' or '3 30 seconds'):")
     inp = input().strip()
     if inp:
         parts = inp.split()
         if len(parts) >= 2:
             try:
                 new_sets = int(parts[0])
-                if parts[2] == 'seconds':
+                if len(parts) > 2 and parts[2] == 'seconds':
                     new_reps = parts[1] + ' seconds'
                 else:
                     new_reps = parts[1]
@@ -154,8 +162,27 @@ def update_sets(exercise):
                 exercise['default_sets'] = new_sets
                 exercise['default_reps'] = new_reps
                 return True
-            except ValueError:
+            except (ValueError, IndexError):
                 print(f"{Colors.FAIL}Invalid input. Keeping current sets/reps.{Colors.ENDC}")
+    return False
+
+def update_image(exercise):
+    """Update image URL for exercise"""
+    current_image = exercise.get('image', '')
+    has_image = current_image != ''
+    
+    print(f"\n{Colors.BLUE}Current image: {Colors.ENDC}")
+    if has_image:
+        print(f"  ✅ {current_image}")
+    else:
+        print(f"  ❌ No image")
+    
+    print("\nEnter new image URL (or press Enter to keep current):")
+    new_image = input().strip()
+    
+    if new_image:
+        exercise['image'] = new_image
+        return True
     return False
 
 def main():
@@ -193,7 +220,8 @@ def main():
         'marked': 0,
         'kept': 0,
         'sets_changed': 0,
-        'equipment_updated': 0
+        'equipment_updated': 0,
+        'images_updated': 0
     }
     
     # Process exercises
@@ -239,6 +267,9 @@ def main():
         elif result == 'changed_sets':
             if update_sets(exercise):
                 stats['sets_changed'] += 1
+        elif result == 'changed_image':
+            if update_image(exercise):
+                stats['images_updated'] += 1
     
     # Save updated data
     print(f"\n{Colors.GREEN}Saving changes...{Colors.ENDC}")
@@ -253,6 +284,7 @@ def main():
     print(f"{Colors.BLUE}Kept unchanged:{Colors.ENDC} {stats['kept']}")
     print(f"{Colors.CYAN}Sets/Reps updated:{Colors.ENDC} {stats['sets_changed']}")
     print(f"{Colors.CYAN}Equipment updated:{Colors.ENDC} {stats['equipment_updated']}")
+    print(f"{Colors.CYAN}Images updated:{Colors.ENDC} {stats['images_updated']}")
     print(f"\n{Colors.GREEN}{Colors.BOLD}✅ Changes saved to vocabulary.json{Colors.ENDC}\n")
     
     # Show exercises marked with warning
@@ -260,6 +292,13 @@ def main():
     if marked_exercises:
         print(f"\n{Colors.WARNING}Exercises marked for research (⚠️):{Colors.ENDC}")
         for ex in marked_exercises:
+            print(f"  • {ex['name']} ({ex['category']})")
+    
+    # Show exercises without images
+    no_image_exercises = [ex for ex in exercises if ex.get('image', '') == '']
+    if no_image_exercises:
+        print(f"\n{Colors.WARNING}Exercises without images (❌):{Colors.ENDC}")
+        for ex in no_image_exercises:
             print(f"  • {ex['name']} ({ex['category']})")
 
 if __name__ == '__main__':
