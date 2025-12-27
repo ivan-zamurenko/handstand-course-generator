@@ -1,0 +1,14 @@
+{
+    "id": "stretching_002",
+    "name": "Shoulder Stretch",
+    "description": "Pull one arm across body. Hold and feel that shoulder stretch. Perfect after being hunched over all day!",
+    "default_sets": 2,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

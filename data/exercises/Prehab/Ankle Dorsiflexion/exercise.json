@@ -1,0 +1,16 @@
+{
+    "id": "ankle_dorsiflexion_001",
+    "name": "Ankle Dorsiflexion",
+    "description": "Face a wall, drive your knee forward over your toes. Improves ankle mobility for better squats and landings. Most people need this!",
+    "default_sets": 2,
+    "default_reps": "10 reps each ankle",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "ankles",
+        "tibialis anterior",
+        "calves"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

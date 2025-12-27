@@ -1,0 +1,17 @@
+{
+    "id": "handstand_negative_001",
+    "name": "Handstand Negative (Wall)",
+    "description": "Start in wall handstand, slowly lower down with control. Eccentric strength builder for press handstands. Slow is hard!",
+    "default_sets": 2,
+    "default_reps": "3 reps",
+    "difficulty": "intermediate",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexors",
+        "eccentric strength"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

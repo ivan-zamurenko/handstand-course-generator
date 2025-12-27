@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_cars_001",
+    "name": "Shoulder CARs (Controlled Articular Rotations)",
+    "description": "Slowly move your arm through its full circular range of motion. Every angle, deliberately. This explores and expands your shoulder mobility!",
+    "default_sets": 1,
+    "default_reps": "5 circles each direction per arm",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "rotator cuff",
+        "full shoulder joint"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

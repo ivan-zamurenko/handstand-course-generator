@@ -1,0 +1,16 @@
+{
+    "id": "towel_scrunches_001",
+    "name": "Towel Scrunches",
+    "description": "Put a towel on the floor, scrunch it toward you with your toes. Strengthens your foot arches and intrinsic muscles. Your feet need training too!",
+    "default_sets": 2,
+    "default_reps": "10 scrunches each foot",
+    "difficulty": "beginner",
+    "equipment": "towel",
+    "primary_muscle_groups": [
+        "feet",
+        "arches",
+        "intrinsic foot muscles"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

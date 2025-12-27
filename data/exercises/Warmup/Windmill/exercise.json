@@ -1,0 +1,17 @@
+{
+    "id": "windmill_001",
+    "name": "Windmill",
+    "description": "Stand wide, arms out in a T. Now hinge at your hips and twist - touch your right hand to your left foot while reaching that left arm to the sky. Switch sides. Feel that rotation through your spine!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "obliques",
+        "hamstrings",
+        "shoulders",
+        "spine mobility"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "handstand_003",
+    "name": "Chest-to-Wall Handstand",
+    "description": "Face the wall, walk up into handstand. Way harder than back-to-wall because it's closer to freestanding. This is next-level balance work!",
+    "default_sets": 3,
+    "default_reps": "30-45 seconds",
+    "difficulty": "intermediate",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

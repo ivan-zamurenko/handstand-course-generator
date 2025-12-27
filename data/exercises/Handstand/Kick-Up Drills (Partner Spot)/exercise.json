@@ -1,0 +1,16 @@
+{
+    "id": "kick_up_drills_001",
+    "name": "Kick-Up Drills (Partner Spot)",
+    "description": "Practice kick-ups with a spotter. Build confidence for freestanding attempts. Having that safety net helps!",
+    "default_sets": 2,
+    "default_reps": "8 attempts",
+    "difficulty": "intermediate",
+    "equipment": "partner or wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

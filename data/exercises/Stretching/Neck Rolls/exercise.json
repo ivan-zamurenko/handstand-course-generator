@@ -1,0 +1,16 @@
+{
+    "id": "neck_rolls_001",
+    "name": "Neck Rolls",
+    "description": "Slowly roll head in circles. Relieves all that desk tension. Move with control!",
+    "default_sets": 1,
+    "default_reps": "5 each direction",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "neck",
+        "upper traps",
+        "cervical spine"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

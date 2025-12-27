@@ -1,0 +1,16 @@
+{
+    "id": "elevated_pike_push_up_001",
+    "name": "Elevated Pike Push-Up",
+    "description": "Feet on a box, pike position, do push-ups. More vertical than regular pike push-ups - mimics the handstand pressing angle!",
+    "default_sets": 3,
+    "default_reps": "6-10 reps",
+    "difficulty": "intermediate",
+    "equipment": "box or chair",
+    "primary_muscle_groups": [
+        "shoulders",
+        "triceps",
+        "upper chest"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

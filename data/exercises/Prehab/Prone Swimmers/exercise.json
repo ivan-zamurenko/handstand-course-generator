@@ -1,0 +1,17 @@
+{
+    "id": "prone_swimmers_001",
+    "name": "Prone Swimmers",
+    "description": "Face down, lift opposite arm and leg like you're swimming. Great for posterior chain coordination and strength. Keep it controlled!",
+    "default_sets": 2,
+    "default_reps": "20 reps",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "glutes",
+        "upper back",
+        "coordination"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

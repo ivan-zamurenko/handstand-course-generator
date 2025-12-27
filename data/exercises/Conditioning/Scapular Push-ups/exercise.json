@@ -1,0 +1,16 @@
+{
+    "id": "scapular_pushups_001",
+    "name": "Scapular Push-ups",
+    "description": "In plank, protract and retract shoulder blades without bending elbows. Essential for handstand shoulder strength!",
+    "default_sets": 2,
+    "default_reps": "12 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "serratus anterior",
+        "scapular stabilizers",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

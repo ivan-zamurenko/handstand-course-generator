@@ -1,0 +1,17 @@
+{
+    "id": "frog_stand_001",
+    "name": "Frog Stand",
+    "description": "Squat, hands flat, knees on elbows, lean forward until feet lift. Essential balancing skill! This is where arm balances begin.",
+    "default_sets": 3,
+    "default_reps": "15-20 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "wrists",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

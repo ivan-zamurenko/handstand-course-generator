@@ -1,0 +1,16 @@
+{
+    "id": "runners_stretch_001",
+    "name": "Runner's Stretch (Active)",
+    "description": "Get in a low lunge and pulse forward and back. Feel that front hip flexor open up. Active stretching is where it's at - movement plus stretch equals gold!",
+    "default_sets": 1,
+    "default_reps": "8 repeats each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "quads",
+        "hamstrings"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

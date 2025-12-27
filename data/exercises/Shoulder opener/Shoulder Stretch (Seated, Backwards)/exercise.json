@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_stretch_seated_back_001",
+    "name": "Shoulder Stretch (Seated, Backwards)",
+    "description": "Sit down, place hands behind you and walk them back. Stretches anterior shoulders and chest while seated. Simple but effective!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "chest",
+        "biceps"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

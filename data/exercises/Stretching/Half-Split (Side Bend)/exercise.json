@@ -1,0 +1,16 @@
+{
+    "id": "half_split_side_bend_001",
+    "name": "Half-Split (Side Bend)",
+    "description": "From half-split, reach arm over to side. Adds lateral flexion to hamstring stretch. Double the benefit!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "obliques",
+        "lateral body"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

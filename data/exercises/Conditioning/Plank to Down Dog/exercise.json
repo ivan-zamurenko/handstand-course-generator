@@ -1,0 +1,16 @@
+{
+    "id": "plank_to_downdog_001",
+    "name": "Plank to Down Dog",
+    "description": "Flow between plank and downward dog. Dynamic shoulder and core builder. Smooth transitions!",
+    "default_sets": 2,
+    "default_reps": "10 transitions",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hamstrings"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

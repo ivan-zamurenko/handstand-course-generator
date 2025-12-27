@@ -1,0 +1,17 @@
+{
+    "id": "crow_pose_001",
+    "name": "Crow Pose",
+    "description": "Like frog stand but lift hips higher and straighten arms more. Classic yoga arm balance. Master this before moving on!",
+    "default_sets": 2,
+    "default_reps": "20 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "arms",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

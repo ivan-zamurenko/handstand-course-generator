@@ -1,0 +1,16 @@
+{
+    "id": "v_ups_001",
+    "name": "V-Ups",
+    "description": "Lie flat, lift legs and torso simultaneously to touch toes. Advanced ab exercise! Explosive core power.",
+    "default_sets": 2,
+    "default_reps": "10 reps",
+    "difficulty": "advanced",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "abs",
+        "hip flexors",
+        "core"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

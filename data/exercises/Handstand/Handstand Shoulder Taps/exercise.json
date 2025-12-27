@@ -1,0 +1,15 @@
+{
+    "id": "handstand_002",
+    "name": "Handstand Shoulder Taps",
+    "description": "In a wall handstand, carefully tap your shoulders one at a time. Balance challenge on steroids! Your core is working overtime here.",
+    "default_sets": 3,
+    "default_reps": "8-12 taps",
+    "difficulty": "advanced",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

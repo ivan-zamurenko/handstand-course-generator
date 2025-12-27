@@ -1,0 +1,16 @@
+{
+    "id": "jumping_lunges_001",
+    "name": "Jumping Lunges",
+    "description": "In a lunge? Now JUMP and switch legs in the air! Land soft, explode again. This is high-intensity leg work that'll get your heart racing. Push through the burn!",
+    "default_sets": 1,
+    "default_reps": "12 jumps",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "quads",
+        "glutes",
+        "explosive power"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

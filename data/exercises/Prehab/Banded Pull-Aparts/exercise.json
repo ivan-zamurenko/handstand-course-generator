@@ -1,0 +1,16 @@
+{
+    "id": "banded_pull_aparts_001",
+    "name": "Banded Pull-Aparts",
+    "description": "Hold a band at chest level, pull it apart by squeezing your shoulder blades together. Feel that upper back work! Keeps your shoulders healthy.",
+    "default_sets": 2,
+    "default_reps": "15 reps",
+    "difficulty": "beginner",
+    "equipment": "resistance band",
+    "primary_muscle_groups": [
+        "upper back",
+        "rear deltoids",
+        "rhomboids"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "cow_face_arms_001",
+    "name": "Cow Face Arms",
+    "description": "One arm overhead bent behind, other behind back bent up, try to clasp hands. Use a strap if needed! Multi-plane shoulder stretch.",
+    "default_sets": 1,
+    "default_reps": "20 seconds each side",
+    "difficulty": "intermediate",
+    "equipment": "strap optional",
+    "primary_muscle_groups": [
+        "shoulders",
+        "triceps",
+        "chest"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

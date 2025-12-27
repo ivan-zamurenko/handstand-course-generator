@@ -1,0 +1,16 @@
+{
+    "id": "cross_body_arm_swings_001",
+    "name": "Cross-Body Arm Swings",
+    "description": "Swing your arms across your body, alternating sides. Dynamic warm-up for shoulders and chest!",
+    "default_sets": 1,
+    "default_reps": "15 swings",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "chest",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

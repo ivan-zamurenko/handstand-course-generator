@@ -1,0 +1,15 @@
+{
+    "id": "serratus_wall_slides_001",
+    "name": "Serratus Wall Slides",
+    "description": "Face the wall, hands on it, push yourself away by protracting your shoulder blades. Targets serratus anterior - the handstand muscle!",
+    "default_sets": 2,
+    "default_reps": "10 reps",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "serratus anterior",
+        "scapular stabilizers"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

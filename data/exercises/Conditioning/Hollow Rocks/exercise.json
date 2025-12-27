@@ -1,0 +1,16 @@
+{
+    "id": "hollow_rocks_001",
+    "name": "Hollow Rocks",
+    "description": "In hollow body, rock back and forth. Advanced gymnastics core exercise. Keep that shape tight!",
+    "default_sets": 2,
+    "default_reps": "20 rocks",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "abs",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

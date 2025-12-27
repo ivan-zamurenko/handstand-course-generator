@@ -1,0 +1,16 @@
+{
+    "id": "hip_bridges_001",
+    "name": "Hip Bridges",
+    "description": "Lie on your back, knees bent, lift those hips up! Squeeze your glutes hard at the top. This is THE glute activation move. Don't just go through the motions!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "glutes",
+        "hamstrings",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

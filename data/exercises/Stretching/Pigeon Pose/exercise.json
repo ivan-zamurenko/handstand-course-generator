@@ -1,0 +1,16 @@
+{
+    "id": "pigeon_pose_001",
+    "name": "Pigeon Pose",
+    "description": "Front leg bent, back leg extended, fold forward. Deep hip opener that office workers desperately need!",
+    "default_sets": 1,
+    "default_reps": "45 seconds each side",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hip external rotators",
+        "glutes",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

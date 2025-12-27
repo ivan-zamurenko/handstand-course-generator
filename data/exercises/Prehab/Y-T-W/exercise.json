@@ -1,0 +1,17 @@
+{
+    "id": "ytw_001",
+    "name": "Y-T-W",
+    "description": "Face down, move your arms through Y position, then T, then W - all while lifted off the ground. Advanced upper back control that'll bulletproof your shoulders!",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "advanced",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "upper back",
+        "shoulders",
+        "scapular stabilizers",
+        "rotator cuff"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

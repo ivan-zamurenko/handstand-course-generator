@@ -1,0 +1,16 @@
+{
+    "id": "handstand_splits_001",
+    "name": "Handstand Splits",
+    "description": "In wall handstand, open your legs into splits. Requires hip flexibility and core control. Show off those flexible hips!",
+    "default_sets": 2,
+    "default_reps": "20 seconds",
+    "difficulty": "intermediate",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexibility"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

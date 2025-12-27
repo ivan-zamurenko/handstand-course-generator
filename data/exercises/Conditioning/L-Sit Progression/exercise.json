@@ -1,0 +1,17 @@
+{
+    "id": "l_sit_progression_001",
+    "name": "L-Sit Progression",
+    "description": "Sit, hands beside hips, press to lift and extend legs forward. Building toward full L-sit! Keep working at it!",
+    "default_sets": 2,
+    "default_reps": "10 seconds hold",
+    "difficulty": "intermediate",
+    "equipment": "floor or parallettes",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "abs",
+        "shoulders",
+        "triceps"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

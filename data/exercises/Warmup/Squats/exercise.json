@@ -1,0 +1,16 @@
+{
+    "id": "squats_001",
+    "name": "Squats",
+    "description": "Feet shoulder-width, drop that butt back like you're sitting in a chair. Keep your chest up! Drive through your heels to stand. This is THE foundation movement. Own it!",
+    "default_sets": 1,
+    "default_reps": "20 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "quads",
+        "glutes",
+        "hamstrings"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

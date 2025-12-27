@@ -1,0 +1,16 @@
+{
+    "id": "quadruped_fire_hydrants_001",
+    "name": "Quadruped Fire Hydrants",
+    "description": "On all fours, lift one leg out to the side with knee bent. Like a dog at a fire hydrant! Strengthens hip abductors and improves stability.",
+    "default_sets": 2,
+    "default_reps": "10 reps each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hip abductors",
+        "glutes",
+        "hip stability"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

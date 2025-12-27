@@ -1,0 +1,16 @@
+{
+    "id": "hip_bridges_single_leg_001",
+    "name": "Hip Bridges (with 1 leg)",
+    "description": "Same bridge, but extend one leg. Now you're working one side at a time - way harder! Balance and glute strength combined.",
+    "default_sets": 1,
+    "default_reps": "5 repeats each leg",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "glutes",
+        "hamstrings",
+        "core stability"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

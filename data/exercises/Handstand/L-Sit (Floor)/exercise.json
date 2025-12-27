@@ -1,0 +1,17 @@
+{
+    "id": "l_sit_floor_001",
+    "name": "L-Sit (Floor)",
+    "description": "Hands beside hips, press down to lift your entire body with legs extended. Fundamental gymnastics hold that builds crazy strength!",
+    "default_sets": 3,
+    "default_reps": "10-15 seconds",
+    "difficulty": "intermediate",
+    "equipment": "floor",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "core",
+        "shoulders",
+        "triceps"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

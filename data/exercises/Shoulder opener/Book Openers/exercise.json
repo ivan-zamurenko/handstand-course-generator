@@ -1,0 +1,17 @@
+{
+    "id": "book_openers_001",
+    "name": "Book Openers",
+    "description": "Lie on your side, open your top arm like opening a book, follow it with your eyes. Amazing thoracic rotation and shoulder opener!",
+    "default_sets": 1,
+    "default_reps": "8 reps each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "thoracic spine",
+        "shoulders",
+        "chest",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

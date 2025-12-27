@@ -1,0 +1,16 @@
+{
+    "id": "walk_to_hands_001",
+    "name": "Walk To Hands",
+    "description": "From the V position, walk your hands toward your feet. Shoulder mobility and strength in the pike position - crucial for press handstands!",
+    "default_sets": 2,
+    "default_reps": "5 steps (3 repeats)",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "wrists"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

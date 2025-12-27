@@ -1,0 +1,16 @@
+{
+    "id": "press_lean_holds_001",
+    "name": "Press Lean Holds",
+    "description": "From pike, lean shoulders way forward and hold. Builds shoulder strength for press entry without going all the way!",
+    "default_sets": 3,
+    "default_reps": "5-10 seconds",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "wrists"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

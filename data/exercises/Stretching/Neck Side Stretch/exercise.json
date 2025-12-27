@@ -1,0 +1,16 @@
+{
+    "id": "neck_side_stretch_001",
+    "name": "Neck Side Stretch",
+    "description": "Tilt head to side, gently pull with hand. Lateral neck release. Feels so good!",
+    "default_sets": 1,
+    "default_reps": "20 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "neck",
+        "upper traps",
+        "levator scapulae"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "walking_pike_001",
+    "name": "Walking Pike",
+    "description": "Start in a plank, then walk your hands back toward your feet with straight legs. Feel that hamstring stretch! Then walk your hands back out. It's like doing yoga and getting stronger at the same time.",
+    "default_sets": 1,
+    "default_reps": "20 repeats",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "shoulders",
+        "calves"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

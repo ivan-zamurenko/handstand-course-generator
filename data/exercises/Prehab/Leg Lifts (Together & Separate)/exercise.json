@@ -1,0 +1,16 @@
+{
+    "id": "leg_lifts_together_separate_001",
+    "name": "Leg Lifts (Together & Separate)",
+    "description": "Face down, lift both legs together, then alternate lifting them one at a time. Glutes and lower back getting stronger with every rep!",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "glutes",
+        "lower back",
+        "hamstrings"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

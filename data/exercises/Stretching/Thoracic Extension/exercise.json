@@ -1,0 +1,16 @@
+{
+    "id": "thoracic_extension_001",
+    "name": "Thoracic Extension",
+    "description": "Arch upper back over foam roller or chair. Counteracts that rounded desk posture. Breathe into it!",
+    "default_sets": 1,
+    "default_reps": "5-8 repeats",
+    "difficulty": "beginner",
+    "equipment": "chair or foam roller",
+    "primary_muscle_groups": [
+        "thoracic spine",
+        "upper back",
+        "chest"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

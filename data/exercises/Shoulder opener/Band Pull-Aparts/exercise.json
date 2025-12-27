@@ -1,0 +1,15 @@
+{
+    "id": "shoulder_003",
+    "name": "Band Pull-Aparts",
+    "description": "Hold the band at chest level, pull it apart. Simple, effective, and your shoulders need this daily! Squeeze those shoulder blades!",
+    "default_sets": 3,
+    "default_reps": "15 reps",
+    "difficulty": "beginner",
+    "equipment": "resistance band",
+    "primary_muscle_groups": [
+        "shoulders",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

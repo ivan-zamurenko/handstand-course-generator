@@ -1,0 +1,17 @@
+{
+    "id": "pirouette_practice_001",
+    "name": "Handstand Pirouette Practice",
+    "description": "In handstand, practice small rotations. Advanced skill! Building that rotation control takes time.",
+    "default_sets": 2,
+    "default_reps": "4 attempts each direction",
+    "difficulty": "advanced",
+    "equipment": "wall or open space",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "coordination",
+        "spatial awareness"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "wall_crow_max_hold_001",
+    "name": "Wall Crow (Max Hold)",
+    "description": "Hold Wall Crow as long as you possibly can. Mental toughness and endurance in the inverted position. Push your limits!",
+    "default_sets": 1,
+    "default_reps": "1 max hold",
+    "difficulty": "advanced",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "endurance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

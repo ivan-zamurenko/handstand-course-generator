@@ -1,0 +1,16 @@
+{
+    "id": "stretching_003",
+    "name": "Child's Pose",
+    "description": "Sit back on heels, arms extended forward. Total relaxation pose for shoulders and back. Breathe and sink deeper!",
+    "default_sets": 1,
+    "default_reps": "60-90 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "back",
+        "shoulders",
+        "hips"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

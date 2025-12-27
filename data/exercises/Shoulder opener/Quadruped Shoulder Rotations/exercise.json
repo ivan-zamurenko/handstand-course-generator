@@ -1,0 +1,16 @@
+{
+    "id": "quadruped_shoulder_rotations_001",
+    "name": "Quadruped Shoulder Rotations",
+    "description": "On all fours, rotate one shoulder while keeping your hand planted. Improves rotator cuff mobility with load!",
+    "default_sets": 1,
+    "default_reps": "8 reps each direction per arm",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "rotator cuff",
+        "shoulders",
+        "scapular stabilizers"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

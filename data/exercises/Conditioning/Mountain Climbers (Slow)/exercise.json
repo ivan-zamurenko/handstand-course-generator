@@ -1,0 +1,16 @@
+{
+    "id": "mountain_climbers_slow_001",
+    "name": "Mountain Climbers (Slow)",
+    "description": "Slow, controlled mountain climbers. More strength, less cardio. Feel every rep working that core!",
+    "default_sets": 2,
+    "default_reps": "15 reps each leg",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "hip flexors",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

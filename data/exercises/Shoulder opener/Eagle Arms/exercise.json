@@ -1,0 +1,16 @@
+{
+    "id": "eagle_arms_001",
+    "name": "Eagle Arms",
+    "description": "Cross arms and wrap forearms, press elbows up. Yoga pose that opens upper back and shoulders. Feels weird, works great!",
+    "default_sets": 1,
+    "default_reps": "20 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "upper back",
+        "shoulders",
+        "scapular muscles"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

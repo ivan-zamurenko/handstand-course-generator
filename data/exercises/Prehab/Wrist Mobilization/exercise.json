@@ -1,0 +1,15 @@
+{
+    "id": "wrist_mobilization_001",
+    "name": "Wrist Mobilization",
+    "description": "Make circles with your wrists, both directions. Or do it with hands in prayer position. Get that synovial fluid flowing!",
+    "default_sets": 1,
+    "default_reps": "10 circles each direction",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "wrists",
+        "forearms"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

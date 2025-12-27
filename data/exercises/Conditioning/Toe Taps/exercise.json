@@ -1,0 +1,16 @@
+{
+    "id": "toe_taps_001",
+    "name": "Toe Taps",
+    "description": "Lie on back, legs in tabletop, slowly tap toes to ground alternating. Core stability exercise that's harder than it looks!",
+    "default_sets": 1,
+    "default_reps": "15 repeats each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "lower abs",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

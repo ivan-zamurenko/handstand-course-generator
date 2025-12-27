@@ -1,0 +1,16 @@
+{
+    "id": "figure_four_stretch_001",
+    "name": "Figure Four Stretch",
+    "description": "On back, cross ankle over knee, pull leg toward chest. Targets piriformis and outer hip. Game changer!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "piriformis",
+        "glutes",
+        "outer hip"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

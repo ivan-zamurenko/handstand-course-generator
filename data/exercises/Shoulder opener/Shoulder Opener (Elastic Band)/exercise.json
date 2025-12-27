@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_opener_band_001",
+    "name": "Shoulder Opener (Elastic Band)",
+    "description": "Hold band wide, pull it over your head and behind you in a slow, controlled arc. Your shoulder flexibility will skyrocket with this!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "resistance band",
+    "primary_muscle_groups": [
+        "shoulders",
+        "chest",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

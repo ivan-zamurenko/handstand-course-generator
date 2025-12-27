@@ -1,0 +1,16 @@
+{
+    "id": "one_leg_l_sit_001",
+    "name": "One-Leg L-Sit",
+    "description": "Lift body with one leg extended, one bent. Easier than full L-sit but still builds the necessary strength!",
+    "default_sets": 3,
+    "default_reps": "10 seconds each leg",
+    "difficulty": "beginner",
+    "equipment": "floor",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "core",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

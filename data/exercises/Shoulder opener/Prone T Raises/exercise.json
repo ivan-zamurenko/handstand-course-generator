@@ -1,0 +1,17 @@
+{
+    "id": "prone_t_raises_001",
+    "name": "Prone T Raises",
+    "description": "Face down, arms out to sides in a T, lift with thumbs up. Mid-back and posterior shoulder work! Feel that squeeze!",
+    "default_sets": 2,
+    "default_reps": "10 reps",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "mid traps",
+        "rhomboids",
+        "posterior deltoids"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

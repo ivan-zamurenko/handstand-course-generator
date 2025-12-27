@@ -1,0 +1,16 @@
+{
+    "id": "handstand_001",
+    "name": "Wall Handstand Hold",
+    "description": "Get upside down against that wall and HOLD IT! Focus on pushing through your shoulders, keep that hollow body tight. This builds the foundational strength!",
+    "default_sets": 4,
+    "default_reps": "30-60 seconds",
+    "difficulty": "intermediate",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "arms"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

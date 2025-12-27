@@ -1,0 +1,16 @@
+{
+    "id": "handstand_004",
+    "name": "Handstand Walk (Wall)",
+    "description": "In wall handstand, walk your hands side to side. Builds coordination and strength simultaneously. Feel that shoulder control!",
+    "default_sets": 3,
+    "default_reps": "6-8 steps each direction",
+    "difficulty": "advanced",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "coordination"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

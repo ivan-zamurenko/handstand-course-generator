@@ -1,0 +1,16 @@
+{
+    "id": "prone_y_raises_001",
+    "name": "Prone Y Raises",
+    "description": "Face down, arms in a Y (45 degrees from your head), lift them up. Targets lower traps - crucial for healthy shoulders!",
+    "default_sets": 2,
+    "default_reps": "10 reps",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "lower traps",
+        "rhomboids"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

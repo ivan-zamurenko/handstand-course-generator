@@ -1,0 +1,16 @@
+{
+    "id": "arm_circles_large_001",
+    "name": "Arm Circles (Large)",
+    "description": "Now make those circles BIG! Full range of motion. Progress from small to large as you warm up. Your shoulders need this movement!",
+    "default_sets": 1,
+    "default_reps": "10 circles each direction",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "deltoids",
+        "full shoulder girdle"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

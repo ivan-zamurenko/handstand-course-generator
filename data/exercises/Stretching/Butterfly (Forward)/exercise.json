@@ -1,0 +1,16 @@
+{
+    "id": "butterfly_forward_001",
+    "name": "Butterfly (Forward)",
+    "description": "Soles together, fold forward. Hip opener for days! Breathe into those tight hips.",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hip adductors",
+        "inner thighs",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

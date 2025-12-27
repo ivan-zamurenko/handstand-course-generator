@@ -1,0 +1,16 @@
+{
+    "id": "wall_shoulder_flexion_001",
+    "name": "Wall Shoulder Flexion",
+    "description": "Face a wall, walk your fingers up as high as possible. Hold at the top! Gentle active stretch for overhead mobility.",
+    "default_sets": 2,
+    "default_reps": "8 reps",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "lats",
+        "shoulder flexors"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

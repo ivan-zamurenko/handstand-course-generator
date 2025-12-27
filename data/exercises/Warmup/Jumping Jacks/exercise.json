@@ -1,0 +1,15 @@
+{
+    "id": "jumping_jacks_001",
+    "name": "Jumping Jacks",
+    "description": "Start standing tall, then jump and spread those legs while throwing your arms overhead! Jump back together and repeat. It's simple, gets your heart pumping, and wakes up your whole body. Let's go!",
+    "default_sets": 1,
+    "default_reps": "45 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "full body",
+        "cardiovascular"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

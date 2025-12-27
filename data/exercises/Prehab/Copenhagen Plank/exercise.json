@@ -1,0 +1,16 @@
+{
+    "id": "copenhagen_plank_001",
+    "name": "Copenhagen Plank",
+    "description": "Side plank with your top leg elevated on a bench. Advanced hip adductor strength! Prevents groin injuries for athletes.",
+    "default_sets": 2,
+    "default_reps": "15 seconds each side",
+    "difficulty": "advanced",
+    "equipment": "bench or chair",
+    "primary_muscle_groups": [
+        "hip adductors",
+        "core",
+        "obliques"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

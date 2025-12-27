@@ -1,0 +1,16 @@
+{
+    "id": "wall_crow_one_leg_001",
+    "name": "Wall Crow (1-Leg Isolation)",
+    "description": "In Wall Crow, extend one leg at a time. Building unilateral control for freestanding handstands. This is advanced stuff!",
+    "default_sets": 2,
+    "default_reps": "3 repeats each leg",
+    "difficulty": "intermediate",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip stability"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

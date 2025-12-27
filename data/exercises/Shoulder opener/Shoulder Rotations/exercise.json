@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_rotations_001",
+    "name": "Shoulder Rotations",
+    "description": "Make big circles with your shoulders - forward and backward. Wake up that rotator cuff and get the blood flowing!",
+    "default_sets": 1,
+    "default_reps": "8 repeats each direction",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "rotator cuff",
+        "deltoids"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

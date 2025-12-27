@@ -1,0 +1,15 @@
+{
+    "id": "quad_stretch_standing_001",
+    "name": "Quad Stretch (Standing)",
+    "description": "Pull foot toward glutes, keep knees together. Classic quad stretch that everyone knows!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each leg",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "quads",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

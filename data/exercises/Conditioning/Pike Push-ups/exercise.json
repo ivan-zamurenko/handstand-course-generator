@@ -1,0 +1,15 @@
+{
+    "id": "conditioning_003",
+    "name": "Pike Push-ups",
+    "description": "Start in downward dog position, lower your head toward the ground. This mimics handstand push-ups - pure shoulder strength!",
+    "default_sets": 3,
+    "default_reps": "8-12 reps",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "triceps"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

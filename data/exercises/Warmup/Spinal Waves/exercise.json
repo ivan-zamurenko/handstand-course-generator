@@ -1,0 +1,16 @@
+{
+    "id": "spinal_waves_001",
+    "name": "Spinal Waves",
+    "description": "Stand and create a wave through your spine - start at your neck, flow down through your whole back to your tailbone. Feels amazing and mobilizes every vertebra!",
+    "default_sets": 1,
+    "default_reps": "8 waves",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "spine",
+        "core",
+        "back"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

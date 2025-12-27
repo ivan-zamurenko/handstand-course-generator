@@ -1,0 +1,16 @@
+{
+    "id": "wall_crow_chair_001",
+    "name": "Wall Crow (Chair Variation)",
+    "description": "Wall Crow with feet on a chair - increases the shoulder angle and difficulty. Progressive overload in action!",
+    "default_sets": 3,
+    "default_reps": "5 repeats",
+    "difficulty": "intermediate",
+    "equipment": "wall, chair",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

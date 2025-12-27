@@ -1,0 +1,16 @@
+{
+    "id": "glute_bridges_marching_001",
+    "name": "Glute Bridges (Marching)",
+    "description": "In bridge position, alternately lift each foot off the ground. Challenges your glute stability unilaterally. Don't let those hips drop!",
+    "default_sets": 2,
+    "default_reps": "10 reps each leg",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "glutes",
+        "hamstrings",
+        "core stability"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

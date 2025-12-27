@@ -1,0 +1,16 @@
+{
+    "id": "ankle_bounces_001",
+    "name": "Ankle Bounces",
+    "description": "Bounce on the balls of your feet, rapid-fire! This preps your calves and ankles for explosive stuff. Think of it as waking up your spring mechanism!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "calves",
+        "ankles",
+        "feet"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

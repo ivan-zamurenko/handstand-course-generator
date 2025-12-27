@@ -1,0 +1,14 @@
+{
+    "id": "conditioning_004",
+    "name": "Hollow Body Hold",
+    "description": "Lie down, press lower back to floor, lift shoulders and legs. THIS is the secret to handstand balance. Master this shape!",
+    "default_sets": 3,
+    "default_reps": "30-45 seconds",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

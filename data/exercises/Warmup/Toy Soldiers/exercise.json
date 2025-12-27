@@ -1,0 +1,16 @@
+{
+    "id": "toy_soldiers_001",
+    "name": "Toy Soldiers",
+    "description": "Walk forward and kick straight legs up to touch your opposite hand. High kicks, hamstring stretch, coordination all in one. Keep that standing leg straight too!",
+    "default_sets": 1,
+    "default_reps": "10 kicks each leg",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "hip flexors",
+        "balance"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

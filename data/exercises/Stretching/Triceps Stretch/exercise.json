@@ -1,0 +1,16 @@
+{
+    "id": "triceps_stretch_001",
+    "name": "Triceps Stretch",
+    "description": "Arm overhead, bend elbow, push gently with other hand. Stretches triceps and lat. Hold it!",
+    "default_sets": 1,
+    "default_reps": "20 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "triceps",
+        "lats",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "wall_angels_001",
+    "name": "Wall Angels",
+    "description": "Back against wall, arms in goal post position, slide them up and down like making snow angels. Keep everything touching the wall!",
+    "default_sets": 2,
+    "default_reps": "12 reps",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "scapular stabilizers",
+        "upper back",
+        "posture muscles"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

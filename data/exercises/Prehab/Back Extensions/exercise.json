@@ -1,0 +1,16 @@
+{
+    "id": "back_extensions_001",
+    "name": "Back Extensions",
+    "description": "Lie face down and lift your chest off the ground. Keep your hips down! This strengthens your lower back - super important for handstand balance.",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "spinal erectors",
+        "glutes"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

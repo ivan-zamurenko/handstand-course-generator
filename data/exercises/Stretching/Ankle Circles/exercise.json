@@ -1,0 +1,16 @@
+{
+    "id": "ankle_circles_001",
+    "name": "Ankle Circles",
+    "description": "Rotate ankles in circles. Improves mobility and circulation. Do both directions!",
+    "default_sets": 1,
+    "default_reps": "10 each direction per foot",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "ankles",
+        "feet",
+        "calves"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "toe_stretches_001",
+    "name": "Toe Stretches",
+    "description": "Interlace fingers between toes and spread. Your feet need love too! Feels weird but amazing.",
+    "default_sets": 1,
+    "default_reps": "20 seconds each foot",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "toes",
+        "feet",
+        "plantar fascia"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

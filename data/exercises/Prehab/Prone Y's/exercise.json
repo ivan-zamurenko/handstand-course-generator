@@ -1,0 +1,16 @@
+{
+    "id": "prone_ys_001",
+    "name": "Prone Y's",
+    "description": "Lie face down, make a Y with your arms overhead, lift them up. Keep your neck neutral! This targets those lower traps that keep your shoulders healthy.",
+    "default_sets": 1,
+    "default_reps": "8 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "upper back",
+        "shoulders",
+        "lower traps"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

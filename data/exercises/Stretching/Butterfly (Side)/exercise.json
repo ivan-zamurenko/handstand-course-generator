@@ -1,0 +1,16 @@
+{
+    "id": "butterfly_side_001",
+    "name": "Butterfly (Side)",
+    "description": "From butterfly, lean to one side. Stretches obliques and lateral hip. Feel that side body open!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "obliques",
+        "lateral hip",
+        "inner thighs"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

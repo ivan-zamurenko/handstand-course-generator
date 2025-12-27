@@ -1,0 +1,16 @@
+{
+    "id": "scapular_retractions_001",
+    "name": "Scapular Retractions",
+    "description": "Squeeze those shoulder blades together, hold, release. The most basic shoulder health exercise. Master this movement pattern!",
+    "default_sets": 2,
+    "default_reps": "15 reps",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "rhomboids",
+        "mid traps",
+        "scapular stabilizers"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

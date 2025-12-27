@@ -1,0 +1,16 @@
+{
+    "id": "core_engagements_tuck_001",
+    "name": "Core Engagements (Tuck)",
+    "description": "From hollow body, pull your knees into your chest tight, then extend back out. Keep that lower back glued to the floor! Advanced core control that'll level up your handstands.",
+    "default_sets": 2,
+    "default_reps": "4 repeats",
+    "difficulty": "advanced",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "hip flexors",
+        "abs"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

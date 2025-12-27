@@ -1,0 +1,16 @@
+{
+    "id": "seated_hip_rotations_001",
+    "name": "Seated Hip Rotations",
+    "description": "Sit with knees bent, let them drop side to side. Easy, gentle, feels amazing for loosening up your hips and lower back. Perfect after sitting all day!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hip mobility",
+        "lower back",
+        "glutes"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

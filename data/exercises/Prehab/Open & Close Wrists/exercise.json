@@ -1,0 +1,16 @@
+{
+    "id": "open_close_wrists_001",
+    "name": "Open & Close Wrists",
+    "description": "Make a tight fist, then spread your fingers wide like you're showing off jazz hands. Repeat! Simple wrist warm-up that prevents injury.",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "wrists",
+        "forearms",
+        "finger flexors"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

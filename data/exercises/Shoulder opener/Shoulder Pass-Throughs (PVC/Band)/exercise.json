@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_pass_throughs_001",
+    "name": "Shoulder Pass-Throughs (PVC/Band)",
+    "description": "Hold PVC or band wide, pass it overhead and behind you in a circle. Excellent mobility drill!",
+    "default_sets": 2,
+    "default_reps": "10 pass-throughs",
+    "difficulty": "beginner",
+    "equipment": "PVC pipe or band",
+    "primary_muscle_groups": [
+        "shoulders",
+        "chest",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

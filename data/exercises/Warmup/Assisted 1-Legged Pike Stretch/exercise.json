@@ -1,0 +1,15 @@
+{
+    "id": "assisted_pike_stretch_001",
+    "name": "Assisted 1-Legged Pike Stretch",
+    "description": "Sit with one leg extended, fold forward over that leg. Reach for your foot. Breathe and sink deeper with each exhale. Your hamstrings might hate you now, but they'll love you later!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

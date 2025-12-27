@@ -1,0 +1,16 @@
+{
+    "id": "dead_bug_001",
+    "name": "Dead Bug",
+    "description": "On back, extend opposite arm and leg while keeping core engaged. Perfect core stability exercise. Slow and controlled!",
+    "default_sets": 2,
+    "default_reps": "10 repeats each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "abs",
+        "coordination"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

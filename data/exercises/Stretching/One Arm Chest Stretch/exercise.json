@@ -1,0 +1,16 @@
+{
+    "id": "one_arm_chest_stretch_001",
+    "name": "One Arm Chest Stretch",
+    "description": "Hand on wall, rotate body away. Opens chest and anterior shoulder. Office workers, you need this daily!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "chest",
+        "anterior deltoid",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

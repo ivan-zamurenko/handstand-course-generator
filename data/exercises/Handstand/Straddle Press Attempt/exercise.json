@@ -1,0 +1,17 @@
+{
+    "id": "straddle_press_attempt_001",
+    "name": "Straddle Press Attempt",
+    "description": "From pike with legs wide, try to lift hips and legs by leaning shoulders forward. Press handstand progression - keep trying!",
+    "default_sets": 2,
+    "default_reps": "5 attempts",
+    "difficulty": "advanced",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexors",
+        "compression"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

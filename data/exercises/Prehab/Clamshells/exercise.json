@@ -1,0 +1,16 @@
+{
+    "id": "clamshells_001",
+    "name": "Clamshells",
+    "description": "Lie on your side, knees bent, feet together. Lift that top knee up like a clamshell opening. Feel those glutes and hip rotators working! Essential for hip stability.",
+    "default_sets": 2,
+    "default_reps": "12 reps each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hip external rotators",
+        "glute medius",
+        "hip stability"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

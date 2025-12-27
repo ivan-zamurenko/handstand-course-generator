@@ -1,0 +1,16 @@
+{
+    "id": "diamond_pushups_001",
+    "name": "Diamond Push-Ups",
+    "description": "Hands in diamond shape, do push-ups. Emphasizes triceps way more than regular push-ups. Feel that burn!",
+    "default_sets": 2,
+    "default_reps": "8-12 reps",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "triceps",
+        "chest",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

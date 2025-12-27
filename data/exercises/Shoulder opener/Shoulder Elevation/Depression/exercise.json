@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_elevation_depression_001",
+    "name": "Shoulder Elevation/Depression",
+    "description": "Arms overhead, actively push up then pull down. Building awareness of shoulder blade control!",
+    "default_sets": 2,
+    "default_reps": "12 reps",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "scapular stabilizers",
+        "traps"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

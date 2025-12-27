@@ -1,0 +1,16 @@
+{
+    "id": "pendulum_swings_001",
+    "name": "Pendulum Swings",
+    "description": "Bend forward, let one arm hang, swing it in circles and lines. Classic rehab move for shoulder mobility. Just let gravity do the work!",
+    "default_sets": 1,
+    "default_reps": "10 circles each direction per arm",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "rotator cuff",
+        "joint capsule"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

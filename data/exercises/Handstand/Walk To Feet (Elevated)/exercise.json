@@ -1,0 +1,16 @@
+{
+    "id": "walk_to_feet_elevated_001",
+    "name": "Walk To Feet (Elevated)",
+    "description": "Walk feet up onto a box or chair. More challenging because your shoulders are carrying more load. Level up!",
+    "default_sets": 2,
+    "default_reps": "3 repeats",
+    "difficulty": "intermediate",
+    "equipment": "box or chair",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

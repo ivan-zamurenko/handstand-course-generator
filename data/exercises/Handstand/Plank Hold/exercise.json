@@ -1,0 +1,16 @@
+{
+    "id": "plank_hold_001",
+    "name": "Plank Hold",
+    "description": "Hold that plank - straight body line from head to heels! Shoulders over wrists, core tight. This is your foundation for everything inverted.",
+    "default_sets": 2,
+    "default_reps": "15 seconds",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "shoulders",
+        "abs"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

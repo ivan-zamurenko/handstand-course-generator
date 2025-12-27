@@ -1,0 +1,16 @@
+{
+    "id": "fire_hydrant_001",
+    "name": "Fire Hydrant",
+    "description": "On all fours, lift leg out to the side. Like a dog at a fire hydrant! Glutes and hip abductors getting stronger.",
+    "default_sets": 1,
+    "default_reps": "10 repeats each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "glutes",
+        "hip abductors",
+        "hip stability"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

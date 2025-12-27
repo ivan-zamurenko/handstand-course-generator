@@ -1,0 +1,16 @@
+{
+    "id": "butt_kicks_001",
+    "name": "Butt Kicks",
+    "description": "Jog in place and kick your heels back toward your butt! Quick and snappy. Feel those hamstrings wake up. Don't be lazy with it - really try to tap your glutes!",
+    "default_sets": 1,
+    "default_reps": "45 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "glutes",
+        "cardiovascular"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

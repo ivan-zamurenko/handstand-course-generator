@@ -1,0 +1,15 @@
+{
+    "id": "side_waving_001",
+    "name": "Side Waving",
+    "description": "On all fours, rock side to side over your wrists. Your wrists need to be strong in all directions for handstands. This is how you build it!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "wrists",
+        "forearms"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

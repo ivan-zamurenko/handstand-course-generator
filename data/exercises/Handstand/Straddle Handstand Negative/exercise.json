@@ -1,0 +1,17 @@
+{
+    "id": "straddle_negative_001",
+    "name": "Straddle Handstand Negative",
+    "description": "Lower down from handstand with legs wide in a straddle. Intermediate press progression. Feel that shoulder burn!",
+    "default_sets": 2,
+    "default_reps": "3 reps",
+    "difficulty": "intermediate",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexibility",
+        "adductors"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

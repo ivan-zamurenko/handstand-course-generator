@@ -1,0 +1,16 @@
+{
+    "id": "handstand_wall_hold_away_001",
+    "name": "Handstand Hold (Stomach to Wall)",
+    "description": "Walk up with stomach facing wall. More challenging than back-to-wall - closer to freestanding balance!",
+    "default_sets": 3,
+    "default_reps": "30-45 seconds",
+    "difficulty": "intermediate",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

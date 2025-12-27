@@ -1,0 +1,17 @@
+{
+    "id": "thread_the_needle_001",
+    "name": "Thread the Needle",
+    "description": "On all fours, reach one arm under your body and through to the other side. Perfect for thoracic and shoulder rotation! Feel that twist!",
+    "default_sets": 1,
+    "default_reps": "8 reps each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "thoracic spine",
+        "upper back",
+        "rotator cuff"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

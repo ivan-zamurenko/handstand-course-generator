@@ -1,0 +1,16 @@
+{
+    "id": "side_shuffles_001",
+    "name": "Side Shuffles",
+    "description": "Get in an athletic stance and shuffle laterally. Stay low! This builds lateral movement patterns that most people neglect. Feel those outer thighs work!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "legs",
+        "hip abductors",
+        "cardiovascular"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

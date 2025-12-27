@@ -1,0 +1,16 @@
+{
+    "id": "russian_twists_001",
+    "name": "Russian Twists",
+    "description": "Sit with feet elevated, twist torso side to side. Obliques and rotational power! Keep that chest up.",
+    "default_sets": 2,
+    "default_reps": "20 twists",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "obliques",
+        "core",
+        "rotation"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

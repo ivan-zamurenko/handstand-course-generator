@@ -1,0 +1,17 @@
+{
+    "id": "handstand_line_builder_001",
+    "name": "Handstand Line Builder",
+    "description": "Against the wall, practice that perfect handstand line - wrists, shoulders, hips all stacked. Body awareness is everything! Feel what straight feels like.",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "advanced",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "body alignment",
+        "proprioception"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "rocking_boat_001",
+    "name": "Rocking Boat",
+    "description": "Sit in a V-shape with legs and upper body off the ground. Now rock back and forth. Your abs are gonna be screaming, but hold that V! Balance and core in one crazy package.",
+    "default_sets": 1,
+    "default_reps": "20 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "hip flexors",
+        "balance"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

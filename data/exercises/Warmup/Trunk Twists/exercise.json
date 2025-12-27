@@ -1,0 +1,16 @@
+{
+    "id": "trunk_twists_001",
+    "name": "Trunk Twists",
+    "description": "Hands behind your head, twist your torso side to side. Feel those obliques wake up! Great for spine mobility and getting ready for rotational movements.",
+    "default_sets": 1,
+    "default_reps": "15 twists",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "obliques",
+        "core",
+        "spine rotation"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

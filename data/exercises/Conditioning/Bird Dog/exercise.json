@@ -1,0 +1,17 @@
+{
+    "id": "bird_dog_001",
+    "name": "Bird Dog",
+    "description": "On all fours, extend opposite arm and leg. Posterior chain and balance! Don't let your hips rotate.",
+    "default_sets": 2,
+    "default_reps": "10 repeats each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "glutes",
+        "core",
+        "balance"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

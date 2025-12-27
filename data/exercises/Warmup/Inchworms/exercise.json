@@ -1,0 +1,16 @@
+{
+    "id": "inchworms_001",
+    "name": "Inchworms",
+    "description": "Bend down, walk your hands out to a plank, then walk your feet back to your hands. Full-body movement that stretches hamstrings and builds shoulder strength. Classic!",
+    "default_sets": 1,
+    "default_reps": "8 reps",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "shoulders",
+        "core"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

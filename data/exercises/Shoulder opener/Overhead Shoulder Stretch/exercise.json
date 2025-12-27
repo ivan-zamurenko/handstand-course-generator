@@ -1,0 +1,16 @@
+{
+    "id": "overhead_shoulder_stretch_001",
+    "name": "Overhead Shoulder Stretch",
+    "description": "Reach one arm overhead, bend the elbow behind your head, gently pull with the other hand. Stretches triceps and shoulders - hold it!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "triceps",
+        "lats"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "single_leg_balance_001",
+    "name": "Single Leg Balance",
+    "description": "Stand on one leg and hold it! Seems easy but it builds ankle stability and proprioception. Challenge yourself - close your eyes!",
+    "default_sets": 2,
+    "default_reps": "30 seconds each leg",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "ankles",
+        "balance",
+        "proprioception"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

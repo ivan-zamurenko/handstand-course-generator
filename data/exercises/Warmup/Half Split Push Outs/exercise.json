@@ -1,0 +1,15 @@
+{
+    "id": "half_split_push_outs_001",
+    "name": "Half Split Push Outs",
+    "description": "Get in a half-split position and rock your hips forward and back. Dynamic hamstring stretching at its finest. Push out, feel the stretch, come back. Repeat!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

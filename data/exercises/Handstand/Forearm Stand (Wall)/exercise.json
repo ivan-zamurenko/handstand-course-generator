@@ -1,0 +1,16 @@
+{
+    "id": "forearm_stand_001",
+    "name": "Forearm Stand (Wall)",
+    "description": "Handstand but on your forearms! Lower center of gravity makes balance easier. Great for building confidence upside down!",
+    "default_sets": 2,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "wall, yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "forearms"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

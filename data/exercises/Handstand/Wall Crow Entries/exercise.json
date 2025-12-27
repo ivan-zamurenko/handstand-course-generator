@@ -1,0 +1,16 @@
+{
+    "id": "wall_crow_entries_001",
+    "name": "Wall Crow Entries",
+    "description": "Practice getting into Wall Crow over and over. Building that muscle memory and confidence for handstand entries!",
+    "default_sets": 2,
+    "default_reps": "5 repeats",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "coordination"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

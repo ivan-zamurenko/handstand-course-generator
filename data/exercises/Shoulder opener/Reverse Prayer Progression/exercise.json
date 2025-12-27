@@ -1,0 +1,17 @@
+{
+    "id": "reverse_prayer_progression_001",
+    "name": "Reverse Prayer Progression",
+    "description": "Bring hands behind back, press palms together with fingers up. Advanced shoulder mobility - use modifications if needed!",
+    "default_sets": 1,
+    "default_reps": "20 seconds hold",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "forearms",
+        "wrists",
+        "internal rotators"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

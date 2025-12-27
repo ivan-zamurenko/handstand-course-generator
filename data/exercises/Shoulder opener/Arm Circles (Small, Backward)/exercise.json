@@ -1,0 +1,16 @@
+{
+    "id": "arm_circles_small_backward_001",
+    "name": "Arm Circles (Small, Backward)",
+    "description": "Same thing but backward! Hits different parts of your shoulders. Do both directions!",
+    "default_sets": 1,
+    "default_reps": "15 circles",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "posterior deltoids",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

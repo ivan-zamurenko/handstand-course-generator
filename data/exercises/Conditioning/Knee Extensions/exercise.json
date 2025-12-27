@@ -1,0 +1,16 @@
+{
+    "id": "knee_extensions_001",
+    "name": "Knee Extensions",
+    "description": "Sit with one leg bent, lift and extend the knee, lower. Quad strength and knee stability in one!",
+    "default_sets": 1,
+    "default_reps": "15 repeats each leg",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "quads",
+        "hip flexors",
+        "knee stability"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

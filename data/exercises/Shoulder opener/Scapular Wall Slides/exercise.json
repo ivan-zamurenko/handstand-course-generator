@@ -1,0 +1,16 @@
+{
+    "id": "scapular_wall_slides_001",
+    "name": "Scapular Wall Slides",
+    "description": "Face the wall, hands on it, push yourself away by moving your shoulder blades. Serratus anterior activation!",
+    "default_sets": 2,
+    "default_reps": "12 reps",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "scapular stabilizers",
+        "serratus anterior",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

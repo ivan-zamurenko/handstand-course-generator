@@ -1,0 +1,15 @@
+{
+    "id": "conditioning_001",
+    "name": "Plank",
+    "description": "Hold that push-up position! Straight line from head to heels, shoulders over wrists, core TIGHT. Time under tension is everything!",
+    "default_sets": 3,
+    "default_reps": "60 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

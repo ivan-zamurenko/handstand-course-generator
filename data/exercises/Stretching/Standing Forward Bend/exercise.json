@@ -1,0 +1,17 @@
+{
+    "id": "standing_forward_bend_001",
+    "name": "Standing Forward Bend",
+    "description": "Fold forward toward toes, let head hang. Entire posterior chain stretch. Let gravity pull you down!",
+    "default_sets": 2,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "calves",
+        "lower back",
+        "spine"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

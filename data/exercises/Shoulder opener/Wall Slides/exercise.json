@@ -1,0 +1,16 @@
+{
+    "id": "wall_slides_001",
+    "name": "Wall Slides",
+    "description": "Back against the wall, slide your arms up and down while maintaining contact. Perfect for fixing rounded shoulders and improving posture!",
+    "default_sets": 2,
+    "default_reps": "10 reps",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "scapular stabilizers",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

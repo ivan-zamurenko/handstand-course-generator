@@ -1,0 +1,16 @@
+{
+    "id": "tripod_headstand_001",
+    "name": "Tripod Headstand",
+    "description": "Head and hands form a triangle, knees rest on elbows. Beginner-friendly inversion that builds confidence!",
+    "default_sets": 2,
+    "default_reps": "20 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

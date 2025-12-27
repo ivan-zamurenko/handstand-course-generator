@@ -1,0 +1,16 @@
+{
+    "id": "doorway_stretch_001",
+    "name": "Doorway Stretch",
+    "description": "Stand in a doorway, hands on the frame, step forward. Classic chest and anterior shoulder opener that never gets old!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "doorway",
+    "primary_muscle_groups": [
+        "chest",
+        "anterior deltoids",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

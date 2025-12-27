@@ -1,0 +1,16 @@
+{
+    "id": "tuck_l_sit_001",
+    "name": "Tuck L-Sit",
+    "description": "Pull knees to chest and lift everything off the ground. Beginner L-sit progression that still challenges your core and shoulders!",
+    "default_sets": 3,
+    "default_reps": "15 seconds",
+    "difficulty": "beginner",
+    "equipment": "floor",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "core",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "half_split_001",
+    "name": "Half-Split",
+    "description": "Straighten front leg in lunge, fold forward. Classic hamstring stretch! Keep that back straight.",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "calves",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

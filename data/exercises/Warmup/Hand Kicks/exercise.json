@@ -1,0 +1,16 @@
+{
+    "id": "hand_kicks_001",
+    "name": "Hand Kicks",
+    "description": "Walk forward and kick one leg up while reaching your opposite hand toward that foot. It's like a walking hamstring stretch with a coordination challenge. Keep it controlled!",
+    "default_sets": 1,
+    "default_reps": "20 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "hip flexors",
+        "coordination"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

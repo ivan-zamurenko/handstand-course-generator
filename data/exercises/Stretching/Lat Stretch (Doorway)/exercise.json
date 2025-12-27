@@ -1,0 +1,16 @@
+{
+    "id": "lat_stretch_doorway_001",
+    "name": "Lat Stretch (Doorway)",
+    "description": "Hold doorframe overhead, lean away. Deep lat and side body stretch. Feel that lengthening!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "doorframe",
+    "primary_muscle_groups": [
+        "lats",
+        "obliques",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

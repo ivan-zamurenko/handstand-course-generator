@@ -1,0 +1,16 @@
+{
+    "id": "half_wood_chopper_001",
+    "name": "Half Wood Chopper",
+    "description": "Stand wide, clasp your hands together and swing them diagonally like you're chopping wood. Rotate through your core! This wakes up your obliques and spine rotation.",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "obliques",
+        "core",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

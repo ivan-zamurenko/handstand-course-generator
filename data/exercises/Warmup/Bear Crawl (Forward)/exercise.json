@@ -1,0 +1,16 @@
+{
+    "id": "bear_crawl_forward_001",
+    "name": "Bear Crawl (Forward)",
+    "description": "Get on all fours, lift those knees, and crawl! Opposite hand and foot move together. It's primal, it's effective, and it fires up everything!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "full body",
+        "core",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

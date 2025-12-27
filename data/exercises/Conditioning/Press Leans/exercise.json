@@ -1,0 +1,16 @@
+{
+    "id": "press_leans_001",
+    "name": "Press Leans",
+    "description": "From pike, lean shoulders way forward over hands. KEY exercise for learning press handstands. Feel that shoulder load!",
+    "default_sets": 2,
+    "default_reps": "5 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

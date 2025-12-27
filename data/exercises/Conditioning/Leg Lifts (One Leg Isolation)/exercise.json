@@ -1,0 +1,16 @@
+{
+    "id": "leg_lifts_one_leg_001",
+    "name": "Leg Lifts (One Leg Isolation)",
+    "description": "Face down, lift one leg at a time. Isolates glutes and hamstrings unilaterally. Control is key!",
+    "default_sets": 1,
+    "default_reps": "10 repeats each leg",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "glutes",
+        "hamstrings",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

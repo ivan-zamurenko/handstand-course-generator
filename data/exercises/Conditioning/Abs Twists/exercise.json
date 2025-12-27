@@ -1,0 +1,16 @@
+{
+    "id": "abs_twists_001",
+    "name": "Abs Twists",
+    "description": "Sit with legs elevated, lean back, twist side to side touching hands to ground. Obliques and rotational strength!",
+    "default_sets": 1,
+    "default_reps": "20 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "obliques",
+        "core",
+        "abs"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

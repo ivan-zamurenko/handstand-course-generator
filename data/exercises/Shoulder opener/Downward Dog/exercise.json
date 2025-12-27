@@ -1,0 +1,17 @@
+{
+    "id": "downward_dog_001",
+    "name": "Downward Dog",
+    "description": "Make an inverted V with your body - hands and feet on the ground, hips high. Classic yoga pose that opens everything - shoulders, hamstrings, calves!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "hamstrings",
+        "calves",
+        "back"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

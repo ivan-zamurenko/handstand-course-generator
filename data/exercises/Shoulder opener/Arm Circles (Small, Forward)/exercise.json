@@ -1,0 +1,16 @@
+{
+    "id": "arm_circles_small_forward_001",
+    "name": "Arm Circles (Small, Forward)",
+    "description": "Arms out to sides, make small controlled circles forward. Gentle shoulder warm-up that gets the blood flowing!",
+    "default_sets": 1,
+    "default_reps": "15 circles",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "deltoids",
+        "rotator cuff"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

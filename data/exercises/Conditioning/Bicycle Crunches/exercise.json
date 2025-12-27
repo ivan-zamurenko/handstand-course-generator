@@ -1,0 +1,16 @@
+{
+    "id": "bicycle_crunches_001",
+    "name": "Bicycle Crunches",
+    "description": "Opposite elbow to knee in cycling motion. Classic oblique exercise that works! Keep the movement controlled.",
+    "default_sets": 2,
+    "default_reps": "20 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "obliques",
+        "abs",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

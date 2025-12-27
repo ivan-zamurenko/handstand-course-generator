@@ -1,0 +1,16 @@
+{
+    "id": "leg_swings_001",
+    "name": "Leg Swings (Standing)",
+    "description": "Hold the wall for balance and swing one leg forward and back like a pendulum. Controlled, but with momentum. This opens up your hip flexors and hamstrings dynamically!",
+    "default_sets": 1,
+    "default_reps": "8 repeats each leg",
+    "difficulty": "beginner",
+    "equipment": "wall or bar",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "hamstrings",
+        "glutes"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

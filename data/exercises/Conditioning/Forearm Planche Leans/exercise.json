@@ -1,0 +1,16 @@
+{
+    "id": "forearm_planche_leans_001",
+    "name": "Forearm Planche Leans",
+    "description": "Same thing but on forearms. Slightly easier angle for building strength progressively. Still burns though!",
+    "default_sets": 2,
+    "default_reps": "4 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "chest"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

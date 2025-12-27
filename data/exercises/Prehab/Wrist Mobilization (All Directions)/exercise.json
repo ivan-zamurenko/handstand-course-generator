@@ -1,0 +1,15 @@
+{
+    "id": "wrist_mobilization_all_directions_001",
+    "name": "Wrist Mobilization (All Directions)",
+    "description": "Move those wrists through EVERY possible direction - up, down, side to side, circles. Complete wrist prep before loading them up!",
+    "default_sets": 1,
+    "default_reps": "10 repeats each direction",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "wrists",
+        "forearms"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

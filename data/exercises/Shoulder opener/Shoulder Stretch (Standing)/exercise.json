@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_stretch_standing_001",
+    "name": "Shoulder Stretch (Standing)",
+    "description": "Pull one arm across your body with the other hand. Hold and feel that shoulder and upper back stretch. Perfect after being at a desk all day!",
+    "default_sets": 1,
+    "default_reps": "15 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "upper back",
+        "rear deltoids"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

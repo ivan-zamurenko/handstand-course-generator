@@ -1,0 +1,16 @@
+{
+    "id": "tuck_handstand_negative_001",
+    "name": "Tuck Handstand Negative",
+    "description": "From wall handstand, tuck your knees to chest, slowly lower. Easier than the full version but still challenging!",
+    "default_sets": 2,
+    "default_reps": "4 reps",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

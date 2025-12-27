@@ -1,0 +1,16 @@
+{
+    "id": "conditioning_002",
+    "name": "Push-ups",
+    "description": "Classic upper body strength! Lower down with control, push back up. Keep that core tight throughout. Quality over quantity!",
+    "default_sets": 3,
+    "default_reps": "10-15 reps",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "chest",
+        "shoulders",
+        "triceps"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

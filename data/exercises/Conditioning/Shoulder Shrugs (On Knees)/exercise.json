@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_shrugs_knees_001",
+    "name": "Shoulder Shrugs (On Knees)",
+    "description": "On all fours, elevate and depress your shoulders while holding position. Scapular strength for handstands - don't skip this!",
+    "default_sets": 2,
+    "default_reps": "10 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "scapular stabilizers",
+        "shoulders",
+        "serratus anterior"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

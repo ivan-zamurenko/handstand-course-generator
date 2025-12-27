@@ -1,0 +1,17 @@
+{
+    "id": "superman_001",
+    "name": "Superman",
+    "description": "Lie face down, lift everything - arms, chest, legs! Hold it! You're Superman flying through the air. Great for your entire posterior chain.",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "glutes",
+        "upper back",
+        "posterior chain"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

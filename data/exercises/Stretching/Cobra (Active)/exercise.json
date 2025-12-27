@@ -1,0 +1,17 @@
+{
+    "id": "cobra_active_001",
+    "name": "Cobra (Active)",
+    "description": "From sphinx, straighten arms to lift chest higher. Press into the ground actively! Deeper spinal extension.",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "spine",
+        "chest",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

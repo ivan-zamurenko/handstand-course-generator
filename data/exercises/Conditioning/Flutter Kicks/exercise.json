@@ -1,0 +1,16 @@
+{
+    "id": "flutter_kicks_001",
+    "name": "Flutter Kicks",
+    "description": "Legs elevated, make small alternating kicks. Lower ab endurance builder. Your core is gonna be on fire!",
+    "default_sets": 1,
+    "default_reps": "25 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower abs",
+        "hip flexors",
+        "core"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

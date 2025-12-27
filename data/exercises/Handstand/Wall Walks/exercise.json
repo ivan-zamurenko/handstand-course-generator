@@ -1,0 +1,17 @@
+{
+    "id": "wall_walks_001",
+    "name": "Wall Walks",
+    "description": "Start in plank, walk feet up wall while walking hands toward it. Full body strength builder that's harder than it looks!",
+    "default_sets": 2,
+    "default_reps": "3-5 walks",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "legs",
+        "full body"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

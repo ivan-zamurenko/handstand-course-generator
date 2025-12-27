@@ -1,0 +1,16 @@
+{
+    "id": "sphinx_active_001",
+    "name": "Sphinx (Active)",
+    "description": "Face down, prop on forearms, lift chest. Actively engage your back! Excellent for spine extension.",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "spine extensors",
+        "abs"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

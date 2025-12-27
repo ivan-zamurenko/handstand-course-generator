@@ -1,0 +1,16 @@
+{
+    "id": "towel_slides_001",
+    "name": "Towel Slides",
+    "description": "On a smooth floor, hands on towels, slide them forward and back or out to sides. Low-impact dynamic shoulder mobility!",
+    "default_sets": 2,
+    "default_reps": "10 reps",
+    "difficulty": "beginner",
+    "equipment": "towels, smooth floor",
+    "primary_muscle_groups": [
+        "shoulders",
+        "lats",
+        "chest"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

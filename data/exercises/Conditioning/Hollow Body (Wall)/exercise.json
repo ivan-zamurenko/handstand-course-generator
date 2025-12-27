@@ -1,0 +1,16 @@
+{
+    "id": "hollow_body_wall_001",
+    "name": "Hollow Body (Wall)",
+    "description": "Lie down, arms overhead against wall, lift shoulders and legs. Advanced hollow body that's way harder! Press that lower back down!",
+    "default_sets": 2,
+    "default_reps": "10 seconds",
+    "difficulty": "advanced",
+    "equipment": "wall, yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "abs",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

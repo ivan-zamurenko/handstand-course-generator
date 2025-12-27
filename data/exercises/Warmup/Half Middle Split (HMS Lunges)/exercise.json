@@ -1,0 +1,16 @@
+{
+    "id": "half_middle_split_001",
+    "name": "Half Middle Split (HMS Lunges)",
+    "description": "Get those feet wide - real wide! Shift your weight side to side, bending one knee while keeping the other leg straight. Feel that deep stretch in your inner thighs. This is gold for hip mobility!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "adductors",
+        "hip flexors",
+        "quads"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

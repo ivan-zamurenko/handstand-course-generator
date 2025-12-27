@@ -1,0 +1,16 @@
+{
+    "id": "tuck_press_practice_001",
+    "name": "Tuck Press Practice",
+    "description": "From squat, lean forward and lift your feet. Tucked press is the easiest press variation. Build toward this!",
+    "default_sets": 2,
+    "default_reps": "5 attempts",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

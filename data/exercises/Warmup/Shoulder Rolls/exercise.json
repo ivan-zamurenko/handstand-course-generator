@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_rolls_001",
+    "name": "Shoulder Rolls",
+    "description": "Roll those shoulders - big circles, forward and back. Simple but effective for loosening up all that shoulder tension. Do it slowly and feel every bit of it!",
+    "default_sets": 1,
+    "default_reps": "10 rolls each direction",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "upper back",
+        "traps"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "l_sit_parallettes_001",
+    "name": "L-Sit (Parallettes)",
+    "description": "L-sit on parallettes or blocks. The extra height makes it easier - great progression step toward the floor version!",
+    "default_sets": 3,
+    "default_reps": "12-20 seconds",
+    "difficulty": "beginner",
+    "equipment": "parallettes or yoga blocks",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "core",
+        "shoulders",
+        "triceps"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

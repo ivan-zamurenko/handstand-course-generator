@@ -1,0 +1,15 @@
+{
+    "id": "hamstring_stretch_001",
+    "name": "Hamstring Stretch (Lying Down)",
+    "description": "Lie on your back, lift one leg up, and pull it toward your chest. Use your hands or a strap. Breathe into it and feel those hamstrings lengthen. No bouncing - just steady pressure!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hamstrings",
+        "calves"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

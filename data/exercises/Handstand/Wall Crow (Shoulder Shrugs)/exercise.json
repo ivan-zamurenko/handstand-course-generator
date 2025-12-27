@@ -1,0 +1,16 @@
+{
+    "id": "wall_crow_shoulder_shrugs_001",
+    "name": "Wall Crow (Shoulder Shrugs)",
+    "description": "In Wall Crow, perform shoulder elevation and depression. Advanced scapular control that translates directly to handstand!",
+    "default_sets": 1,
+    "default_reps": "5 repeats",
+    "difficulty": "advanced",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "scapular stabilizers",
+        "traps"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

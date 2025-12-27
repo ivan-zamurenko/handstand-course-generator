@@ -1,0 +1,17 @@
+{
+    "id": "handstand_hops_001",
+    "name": "Handstand Hops",
+    "description": "In handstand, do small hops with your hands. Advanced balance and shoulder control! Feel that explosive strength.",
+    "default_sets": 2,
+    "default_reps": "8-10 hops",
+    "difficulty": "advanced",
+    "equipment": "wall optional",
+    "primary_muscle_groups": [
+        "shoulders",
+        "wrists",
+        "core",
+        "explosive strength"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

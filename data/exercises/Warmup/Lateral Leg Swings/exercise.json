@@ -1,0 +1,16 @@
+{
+    "id": "lateral_leg_swings_001",
+    "name": "Lateral Leg Swings",
+    "description": "Hold the wall, swing your leg side to side across your body. Hip mobility in the frontal plane - we don't do this enough! Go smooth and controlled.",
+    "default_sets": 1,
+    "default_reps": "10 swings each leg",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "hip abductors",
+        "hip adductors",
+        "hip mobility"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

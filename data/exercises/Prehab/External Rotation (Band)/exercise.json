@@ -1,0 +1,16 @@
+{
+    "id": "external_rotation_band_001",
+    "name": "External Rotation (Band)",
+    "description": "Elbow at your side at 90 degrees, rotate your forearm out against the band. Strengthens rotator cuff - injury prevention at its finest!",
+    "default_sets": 2,
+    "default_reps": "12 reps each arm",
+    "difficulty": "beginner",
+    "equipment": "resistance band",
+    "primary_muscle_groups": [
+        "rotator cuff",
+        "shoulders",
+        "infraspinatus"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

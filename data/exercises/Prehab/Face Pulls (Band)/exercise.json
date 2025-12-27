@@ -1,0 +1,16 @@
+{
+    "id": "face_pulls_band_001",
+    "name": "Face Pulls (Band)",
+    "description": "Pull that band to your face with elbows high. Absolutely crucial for shoulder health! Your rear delts and upper back will thank you.",
+    "default_sets": 2,
+    "default_reps": "12 reps",
+    "difficulty": "beginner",
+    "equipment": "resistance band",
+    "primary_muscle_groups": [
+        "rear deltoids",
+        "upper back",
+        "rotator cuff"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

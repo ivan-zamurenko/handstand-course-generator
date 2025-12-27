@@ -1,0 +1,16 @@
+{
+    "id": "forearm_stretch_flexors_001",
+    "name": "Forearm Stretch (Flexors)",
+    "description": "Arm extended, palm up, pull fingers back. Computer users, this is for you! Hold and breathe.",
+    "default_sets": 1,
+    "default_reps": "20 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "forearm flexors",
+        "wrists",
+        "hands"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

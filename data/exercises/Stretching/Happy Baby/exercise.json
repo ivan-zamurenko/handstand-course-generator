@@ -1,0 +1,16 @@
+{
+    "id": "happy_baby_001",
+    "name": "Happy Baby",
+    "description": "On back, grab feet, pull knees toward armpits. Opens hips and lower back. Rock side to side!",
+    "default_sets": 1,
+    "default_reps": "45 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hips",
+        "inner thighs",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

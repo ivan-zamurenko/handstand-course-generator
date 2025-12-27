@@ -1,0 +1,16 @@
+{
+    "id": "side_plank_001",
+    "name": "Side Plank",
+    "description": "Balance on one forearm and side of feet. Obliques and lateral core stability! Hold that straight line.",
+    "default_sets": 2,
+    "default_reps": "20-30 seconds each side",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "obliques",
+        "core",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "calf_stretch_wall_001",
+    "name": "Calf Stretch (Wall)",
+    "description": "Hands on wall, step back, keep heel down. Classic calf stretch! Hold and breathe.",
+    "default_sets": 1,
+    "default_reps": "30 seconds each leg",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "calves",
+        "gastrocnemius",
+        "soleus"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

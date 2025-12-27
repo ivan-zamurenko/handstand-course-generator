@@ -1,0 +1,16 @@
+{
+    "id": "supine_twist_001",
+    "name": "Supine Twist",
+    "description": "On back, drop knees to side, keep shoulders flat. Gentle spinal twist. Breathe into it!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "spine",
+        "obliques",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

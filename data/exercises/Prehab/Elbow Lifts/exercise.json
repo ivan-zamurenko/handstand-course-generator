@@ -1,0 +1,16 @@
+{
+    "id": "elbow_lifts_001",
+    "name": "Elbow Lifts",
+    "description": "Lie face down, hands behind your head. Squeeze your shoulder blades together and lift those elbows off the ground. Feels great and builds upper back strength!",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "upper back",
+        "rear deltoids",
+        "rhomboids"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

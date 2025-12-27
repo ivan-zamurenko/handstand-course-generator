@@ -1,0 +1,17 @@
+{
+    "id": "puppy_pose_001",
+    "name": "Puppy Pose",
+    "description": "On all fours, walk your hands forward and drop your chest toward the ground. Keep hips over knees! Deep shoulder and spine stretch that feels incredible.",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "chest",
+        "spine",
+        "lats"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

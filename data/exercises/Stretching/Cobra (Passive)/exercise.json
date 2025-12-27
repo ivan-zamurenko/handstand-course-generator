@@ -1,0 +1,16 @@
+{
+    "id": "cobra_passive_001",
+    "name": "Cobra (Passive)",
+    "description": "Hold cobra, relax into it. Focus on breathing deeply. Let that spine open up!",
+    "default_sets": 2,
+    "default_reps": "10-30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "abs",
+        "chest"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

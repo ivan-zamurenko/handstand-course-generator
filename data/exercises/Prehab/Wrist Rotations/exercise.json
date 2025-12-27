@@ -1,0 +1,14 @@
+{
+    "id": "wrist_rotations_001",
+    "name": "Wrist Rotations",
+    "description": "Make circles with your wrists - both directions! Seems simple but it's crucial prep for putting weight on your hands. Don't skip this!",
+    "default_sets": 2,
+    "default_reps": "10 rotations each direction",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "wrists"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

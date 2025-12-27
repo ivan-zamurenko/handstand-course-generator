@@ -1,0 +1,14 @@
+{
+    "id": "shoulder_002",
+    "name": "Shoulder Dislocates",
+    "description": "Hold a band or stick wide, rotate it from front to back over your head. Sounds scary, feels amazing! Opens up those shoulders big time.",
+    "default_sets": 3,
+    "default_reps": "10 reps",
+    "difficulty": "intermediate",
+    "equipment": "resistance band or stick",
+    "primary_muscle_groups": [
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

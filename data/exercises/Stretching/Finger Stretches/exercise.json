@@ -1,0 +1,16 @@
+{
+    "id": "finger_stretches_001",
+    "name": "Finger Stretches",
+    "description": "Spread fingers wide, make fists, pull each finger back. Hand relief for typists and climbers!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "fingers",
+        "hands",
+        "intrinsic hand muscles"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

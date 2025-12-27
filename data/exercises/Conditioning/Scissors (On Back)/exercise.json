@@ -1,0 +1,16 @@
+{
+    "id": "scissors_on_back_001",
+    "name": "Scissors (On Back)",
+    "description": "Legs raised, cross them in scissor motion. Lower abs and hip flexors working hard! Keep that lower back pressed down.",
+    "default_sets": 1,
+    "default_reps": "20 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower abs",
+        "hip flexors",
+        "core"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

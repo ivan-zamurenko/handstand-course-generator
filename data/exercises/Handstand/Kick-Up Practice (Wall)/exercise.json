@@ -1,0 +1,17 @@
+{
+    "id": "kick_up_practice_001",
+    "name": "Kick-Up Practice (Wall)",
+    "description": "Practice kicking up to wall handstand. Start gentle, focus on control not power. This is your entry skill!",
+    "default_sets": 3,
+    "default_reps": "5 attempts",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "coordination",
+        "momentum control"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

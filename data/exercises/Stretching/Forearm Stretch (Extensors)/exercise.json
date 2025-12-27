@@ -1,0 +1,16 @@
+{
+    "id": "forearm_stretch_extensors_001",
+    "name": "Forearm Stretch (Extensors)",
+    "description": "Arm extended, palm down, pull fingers down. Both sides of the forearm need stretching!",
+    "default_sets": 1,
+    "default_reps": "20 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "forearm extensors",
+        "wrists",
+        "hands"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

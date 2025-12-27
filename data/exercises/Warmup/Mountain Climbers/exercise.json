@@ -1,0 +1,17 @@
+{
+    "id": "mountain_climbers_001",
+    "name": "Mountain Climbers",
+    "description": "Get in that push-up position and start running! Drive your knees toward your chest, one at a time, fast as you can. This one's a full-body burner - core, shoulders, cardio, everything!",
+    "default_sets": 1,
+    "default_reps": "45 seconds",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "core",
+        "shoulders",
+        "hip flexors",
+        "cardiovascular"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

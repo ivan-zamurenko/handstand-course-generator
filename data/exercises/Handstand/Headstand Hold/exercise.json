@@ -1,0 +1,17 @@
+{
+    "id": "headstand_hold_001",
+    "name": "Headstand Hold",
+    "description": "Balance on your head and forearms. Gentler inversion than handstand but still builds spatial awareness and balance!",
+    "default_sets": 2,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "neck",
+        "shoulders",
+        "core",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

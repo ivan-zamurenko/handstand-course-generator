@@ -1,0 +1,16 @@
+{
+    "id": "up_down_waving_001",
+    "name": "Up & Down Waving",
+    "description": "On all fours, rock your weight forward and back over your wrists in a wave motion. Builds wrist strength and gets them ready for load!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "wrists",
+        "forearms",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

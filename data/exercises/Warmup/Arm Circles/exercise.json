@@ -1,0 +1,15 @@
+{
+    "id": "arm_circles_001",
+    "name": "Arm Circles",
+    "description": "Stand tall and stretch your arms out like airplane wings. Make smooth circles - start small, then go bigger! Do it forward, then backward. Your shoulders are gonna thank you later!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "deltoids"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

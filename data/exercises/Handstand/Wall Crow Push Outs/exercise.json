@@ -1,0 +1,16 @@
+{
+    "id": "wall_crow_push_outs_001",
+    "name": "Wall Crow Push Outs",
+    "description": "From Wall Crow, push your hips up toward handstand then come back down. This is press-to-handstand training!",
+    "default_sets": 2,
+    "default_reps": "3 repeats (with 3 sec hold)",
+    "difficulty": "intermediate",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "forward_shoulder_stretch_001",
+    "name": "Forward Shoulder Stretch",
+    "description": "Clasp hands behind your back, lift them up while bending forward. Opens your chest and anterior shoulders. Breathe into it!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "shoulders",
+        "chest",
+        "anterior deltoids"
+    ],
+    "image": null,
+    "category": "Shoulder opener"
+}

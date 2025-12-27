@@ -1,0 +1,17 @@
+{
+    "id": "wall_crow_to_handstand_001",
+    "name": "Wall Crow to Handstand",
+    "description": "Press from Wall Crow all the way up to handstand. The ultimate goal! Requires serious shoulder and core strength.",
+    "default_sets": 2,
+    "default_reps": "1 repeat",
+    "difficulty": "advanced",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexors",
+        "full body"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

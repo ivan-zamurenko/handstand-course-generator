@@ -1,0 +1,16 @@
+{
+    "id": "forehead_to_w_001",
+    "name": "Forehead to W",
+    "description": "Face down, arms overhead, lift them up and pull back into a W shape. Squeeze those shoulder blades! This is pure scapular control gold.",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "upper back",
+        "shoulders",
+        "scapular stabilizers"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

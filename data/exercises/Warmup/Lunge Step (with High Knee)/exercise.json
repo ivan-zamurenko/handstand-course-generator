@@ -1,0 +1,17 @@
+{
+    "id": "lunge_step_001",
+    "name": "Lunge Step (with High Knee)",
+    "description": "Step forward into a lunge, then explode up and drive that back knee high! This combines strength, balance, and a bit of cardio. Power through!",
+    "default_sets": 1,
+    "default_reps": "15 repeats",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "quads",
+        "glutes",
+        "hip flexors",
+        "coordination"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

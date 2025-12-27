@@ -1,0 +1,17 @@
+{
+    "id": "reverse_plank_001",
+    "name": "Reverse Plank",
+    "description": "Sit with legs extended, hands behind, lift hips. Opens chest and strengthens posterior chain. Underrated exercise!",
+    "default_sets": 2,
+    "default_reps": "20 seconds",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "glutes",
+        "hamstrings",
+        "posterior chain"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

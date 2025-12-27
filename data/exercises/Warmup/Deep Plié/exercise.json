@@ -1,0 +1,16 @@
+{
+    "id": "deep_plie_001",
+    "name": "Deep Plié",
+    "description": "Stand with feet wide, toes turned out. Drop down into a deep squat, keeping your chest lifted. Feel it in those inner thighs and glutes. Dancers do these for a reason - they work!",
+    "default_sets": 1,
+    "default_reps": "8 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "adductors",
+        "glutes",
+        "quads"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

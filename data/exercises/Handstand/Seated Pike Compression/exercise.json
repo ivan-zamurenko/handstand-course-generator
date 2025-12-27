@@ -1,0 +1,16 @@
+{
+    "id": "seated_pike_compression_001",
+    "name": "Seated Pike Compression",
+    "description": "Sit with legs extended, lean forward and pull your chest to thighs. Build that pike compression strength sitting down!",
+    "default_sets": 2,
+    "default_reps": "20 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "hamstrings",
+        "compression"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

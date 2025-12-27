@@ -1,0 +1,16 @@
+{
+    "id": "shoulder_blade_squeeze_001",
+    "name": "Shoulder Blade Squeeze",
+    "description": "Squeeze shoulder blades together and hold. Counters rounded shoulders from desk work!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "rhomboids",
+        "mid traps",
+        "scapular stabilizers"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

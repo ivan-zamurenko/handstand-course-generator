@@ -1,0 +1,16 @@
+{
+    "id": "it_band_stretch_001",
+    "name": "IT Band Stretch",
+    "description": "Cross one leg behind other, lean away. IT band and outer hip stretch. Runners need this!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "IT band",
+        "hip",
+        "outer thigh"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

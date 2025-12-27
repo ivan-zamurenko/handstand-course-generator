@@ -1,0 +1,16 @@
+{
+    "id": "finger_stretch_001",
+    "name": "Finger Stretch",
+    "description": "Gently press each finger back to stretch those finger flexors. Sounds minor but prevents finger strain and keeps your hands happy!",
+    "default_sets": 3,
+    "default_reps": "10 seconds each finger",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "fingers",
+        "forearms",
+        "wrists"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

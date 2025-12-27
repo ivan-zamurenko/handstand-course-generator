@@ -1,0 +1,17 @@
+{
+    "id": "world_greatest_stretch_001",
+    "name": "World's Greatest Stretch",
+    "description": "Low lunge with a twist and reach - this is THE mobility move! Opens hips, hamstrings, thoracic spine all at once. Do it right and you'll understand why it's called the greatest!",
+    "default_sets": 1,
+    "default_reps": "5 reps each side",
+    "difficulty": "intermediate",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "hamstrings",
+        "thoracic spine",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

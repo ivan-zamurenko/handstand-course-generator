@@ -1,0 +1,16 @@
+{
+    "id": "plank_shoulder_taps_001",
+    "name": "Plank Shoulder Taps",
+    "description": "In plank, tap shoulders with opposite hand. Anti-rotation core exercise. Don't let those hips twist!",
+    "default_sets": 2,
+    "default_reps": "16 taps total",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "shoulders",
+        "anti-rotation"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "cat_cow_001",
+    "name": "Cat-Cow",
+    "description": "Alternate between arching and rounding your spine. Classic spinal mobility flow. Move with your breath!",
+    "default_sets": 1,
+    "default_reps": "10 cycles",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "spine",
+        "back",
+        "abs"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

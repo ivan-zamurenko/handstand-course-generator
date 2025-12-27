@@ -1,0 +1,16 @@
+{
+    "id": "upper_trap_stretch_001",
+    "name": "Upper Trap Stretch",
+    "description": "Tilt head diagonally down, add gentle pressure. Targets those chronically tight upper traps!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "upper traps",
+        "neck",
+        "shoulders"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

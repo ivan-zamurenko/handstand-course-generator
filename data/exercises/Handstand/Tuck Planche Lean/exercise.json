@@ -1,0 +1,17 @@
+{
+    "id": "tuck_planche_lean_001",
+    "name": "Tuck Planche Lean",
+    "description": "Tuck position on hands, lean forward as far as possible. Straight-arm strength for advanced skills. This is next-level!",
+    "default_sets": 2,
+    "default_reps": "8-12 seconds",
+    "difficulty": "advanced",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "chest",
+        "core",
+        "straight-arm strength"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

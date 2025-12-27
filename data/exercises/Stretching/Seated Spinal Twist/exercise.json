@@ -1,0 +1,16 @@
+{
+    "id": "seated_spinal_twist_001",
+    "name": "Seated Spinal Twist",
+    "description": "Sit cross-legged, rotate torso. Spine mobility at its finest! Follow your gaze.",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "spine",
+        "obliques",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

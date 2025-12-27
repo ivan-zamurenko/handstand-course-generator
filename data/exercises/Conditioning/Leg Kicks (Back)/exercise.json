@@ -1,0 +1,16 @@
+{
+    "id": "leg_kicks_back_001",
+    "name": "Leg Kicks (Back)",
+    "description": "Standing, kick one leg straight back. Glute activation and balance combined. Squeeze at the top!",
+    "default_sets": 1,
+    "default_reps": "8 repeats each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "glutes",
+        "hamstrings",
+        "lower back"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

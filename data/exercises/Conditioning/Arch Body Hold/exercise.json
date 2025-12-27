@@ -1,0 +1,16 @@
+{
+    "id": "arch_body_hold_001",
+    "name": "Arch Body Hold",
+    "description": "Face down, lift chest and legs - create that arch! Opposite of hollow body, strengthens the posterior chain.",
+    "default_sets": 2,
+    "default_reps": "20 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "glutes",
+        "upper back"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

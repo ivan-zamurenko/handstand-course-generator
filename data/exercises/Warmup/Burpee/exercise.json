@@ -1,0 +1,17 @@
+{
+    "id": "burpee_001",
+    "name": "Burpee",
+    "description": "Drop down, chest to floor, pop up to plank, jump feet forward, explode up! It's the full-body cardio move everyone loves to hate. But man, does it work!",
+    "default_sets": 1,
+    "default_reps": "45 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "full body",
+        "cardiovascular",
+        "chest",
+        "legs"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

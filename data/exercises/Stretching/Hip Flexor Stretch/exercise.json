@@ -1,0 +1,16 @@
+{
+    "id": "hip_flexor_stretch_001",
+    "name": "Hip Flexor Stretch",
+    "description": "Kneel on one knee, push hips forward. THE stretch for desk workers with tight hip flexors. Hold it!",
+    "default_sets": 1,
+    "default_reps": "30 seconds each side",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "quads",
+        "psoas"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

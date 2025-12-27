@@ -1,0 +1,17 @@
+{
+    "id": "plank_skiing_001",
+    "name": "Plank Skiing",
+    "description": "Hold a plank and jump both feet side to side together, like you're skiing down a slope. Keep that core tight! It's harder than it looks - your obliques are gonna feel this!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "core",
+        "obliques",
+        "shoulders",
+        "cardiovascular"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

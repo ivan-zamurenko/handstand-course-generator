@@ -1,0 +1,16 @@
+{
+    "id": "wall_sits_001",
+    "name": "Wall Sits",
+    "description": "Back against wall, slide down to seated position with thighs parallel. Hold! Leg endurance builder. Embrace the burn!",
+    "default_sets": 2,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "quads",
+        "glutes",
+        "endurance"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

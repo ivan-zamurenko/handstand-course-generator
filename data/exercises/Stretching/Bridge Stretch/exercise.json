@@ -1,0 +1,16 @@
+{
+    "id": "stretching_004",
+    "name": "Bridge Stretch",
+    "description": "Lie on back, lift hips up high. Great for spine and shoulder flexibility! Push those hips toward the ceiling.",
+    "default_sets": 2,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "spine",
+        "shoulders",
+        "hips"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "sphinx_passive_001",
+    "name": "Sphinx (Passive)",
+    "description": "Same position but relax into the stretch. Let gravity do the work. Breathe and hold!",
+    "default_sets": 1,
+    "default_reps": "30 seconds",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "lower back",
+        "abs",
+        "spine"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

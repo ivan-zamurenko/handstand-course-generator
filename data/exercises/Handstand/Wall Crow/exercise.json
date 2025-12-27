@@ -1,0 +1,17 @@
+{
+    "id": "wall_crow_001",
+    "name": "Wall Crow",
+    "description": "Squat, hands down, knees on elbows, feet on wall. This is where you learn handstand balance fundamentals. Master this position!",
+    "default_sets": 3,
+    "default_reps": "8 seconds hold",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "arms",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

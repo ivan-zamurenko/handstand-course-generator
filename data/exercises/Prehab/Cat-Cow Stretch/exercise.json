@@ -1,0 +1,15 @@
+{
+    "id": "prehab_001",
+    "name": "Cat-Cow Stretch",
+    "description": "On all fours, arch your back like a cat (round it up!), then drop your belly and lift your head like a cow. Flow between them with your breath. Your spine will love you!",
+    "default_sets": 2,
+    "default_reps": "10 reps",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "spine",
+        "core"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

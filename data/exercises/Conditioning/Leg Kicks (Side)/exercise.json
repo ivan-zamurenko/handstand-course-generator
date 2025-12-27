@@ -1,0 +1,16 @@
+{
+    "id": "leg_kicks_side_001",
+    "name": "Leg Kicks (Side)",
+    "description": "Stand or lie on side, kick leg out to side. Hip abductors and lateral stability - most people need this!",
+    "default_sets": 1,
+    "default_reps": "8 repeats each side",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hip abductors",
+        "glutes",
+        "outer thighs"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

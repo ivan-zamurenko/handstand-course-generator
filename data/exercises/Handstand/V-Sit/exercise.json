@@ -1,0 +1,17 @@
+{
+    "id": "v_sit_001",
+    "name": "V-Sit",
+    "description": "Like L-sit but lift those legs higher to make a V. Advanced stuff! Core and hip flexor strength through the roof.",
+    "default_sets": 2,
+    "default_reps": "8-12 seconds",
+    "difficulty": "advanced",
+    "equipment": "floor",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "core",
+        "shoulders",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

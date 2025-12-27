@@ -1,0 +1,15 @@
+{
+    "id": "prayer_pose_reverse_001",
+    "name": "Prayer Pose (Reverse)",
+    "description": "Now flip it - press the backs of your hands together with fingers pointing down. Push up! Stretches those wrist extensors. Both sides need love!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "wrists",
+        "forearms"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

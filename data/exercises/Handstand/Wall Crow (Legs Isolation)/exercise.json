@@ -1,0 +1,17 @@
+{
+    "id": "wall_crow_legs_isolation_001",
+    "name": "Wall Crow (Legs Isolation)",
+    "description": "Lift BOTH legs off your elbows simultaneously. Insane control exercise! This is press-to-handstand territory.",
+    "default_sets": 1,
+    "default_reps": "1 repeat",
+    "difficulty": "advanced",
+    "equipment": "wall",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "hip flexors",
+        "balance"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

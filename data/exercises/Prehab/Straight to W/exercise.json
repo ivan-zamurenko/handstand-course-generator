@@ -1,0 +1,16 @@
+{
+    "id": "straight_to_w_001",
+    "name": "Straight to W",
+    "description": "Face down, arms straight overhead, lift and pull them back into a W. You're building shoulder and upper back strength while improving control. Pure gold!",
+    "default_sets": 2,
+    "default_reps": "8 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "upper back",
+        "shoulders",
+        "traps"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "hip_circles_001",
+    "name": "Hip Circles",
+    "description": "Stand on one leg (grab the wall if you need balance) and make big circles with your hip. Go clockwise, then counterclockwise. You're literally oiling up those hip joints!",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "hip flexors",
+        "glutes",
+        "hip mobility"
+    ],
+    "image": null,
+    "category": "Warmup"
+}

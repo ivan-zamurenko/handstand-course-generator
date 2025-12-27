@@ -1,0 +1,17 @@
+{
+    "id": "planche_leans_001",
+    "name": "Planche Leans",
+    "description": "Plank position, lean shoulders forward past wrists. Hold and return. Straight-arm pressing strength - advanced stuff!",
+    "default_sets": 2,
+    "default_reps": "3 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "shoulders",
+        "core",
+        "chest",
+        "anterior deltoids"
+    ],
+    "image": null,
+    "category": "Handstand"
+}

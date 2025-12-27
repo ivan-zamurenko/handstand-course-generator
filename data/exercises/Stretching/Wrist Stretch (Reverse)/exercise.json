@@ -1,0 +1,16 @@
+{
+    "id": "wrist_stretch_reverse_001",
+    "name": "Wrist Stretch (Reverse)",
+    "description": "Hands flat, fingers pointing back, lean back gently. Essential for computer work and handstand prep!",
+    "default_sets": 1,
+    "default_reps": "20-30 seconds",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "wrist flexors",
+        "forearms",
+        "wrists"
+    ],
+    "image": null,
+    "category": "Stretching"
+}

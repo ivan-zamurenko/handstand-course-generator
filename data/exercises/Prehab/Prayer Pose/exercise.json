@@ -1,0 +1,15 @@
+{
+    "id": "prayer_pose_001",
+    "name": "Prayer Pose",
+    "description": "Press your palms together in front of your chest, then push them down while keeping palms together. Feel that wrist flexor stretch! Essential for handstand prep.",
+    "default_sets": 1,
+    "default_reps": "10 repeats",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "primary_muscle_groups": [
+        "wrists",
+        "forearms"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "wrist_walks_001",
+    "name": "Wrist Walks",
+    "description": "Hands and knees, walk your hands in small circles. Hit all angles! Your wrists are getting mobile AND strong.",
+    "default_sets": 1,
+    "default_reps": "5 circles each direction",
+    "difficulty": "beginner",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "wrists",
+        "forearms"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

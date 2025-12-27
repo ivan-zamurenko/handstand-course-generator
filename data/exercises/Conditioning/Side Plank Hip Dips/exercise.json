@@ -1,0 +1,16 @@
+{
+    "id": "side_plank_hip_dips_001",
+    "name": "Side Plank Hip Dips",
+    "description": "In side plank, lower hip toward ground and lift back up. Dynamic oblique work that burns!",
+    "default_sets": 2,
+    "default_reps": "10 dips each side",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "obliques",
+        "core",
+        "quadratus lumborum"
+    ],
+    "image": null,
+    "category": "Conditioning"
+}

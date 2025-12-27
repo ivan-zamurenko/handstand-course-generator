@@ -1,0 +1,16 @@
+{
+    "id": "internal_rotation_band_001",
+    "name": "Internal Rotation (Band)",
+    "description": "Same setup, rotate forearm in against resistance. Balance both directions of rotation for healthy shoulders!",
+    "default_sets": 2,
+    "default_reps": "12 reps each arm",
+    "difficulty": "beginner",
+    "equipment": "resistance band",
+    "primary_muscle_groups": [
+        "rotator cuff",
+        "shoulders",
+        "subscapularis"
+    ],
+    "image": null,
+    "category": "Prehab"
+}

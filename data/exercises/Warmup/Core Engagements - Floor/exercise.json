@@ -1,0 +1,16 @@
+{
+    "id": "core_engagements_floor_001",
+    "name": "Core Engagements - Floor",
+    "description": "Lie down, press that lower back into the floor like you're trying to flatten it. Now lift your shoulders and legs a few inches off the ground. Hold it! This is your hollow body - master this and handstands become way easier.",
+    "default_sets": 2,
+    "default_reps": "4 repeats",
+    "difficulty": "intermediate",
+    "equipment": "yoga mat",
+    "primary_muscle_groups": [
+        "core",
+        "abs",
+        "hip flexors"
+    ],
+    "image": null,
+    "category": "Warmup"
+}
